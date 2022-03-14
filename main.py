@@ -1,6 +1,6 @@
 
 # Import libraries
-from turtle import left
+#from turtle import left
 import streamlit as st
 import pandas as pd
 import plotly as py
