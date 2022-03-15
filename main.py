@@ -51,7 +51,7 @@ with image_column:
 with text_column:
     st.header("College Cost Analysis")
 
-# --- Drop down to hide this s[ecific project ---
+# --- Drop down to hide this specific project ---
 
     st.subheader("Description:")
     st.write(
