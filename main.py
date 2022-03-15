@@ -1,6 +1,5 @@
 
 # Import libraries
-#from turtle import left
 import streamlit as st
 import pandas as pd
 import plotly as py
@@ -70,7 +69,6 @@ with text_column:
 st.subheader("Median Cost of Attendance Map")
 
 #---Insert Plotly graph ---
-#df = pd.read_csv('https://raw.githubusercontent.com/jonathjd/webapp/main/web_app_data.csv')
 df = pd.read_csv('https://raw.githubusercontent.com/jonathjd/webapp/main/cleaned_cost_data')
 df_display = pd.read_csv('https://raw.githubusercontent.com/jonathjd/webapp/main/web_app_data.csv')
 
