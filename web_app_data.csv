@@ -1,0 +1,2145 @@
+ID,Institution,State,Zip,City,Cost of Attendance,In-state Tuition
+144050,University of Chicago,IL,60637,Chicago,78555.0,60552.0
+115409,Harvey Mudd College,CA,91711,Claremont,76953.0,58660.0
+190150,Columbia University in the City of New York,NY,10027,New York,76907.0,61788.0
+215062,University of Pennsylvania,PA,19104-6303,Philadelphia,75303.0,57770.0
+198419,Duke University,NC,27708,Durham,75105.0,58031.0
+192040,Jewish Theological Seminary of America,NY,10027-4649,New York,75041.0,59112.0
+189097,Barnard College,NY,10027-6598,New York,74777.0,57668.0
+123961,University of Southern California,CA,90089,Los Angeles,74738.0,58195.0
+204501,Oberlin College,OH,44074,Oberlin,74636.0,56822.0
+147767,Northwestern University,IL,60208,Evanston,74630.0,56691.0
+179867,Washington University in St Louis,MO,63130-4899,Saint Louis,74361.0,55292.0
+182670,Dartmouth College,NH,03755-3529,Hanover,74359.0,57638.0
+228246,Southern Methodist University,TX,75275-0221,Dallas,74306.0,56560.0
+120254,Occidental College,CA,90041-3392,Los Angeles,74132.0,56576.0
+130590,Trinity College,CT,06106-3100,Hartford,74042.0,59050.0
+164465,Amherst College,MA,01002-5000,Amherst,73966.0,58640.0
+212911,Haverford College,PA,19041-1392,Haverford,73902.0,56952.0
+130794,Yale University,CT,06520,New Haven,73900.0,55500.0
+217156,Brown University,RI,02912,Providence,73892.0,58404.0
+190415,Cornell University,NY,14853,Ithaca,73879.0,57222.0
+131496,Georgetown University,DC,20057-0001,Washington,73840.0,56058.0
+247649,Landmark College,VT,05346,Putney,73821.0,59100.0
+112260,Claremont McKenna College,CA,91711-6400,Claremont,73810.0,56475.0
+123165,Scripps College,CA,91711-3905,Claremont,73756.0,57188.0
+166027,Harvard University,MA,02138,Cambridge,73485.0,51925.0
+168148,Tufts University,MA,02155-5555,Medford,73466.0,58578.0
+121257,Pitzer College,CA,91711-6101,Claremont,73300.0,56018.0
+165015,Brandeis University,MA,02454-9110,Waltham,73266.0,57561.0
+168342,Williams College,MA,01267,Williamstown,73200.0,57280.0
+230816,Bennington College,VT,05201-6003,Bennington,73133.0,55950.0
+209922,Reed College,OR,97202-8199,Portland,73128.0,58440.0
+160755,Tulane University of Louisiana,LA,70118-5698,New Orleans,73112.0,56800.0
+164924,Boston College,MA,02467,Chestnut Hill,73053.0,57910.0
+212577,Franklin and Marshall College,PA,17604-3003,Lancaster,73032.0,58800.0
+121150,Pepperdine University,CA,90263,Malibu,73002.0,55892.0
+189088,Bard College,NY,12504-5000,Annandale-On-Hudson,72789.0,56036.0
+211291,Bucknell University,PA,17837,Lewisburg,72750.0,58196.0
+197133,Vassar College,NY,12604,Poughkeepsie,72724.0,58770.0
+195030,University of Rochester,NY,14627-0011,Rochester,72721.0,56030.0
+167835,Smith College,MA,01063,Northampton,72701.0,54224.0
+130697,Wesleyan University,CT,06459,Middletown,72639.0,57334.0
+164988,Boston University,MA,02215,Boston,72517.0,55892.0
+195304,Sarah Lawrence College,NY,10708,Bronxville,72469.0,57520.0
+190099,Colgate University,NY,13346-1398,Hamilton,72275.0,58045.0
+211440,Carnegie Mellon University,PA,15213-3890,Pittsburgh,72265.0,57119.0
+168218,Wellesley College,MA,02481-8203,Wellesley,72199.0,56052.0
+110404,California Institute of Technology,CA,91125,Pasadena,72084.0,54600.0
+111948,Chapman University,CA,92866,Orange,72079.0,54924.0
+191630,Hobart William Smith Colleges,NY,14456,Geneva,72040.0,57030.0
+194824,Rensselaer Polytechnic Institute,NY,12180-3590,Troy,71998.0,55378.0
+230959,Middlebury College,VT,05753,Middlebury,71980.0,56216.0
+128902,Connecticut College,CT,06320-4196,New London,71970.0,56890.0
+441982,Franklin W Olin College of Engineering,MA,02492-1200,Needham,71950.0,55500.0
+121345,Pomona College,CA,91711-6319,Claremont,71906.0,54762.0
+162928,Johns Hopkins University,MD,21218-2688,Baltimore,71901.0,55350.0
+152080,University of Notre Dame,IN,46556,Notre Dame,71780.0,55553.0
+203535,Kenyon College,OH,43022,Gambier,71740.0,58570.0
+195526,Skidmore College,NY,12866,Saratoga Springs,71730.0,56322.0
+131469,George Washington University,DC,20052,Washington,71702.0,56935.0
+243744,Stanford University,CA,94305,Stanford,71587.0,53529.0
+126678,Colorado College,CO,80903,Colorado Springs,71561.0,58086.0
+199847,Wake Forest University,NC,27106,Winston-Salem,71560.0,55440.0
+122454,San Francisco Art Institute,CA,94133-2299,San Francisco,71486.0,46614.0
+193900,New York University,NY,10012-1091,New York,71467.0,53308.0
+111081,California Institute of the Arts,CA,91355-2397,Valencia,71382.0,51466.0
+122931,Santa Clara University,CA,95053,Santa Clara,71335.0,53634.0
+173258,Carleton College,MN,55057,Northfield,71325.0,57111.0
+213385,Lafayette College,PA,18042-1768,Easton,71270.0,55752.0
+161086,Colby College,ME,04901-8840,Waterville,71202.0,57280.0
+212009,Dickinson College,PA,17013-2896,Carlisle,71182.0,56523.0
+160977,Bates College,ME,04240,Lewiston,71168.0,55683.0
+216287,Swarthmore College,PA,19081,Swarthmore,71167.0,54656.0
+186131,Princeton University,NJ,08544-0070,Princeton,70900.0,52800.0
+211273,Bryn Mawr College,PA,19010,Bryn Mawr,70860.0,54440.0
+197221,Webb Institute,NY,11542-1398,Glen Cove,70825.0,51690.0
+196866,Union College,NY,12308-2311,Schenectady,70799.0,57324.0
+161004,Bowdoin College,ME,04011,Brunswick,70710.0,56350.0
+216597,Villanova University,PA,19085-1699,Villanova,70645.0,55280.0
+195216,St Lawrence University,NY,13617,Canton,70630.0,56765.0
+167358,Northeastern University,MA,02115-5005,Boston,70565.0,53506.0
+234207,Washington and Lee University,VA,24450-2116,Lexington,70500.0,54830.0
+167792,Bard College at Simon's Rock,MA,01230-9702,Great Barrington,70488.0,56901.0
+164580,Babson College,MA,02457-0310,Wellesley,70428.0,52608.0
+196413,Syracuse University,NY,13244,Syracuse,70390.0,53849.0
+217493,Rhode Island School of Design,RI,02903-2784,Providence,70323.0,52860.0
+166683,Massachusetts Institute of Technology,MA,02139-4307,Cambridge,70240.0,53790.0
+221999,Vanderbilt University,TN,37240,Nashville,70146.0,52070.0
+191515,Hamilton College,NY,13323,Clinton,69990.0,56530.0
+139658,Emory University,GA,30322,Atlanta,69502.0,53804.0
+193654,The New School,NY,10011-8871,New York,69260.0,50994.0
+123952,Southern California Institute of Architecture,CA,90013-1822,Los Angeles,69240.0,45892.0
+191241,Fordham University,NY,10458,Bronx,69118.0,54393.0
+166124,College of the Holy Cross,MA,01610-2395,Worcester,69093.0,54740.0
+212674,Gettysburg College,PA,17325,Gettysburg,68990.0,56390.0
+186867,Stevens Institute of Technology,NJ,07030-5991,Hoboken,68734.0,54014.0
+192712,Manhattan School of Music,NY,10027,New York,68686.0,49130.0
+173902,Macalester College,MN,55105-1899,Saint Paul,68627.0,56292.0
+198385,Davidson College,NC,28035,Davidson,68594.0,53166.0
+164739,Bentley University,MA,02452-4705,Waltham,68577.0,51830.0
+213543,Lehigh University,PA,18015,Bethlehem,68383.0,55240.0
+165662,Emerson College,MA,02116-4624,Boston,68350.0,49432.0
+237057,Whitman College,WA,99362,Walla Walla,68082.0,53820.0
+212054,Drexel University,PA,19104,Philadelphia,67955.0,54516.0
+245652,St. John's College,NM,87505-4599,Santa Fe,67916.0,35755.0
+153384,Grinnell College,IA,50112-1690,Grinnell,67902.0,54354.0
+216524,Ursinus College,PA,19426-1000,Collegeville,67809.0,53610.0
+168281,Wheaton College,MA,02766-2322,Norton,67765.0,54568.0
+194578,Pratt Institute-Main,NY,11205,Brooklyn,67703.0,53824.0
+152318,Rose-Hulman Institute of Technology,IN,47803-3920,Terre Haute,67697.0,51927.0
+167057,The New England Conservatory of Music,MA,02115-5018,Boston,67650.0,50460.0
+192110,The Juilliard School,NY,10023-6588,New York,67498.0,47370.0
+190044,Clarkson University,NY,13699,Potsdam,67441.0,51128.0
+122612,University of San Francisco,CA,94117-1080,San Francisco,67416.0,50282.0
+136774,Ringling College of Art and Design,FL,34234-5895,Sarasota,67325.0,47970.0
+163976,St. John's College,MD,21401,Annapolis,67325.0,35635.0
+201645,Case Western Reserve University,OH,44106,Cleveland,67277.0,50924.0
+135726,University of Miami,FL,33146,Coral Gables,67249.0,51930.0
+214175,Muhlenberg College,PA,18104,Allentown,67170.0,54600.0
+168421,Worcester Polytechnic Institute,MA,01609-2280,Worcester,67106.0,52320.0
+217402,Providence College,RI,02918-0001,Providence,67065.0,52438.0
+143048,School of the Art Institute of Chicago,IL,60603,Chicago,67058.0,50920.0
+166018,Hampshire College,MA,01002-5001,Amherst,67030.0,52068.0
+117946,Loyola Marymount University,CA,90045-2659,Los Angeles,67017.0,50683.0
+127060,University of Denver,CO,80208,Denver,66983.0,52515.0
+123554,Saint Mary's College of California,CA,94575,Moraga,66976.0,49188.0
+121691,University of Redlands,CA,92373-0999,Redlands,66962.0,50980.0
+202523,Denison University,OH,43023,Granville,66951.0,53830.0
+233374,University of Richmond,VA,23173,University of Richmond,66905.0,54690.0
+122506,San Francisco Conservatory of Music,CA,94102-6011,San Francisco,66900.0,47560.0
+122436,University of San Diego,CA,92110-2492,San Diego,66818.0,51186.0
+166939,Mount Holyoke College,MA,01075-1489,South Hadley,66419.0,52258.0
+209056,Lewis & Clark College,OR,97219-7899,Portland,66388.0,52780.0
+110370,California College of the Arts,CA,94107-2247,San Francisco,66348.0,51092.0
+136950,Rollins College,FL,32789-4499,Winter Park,66157.0,51700.0
+131159,American University,DC,20016-8001,Washington,66022.0,49889.0
+163046,Loyola University Maryland,MD,21210-2699,Baltimore,65832.0,50100.0
+236328,University of Puget Sound,WA,98416,Tacoma,65550.0,51740.0
+215105,The University of the Arts,PA,19102-4901,Philadelphia,65447.0,46680.0
+129242,Fairfield University,CT,06824-5195,Fairfield,65234.0,49830.0
+228875,Texas Christian University,TX,76129,Fort Worth,65234.0,49250.0
+218070,Furman University,SC,29613-6162,Greenville,65231.0,50844.0
+227757,Rice University,TX,77005-1827,Houston,65150.0,49112.0
+150400,DePauw University,IN,46135-1772,Greencastle,64924.0,51146.0
+113698,Dominican University of California,CA,94901-2298,San Rafael,64877.0,46940.0
+130226,Quinnipiac University,CT,06518,Hamden,64618.0,49280.0
+164216,Washington College,MD,21620-1438,Chestertown,64542.0,48814.0
+164748,Berklee College of Music,MA,02215,Boston,64436.0,45660.0
+163295,Maryland Institute College of Art,MD,21217-4134,Baltimore,64329.0,50330.0
+109651,Art Center College of Design,CA,91103,Pasadena,64316.0,44932.0
+120403,Otis College of Art and Design,CA,90045-3505,Los Angeles,64291.0,48380.0
+210401,Willamette University,OR,97301,Salem,64205.0,52290.0
+206589,The College of Wooster,OH,44691,Wooster,63962.0,52000.0
+131283,The Catholic University of America,DC,20064,Washington,63639.0,47746.0
+120883,University of the Pacific,CA,95211-0197,Stockton,63482.0,49588.0
+145725,Illinois Institute of Technology,IL,60616,Chicago,63212.0,49280.0
+107080,Hendrix College,AR,72032-3080,Conway,62983.0,47600.0
+210669,Allegheny College,PA,16335-3902,Meadville,62966.0,49260.0
+223232,Baylor University,TX,76798,Waco,62913.0,47364.0
+191968,Ithaca College,NY,14850-7002,Ithaca,62668.0,45274.0
+125727,Westmont College,CA,93108-1089,Santa Barbara,62578.0,46594.0
+221351,Rhodes College,TN,38112-1690,Memphis,62570.0,49198.0
+197151,School of Visual Arts,NY,10010,New York,62558.0,41900.0
+194310,Pace University,NY,10038-1598,New York,62268.0,46446.0
+216667,Washington & Jefferson College,PA,15301,Washington,62184.0,49338.0
+216278,Susquehanna University,PA,17870-1025,Selinsgrove,62177.0,49180.0
+232256,Hampden-Sydney College,VA,23943-0128,Hampden-Sydney,62174.0,46890.0
+190372,Cooper Union for the Advancement of Science and Art,NY,10003-7120,New York,62111.0,46700.0
+197708,Yeshiva University,NY,10033-3299,New York,62075.0,44900.0
+216852,Widener University,PA,19013-5792,Chester,61834.0,47328.0
+209825,University of Portland,OR,97203-5798,Portland,61562.0,47818.0
+170532,Kalamazoo College,MI,49006-3295,Kalamazoo,61531.0,50562.0
+133492,Eckerd College,FL,33711-4700,Saint Petersburg,61499.0,46096.0
+217165,Bryant University,RI,02917-1291,Smithfield,61499.0,45395.0
+238333,Beloit College,WI,53511-5595,Beloit,61369.0,51532.0
+162654,Goucher College,MD,21204-2794,Baltimore,61294.0,45250.0
+164368,Hult International Business School,MA,02141-1805,Cambridge,61250.0,42500.0
+215770,Saint Joseph's University,PA,19131-1395,Philadelphia,61227.0,46550.0
+486965,Hussian College-Los Angeles,CA,90017-2019,Los Angeles,61121.0,40100.0
+236595,Seattle University,WA,98122-4340,Seattle,61104.0,46590.0
+137546,Stetson University,FL,32723,DeLand,61050.0,47630.0
+215929,University of Scranton,PA,18510-4699,Scranton,60978.0,45790.0
+221519,The University of the South,TN,37383-1000,Sewanee,60950.0,46472.0
+145646,Illinois Wesleyan University,IL,61702-2900,Bloomington,60826.0,50028.0
+197197,Wagner College,NY,10301-4495,Staten Island,60792.0,48280.0
+204909,Ohio Wesleyan University,OH,43015-2370,Delaware,60662.0,47130.0
+174844,St Olaf College,MN,55057-1098,Northfield,60590.0,49710.0
+146481,Lake Forest College,IL,60045-2399,Lake Forest,60505.0,48424.0
+167996,Stonehill College,MA,02357-6110,Easton,60479.0,44420.0
+169983,Kettering University,MI,48504-6214,Flint,60427.0,44380.0
+191649,Hofstra University,NY,11549,Hempstead,60296.0,47510.0
+239017,Lawrence University,WI,54911,Appleton,60141.0,49122.0
+179159,Saint Louis University,MO,63103-2097,Saint Louis,60092.0,45424.0
+202073,Cleveland Institute of Music,OH,44106-1776,Cleveland,60075.0,42006.0
+213251,Juniata College,PA,16652-2196,Huntingdon,59863.0,47075.0
+218973,Wofford College,SC,29303-3663,Spartanburg,59862.0,45710.0
+233426,Roanoke College,VA,24153-3794,Salem,59836.0,45559.0
+210571,Albright College,PA,19612-5234,Reading,59836.0,25642.0
+212197,Elizabethtown College,PA,17022-2298,Elizabethtown,59835.0,32000.0
+150455,Earlham College,IN,47374-4095,Richmond,59782.0,47380.0
+130253,Sacred Heart University,CT,06825-1000,Fairfield,59679.0,43070.0
+231059,Saint Michael's College,VT,05439,Colchester,59582.0,47045.0
+209612,Pacific University,OR,97116,Forest Grove,59490.0,46402.0
+118693,Menlo College,CA,94027-4301,Atherton,59469.0,44305.0
+235316,Gonzaga University,WA,99258-0001,Spokane,59439.0,45140.0
+182634,Colby-Sawyer College,NH,03257-7835,New London,59436.0,43646.0
+227845,Saint Edward's University,TX,78704-6489,Austin,59409.0,47440.0
+168546,Albion College,MI,49224,Albion,59400.0,48275.0
+167598,Regis College,MA,02493-1571,Weston,59360.0,42650.0
+150163,Butler University,IN,46208,Indianapolis,59326.0,42360.0
+217536,Salve Regina University,RI,02840-4192,Newport,59263.0,41450.0
+202480,University of Dayton,OH,45469,Dayton,59230.0,44100.0
+230852,Champlain College,VT,05401,Burlington,59199.0,41828.0
+186283,Rider University,NJ,08648-3099,Lawrenceville,59199.0,44460.0
+146719,Loyola University Chicago,IL,60660,Chicago,59194.0,45543.0
+214971,Pennsylvania Academy of the Fine Arts,PA,19102-1510,Philadelphia,59184.0,40376.0
+191533,Hartwick College,NY,13820-4020,Oneonta,59031.0,46926.0
+183239,Saint Anselm College,NH,03102-1310,Manchester,58963.0,41800.0
+174747,College of Saint Benedict,MN,56374,Saint Joseph,58962.0,46460.0
+229267,Trinity University,TX,78212-7200,San Antonio,58840.0,44680.0
+214148,Moore College of Art and Design,PA,19103-1179,Philadelphia,58821.0,43082.0
+211088,Arcadia University,PA,19038-3295,Glenside,58762.0,44440.0
+133881,Florida Institute of Technology,FL,32901-6975,Melbourne,58726.0,42470.0
+209065,Linfield University-McMinnville Campus,OR,97128-6894,McMinnville,58594.0,44132.0
+125763,Whittier College,CA,90601,Whittier,58569.0,49514.0
+167783,Simmons University,MA,02115-5898,Boston,58539.0,42070.0
+237066,Whitworth University,WA,99251,Spokane,58434.0,44940.0
+110413,California Lutheran University,CA,91360-2787,Thousand Oaks,58375.0,44382.0
+216366,Thomas Jefferson University,PA,19107,Philadelphia,58295.0,41866.0
+146427,Knox College,IL,61401,Galesburg,58289.0,48168.0
+153162,Cornell College,IA,52314-1098,Mount Vernon,58286.0,43976.0
+236577,Seattle Pacific University,WA,98119-1997,Seattle,58207.0,45078.0
+174792,Saint Johns University,MN,56321,Collegeville,58170.0,46546.0
+230940,Marlboro College,VT,05344-0300,Marlboro,58017.0,27485.0
+117140,University of La Verne,CA,91750-4401,La Verne,58014.0,44550.0
+214157,Moravian College,PA,18018-6650,Bethlehem,57959.0,45312.0
+184694,Fairleigh Dickinson University-Florham Campus,NJ,07940,Madison,57951.0,44720.0
+235024,Cornish College of the Arts,WA,98121,Seattle,57913.0,33360.0
+202046,Cleveland Institute of Art,OH,44106-1710,Cleveland,57797.0,43305.0
+166850,Merrimack College,MA,01845,North Andover,57794.0,43340.0
+186584,Seton Hall University,NJ,07079-2697,South Orange,57634.0,43780.0
+230995,Norwich University,VT,05663-1035,Northfield,57596.0,41496.0
+165574,Dean College,MA,02038-1941,Franklin,57543.0,40414.0
+169442,College for Creative Studies,MI,48202,Detroit,57543.0,45815.0
+213507,Lebanon Valley College,PA,17003-1400,Annville,57495.0,44910.0
+207971,University of Tulsa,OK,74104-3189,Tulsa,57427.0,42723.0
+238476,Carthage College,WI,53140-1994,Kenosha,57402.0,45100.0
+239105,Marquette University,WI,53233,Milwaukee,57369.0,43936.0
+233301,Randolph College,VA,24503-1555,Lynchburg,57365.0,41131.0
+192819,Marist College,NY,12601,Poughkeepsie,57358.0,42500.0
+454184,The King's College,NY,10004,New York,57338.0,37690.0
+173647,Gustavus Adolphus College,MN,56082-1498,Saint Peter,57305.0,47040.0
+152673,Wabash College,IN,47933-0352,Crawfordsville,57250.0,44720.0
+156286,Bellarmine University,KY,40205-0671,Louisville,57178.0,42830.0
+164270,McDaniel College,MD,21157,Westminster,57031.0,44540.0
+195003,Rochester Institute of Technology,NY,14623-5603,Rochester,56977.0,45890.0
+140951,Savannah College of Art and Design,GA,31402-3146,Savannah,56930.0,38075.0
+153144,Coe College,IA,52402-5092,Cedar Rapids,56849.0,45580.0
+152390,Saint Mary's College,IN,46556,Notre Dame,56712.0,43900.0
+165671,Emmanuel College,MA,02115,Boston,56554.0,41448.0
+129941,University of New Haven,CT,06516-1916,West Haven,56527.0,40440.0
+115728,Holy Names University,CA,94619-1699,Oakland,56509.0,40102.0
+384254,Beacon College,FL,34748,Leesburg,56466.0,40880.0
+197230,Wells College,NY,13026-0500,Aurora,56464.0,30900.0
+163462,Mount St. Mary's University,MD,21727-7799,Emmitsburg,56451.0,42590.0
+184348,Drew University,NJ,07940,Madison,56387.0,40960.0
+165334,Clark University,MA,01610-1477,Worcester,56361.0,47200.0
+192864,Marymount Manhattan College,NY,10021-4597,New York,56343.0,35628.0
+175980,Millsaps College,MS,39210-0001,Jackson,56331.0,41314.0
+119173,Mount Saint Mary's University,CA,90049-1599,Los Angeles,56275.0,42792.0
+165529,Curry College,MA,02186-2395,Milton,56057.0,41230.0
+153269,Drake University,IA,50311-4505,Des Moines,56051.0,42840.0
+110097,Biola University,CA,90639-0001,La Mirada,55950.0,41976.0
+203368,John Carroll University,OH,44118-4538,University Heights,55899.0,42910.0
+228343,Southwestern University,TX,78626,Georgetown,55886.0,43560.0
+224323,University of Dallas,TX,75062-4736,Irving,55833.0,42680.0
+144740,DePaul University,IL,60604,Chicago,55832.0,41202.0
+188854,American Musical and Dramatic Academy,NY,10023,New York,55773.0,40444.0
+153834,Luther College,IA,52101-1045,Decorah,55756.0,44070.0
+195474,Siena College,NY,12211-1462,Loudonville,55706.0,39030.0
+102234,Spring Hill College,AL,36608-1791,Mobile,55695.0,40648.0
+192703,Manhattan College,NY,10471-4098,Riverdale,55655.0,44560.0
+213668,Lycoming College,PA,17701-5192,Williamsport,55487.0,41851.0
+168005,Suffolk University,MA,02108-3901,Boston,55385.0,40104.0
+161457,University of New England,ME,04005-9599,Biddeford,55340.0,38750.0
+211981,Delaware Valley University,PA,18901-2697,Doylestown,55268.0,40620.0
+156408,Centre College,KY,40422-1394,Danville,55253.0,43000.0
+236230,Pacific Lutheran University,WA,98447-0003,Tacoma,55217.0,43674.0
+232308,Hollins University,VA,24020,Roanoke,55101.0,40010.0
+120184,Notre Dame de Namur University,CA,94002-1908,Belmont,55099.0,36596.0
+129525,University of Hartford,CT,06117-1599,West Hartford,55078.0,42182.0
+198969,Methodist University,NC,28311-1420,Fayetteville,55072.0,34522.0
+164562,Assumption University,MA,01609-1296,Worcester,55068.0,42316.0
+162760,Hood College,MD,21701,Frederick,55039.0,41060.0
+164720,Becker College,MA,01609-2165,Worcester,54918.0,40150.0
+160959,College of the Atlantic,ME,04609,Bar Harbor,54918.0,43542.0
+132657,Lynn University,FL,33431-5598,Boca Raton,54854.0,38930.0
+174914,University of St Thomas,MN,55105-1078,Saint Paul,54814.0,45780.0
+233295,Randolph-Macon College,VA,23005-5505,Ashland,54811.0,42550.0
+185572,Monmouth University,NJ,07764-1898,West Long Branch,54747.0,39592.0
+222983,Austin College,TX,75090-4400,Sherman,54690.0,41155.0
+181002,Creighton University,NE,68178,Omaha,54561.0,41400.0
+239628,Ripon College,WI,54971-0248,Ripon,54416.0,45113.0
+461148,New York Film Academy,CA,91505,Burbank,54329.0,32542.0
+206622,Xavier University,OH,45207-1092,Cincinnati,54310.0,40450.0
+190983,Elmira College,NY,14901,Elmira,54265.0,35400.0
+158477,Centenary College of Louisiana,LA,71104,Shreveport,54202.0,37310.0
+182980,New England College,NH,03242,Henniker,54197.0,38670.0
+138600,Agnes Scott College,GA,30030-3770,Decatur,54064.0,42690.0
+143084,Augustana College,IL,61201-2296,Rock Island,54058.0,43610.0
+168591,Alma College,MI,48801-1599,Alma,54024.0,41398.0
+195809,St. John's University-New York,NY,11439,Queens,54012.0,43000.0
+212106,Duquesne University,PA,15282,Pittsburgh,53904.0,39992.0
+134945,Jacksonville University,FL,32211-3394,Jacksonville,53794.0,38140.0
+182795,Franklin Pierce University,NH,03461-0060,Rindge,53745.0,39100.0
+217518,Roger Williams University,RI,02809-2921,Bristol,53679.0,36978.0
+166391,Lasell University,MA,02466,Newton,53646.0,37000.0
+209603,Pacific Northwest College of Art,OR,97209-3404,Portland,53595.0,40375.0
+154527,Wartburg College,IA,50677-0903,Waverly,53503.0,43930.0
+177746,Kansas City Art Institute,MO,64111-1874,Kansas City,53443.0,39200.0
+159656,Loyola University New Orleans,LA,70118-6143,New Orleans,53278.0,40842.0
+166656,MCPHS University,MA,02115-5896,Boston,53266.0,34650.0
+133553,Embry-Riddle Aeronautical University-Daytona Beach,FL,32114-3900,Daytona Beach,53250.0,36868.0
+140696,Oglethorpe University,GA,30319-2797,Atlanta,53219.0,39580.0
+118541,Marymount California University,CA,90275-6299,Rancho Palos Verdes,53206.0,36134.0
+168528,Adrian College,MI,49221-2575,Adrian,53128.0,37809.0
+109785,Azusa Pacific University,CA,91702-7000,Azusa,53117.0,40220.0
+221971,Union University,TN,38305-3697,Jackson,53086.0,33750.0
+104586,Embry-Riddle Aeronautical University-Prescott,AZ,86301-3720,Prescott,53046.0,36708.0
+217998,Erskine College,SC,29639,Due West,53000.0,36510.0
+459204,Unitek College,CA,94538,Fremont,52962.0,35284.0
+141060,Spelman College,GA,30314-4399,Atlanta,52826.0,29972.0
+216931,Wilkes University,PA,18766,Wilkes-Barre,52824.0,37622.0
+167899,Springfield College,MA,01109-3797,Springfield,52815.0,39305.0
+219709,Belmont University,TN,37212-3757,Nashville,52760.0,35650.0
+218539,Presbyterian College,SC,29325,Clinton,52679.0,39460.0
+215743,Saint Francis University,PA,15940,Loretto,52663.0,38170.0
+210739,DeSales University,PA,18034-9568,Center Valley,52637.0,38700.0
+239318,Milwaukee School of Engineering,WI,53202-3109,Milwaukee,52609.0,42162.0
+173045,Augsburg University,MN,55454,Minneapolis,52598.0,39955.0
+206525,Wittenberg University,OH,45504,Springfield,52584.0,40280.0
+483018,Antioch College,OH,45387,Yellow Springs,52562.0,37143.0
+198695,High Point University,NC,27268,High Point,52543.0,36268.0
+232609,University of Lynchburg,VA,24501-3113,Lynchburg,52529.0,40690.0
+213987,Mercyhurst University,PA,16546,Erie,52417.0,40170.0
+125897,Woodbury University,CA,91504-1052,Burbank,52391.0,41182.0
+168227,Wentworth Institute of Technology,MA,02115,Boston,52339.0,34970.0
+153108,Central College,IA,50219,Pella,52097.0,38600.0
+157818,Transylvania University,KY,40508-1797,Lexington,52078.0,40210.0
+154350,Simpson College,IA,50125,Indianola,51943.0,40666.0
+140447,Mercer University,GA,31207,Macon,51923.0,37808.0
+152600,Valparaiso University,IN,46383,Valparaiso,51907.0,41820.0
+211556,Chatham University,PA,15232,Pittsburgh,51851.0,38738.0
+192749,Manhattanville College,NY,10577,Purchase,51842.0,39570.0
+198613,Guilford College,NC,27410-4108,Greensboro,51800.0,38530.0
+164492,Anna Maria College,MA,01612-1198,Paxton,51796.0,38630.0
+211583,Chestnut Hill College,PA,19118-2693,Philadelphia,51741.0,37200.0
+167260,Nichols College,MA,01571-5000,Dudley,51706.0,35940.0
+179043,Rockhurst University,MO,64110-2561,Kansas City,51633.0,38760.0
+150756,Hanover College,IN,47243,Hanover,51622.0,38750.0
+168254,Western New England University,MA,01119-2684,Springfield,51607.0,37990.0
+156745,Georgetown College,KY,40324-1696,Georgetown,51602.0,39810.0
+174127,Minneapolis College of Art and Design,MN,55404,Minneapolis,51586.0,40396.0
+173300,Concordia College at Moorhead,MN,56562,Moorhead,51569.0,41566.0
+147660,North Central College,IL,60540,Naperville,51483.0,40040.0
+139144,Berry College,GA,30149,Mount Berry,51464.0,37246.0
+165699,Endicott College,MA,01915,Beverly,51460.0,34200.0
+191931,Iona College,NY,10801-1890,New Rochelle,51313.0,40172.0
+164173,Stevenson University,MD,21153-0641,Stevenson,51239.0,37142.0
+173160,Bethel University,MN,55112,Saint Paul,51155.0,38460.0
+134079,Florida Southern College,FL,33801-5698,Lakeland,51143.0,37640.0
+199865,Warren Wilson College,NC,28778-2099,Swannanoa,51111.0,37364.0
+161518,Saint Joseph's College of Maine,ME,04084-5236,Standish,51089.0,36720.0
+213321,King's College,PA,18711-0801,Wilkes-Barre,51077.0,38724.0
+433174,Carolinas College of Health Sciences,NC,28217,Charlotte,50990.0,14812.0
+121309,Point Loma Nazarene University,CA,92106-2899,San Diego,50979.0,36950.0
+127653,Naropa University,CO,80302-6697,Boulder,50810.0,33070.0
+198516,Elon University,NC,27244-2010,Elon,50737.0,36571.0
+188429,Adelphi University,NY,11530-0701,Garden City,50628.0,40300.0
+211468,Cedar Crest College,PA,18104-6196,Allentown,50609.0,40374.0
+128744,University of Bridgeport,CT,06604-5620,Bridgeport,50556.0,34760.0
+189848,Cazenovia College,NY,13035,Cazenovia,50533.0,35634.0
+173665,Hamline University,MN,55104-1284,Saint Paul,50516.0,42774.0
+236452,Saint Martin's University,WA,98503-7500,Lacey,50510.0,38560.0
+184603,Fairleigh Dickinson University-Metropolitan Campus,NJ,07666,Teaneck,50490.0,42220.0
+231095,Sterling College,VT,05827-0072,Craftsbury Common,50489.0,39020.0
+165936,Gordon College,MA,01984,Wenham,50446.0,38650.0
+127918,Regis University,CO,80221-1099,Denver,50403.0,38180.0
+112075,Concordia University-Irvine,CA,92612-3203,Irvine,50332.0,36740.0
+232043,Eastern Mennonite University,VA,22802-2462,Harrisonburg,50236.0,38230.0
+186618,Saint Elizabeth University,NJ,07960,Morristown,50217.0,34226.0
+231581,Bridgewater College,VA,22812-1599,Bridgewater,50136.0,36600.0
+150534,University of Evansville,IN,47722,Evansville,50135.0,37466.0
+163578,Notre Dame of Maryland University,MD,21210-2476,Baltimore,50060.0,38340.0
+234173,Virginia Wesleyan University,VA,23455,Virginia Beach,50040.0,36860.0
+192448,Long Island University,NY,11548-1327,Brookville,49964.0,38368.0
+156295,Berea College,KY,40404-2182,Berea,49854.0,44700.0
+161509,Maine College of Art,ME,04101-3494,Portland,49833.0,36424.0
+183026,Southern New Hampshire University,NH,03106-1045,Manchester,49805.0,31136.0
+164447,American International College,MA,01109,Springfield,49776.0,36930.0
+208822,George Fox University,OR,97132,Newberg,49746.0,37280.0
+175005,St Catherine University,MN,55105,Saint Paul,49735.0,40984.0
+239716,Saint Norbert College,WI,54115-2099,De Pere,49699.0,39529.0
+203845,Marietta College,OH,45750,Marietta,49676.0,36040.0
+180106,Carroll College,MT,59625-0002,Helena,49638.0,36280.0
+232025,Emory & Henry College,VA,24327-0947,Emory,49575.0,35100.0
+222178,Abilene Christian University,TX,79699,Abilene,49538.0,36300.0
+198835,Lenoir-Rhyne University,NC,28601,Hickory,49514.0,38000.0
+174899,The College of Saint Scholastica,MN,55811-4199,Duluth,49391.0,38282.0
+193584,Nazareth College,NY,14618-3790,Rochester,49359.0,35641.0
+128498,Albertus Magnus College,CT,06511-1189,New Haven,49229.0,33260.0
+149781,Wheaton College,IL,60187-5593,Wheaton,49214.0,37700.0
+147341,Monmouth College,IL,61462-1998,Monmouth,49178.0,38990.0
+215798,Saint Vincent College,PA,15650-2690,Latrobe,49169.0,36510.0
+114354,FIDM-Fashion Institute of Design & Merchandising-Los Angeles,CA,90015-1421,Los Angeles,49140.0,32732.0
+198950,Meredith College,NC,27607-5298,Raleigh,49109.0,38620.0
+217235,Johnson & Wales University-Providence,RI,02903-3703,Providence,49107.0,33404.0
+216807,Westminster College,PA,16172,New Wilmington,49098.0,37300.0
+488448,Seattle Film Institute,WA,98119-1707,Seattle,49076.0,30240.0
+117168,Laguna College of Art and Design,CA,92651,Laguna Beach,49066.0,31600.0
+203128,Hiram College,OH,44234-0067,Hiram,49017.0,37710.0
+399911,Soka University of America,CA,92656-8081,Aliso Viejo,48996.0,33982.0
+192192,Keuka College,NY,14478,Keuka Park,48976.0,33048.0
+198136,Campbell University,NC,27506,Buies Creek,48968.0,34630.0
+195164,St Bonaventure University,NY,14778-9800,Saint Bonaventure,48956.0,35431.0
+182458,Sierra Nevada University,NV,89451,Incline Village,48956.0,35508.0
+179955,William Jewell College,MO,64068-1896,Liberty,48938.0,34450.0
+194091,New York Institute of Technology,NY,11568-8000,Old Westbury,48924.0,38010.0
+167394,College of Our Lady of the Elms,MA,01013,Chicopee,48910.0,37000.0
+210775,Alvernia University,PA,19607-1799,Reading,48854.0,36350.0
+445708,Johnson & Wales University-Charlotte,NC,28202,Charlotte,48843.0,33404.0
+213996,Messiah University,PA,17055,Mechanicsburg,48786.0,36120.0
+147244,Millikin University,IL,62522-2084,Decatur,48766.0,37054.0
+215947,Seton Hill University,PA,15601,Greensburg,48759.0,36856.0
+119775,Newschool of Architecture and Design,CA,92101,San Diego,48724.0,28386.0
+166911,Montserrat College of Art,MA,01915-4508,Beverly,48691.0,34350.0
+201548,Capital University,OH,43209-2394,Columbus,48642.0,36872.0
+181020,Doane University,NE,68333,Crete,48570.0,35300.0
+188526,Albany College of Pharmacy and Health Sciences,NY,12208-3492,Albany,48545.0,36745.0
+220710,Maryville College,TN,37804-5907,Maryville,48503.0,35578.0
+239512,Northland College,WI,54806-3999,Ashland,48435.0,37516.0
+122728,William Jessup University,CA,95765-3707,Rocklin,48426.0,34950.0
+140553,Morehouse College,GA,30314,Atlanta,48406.0,28847.0
+169080,Calvin University,MI,49546,Grand Rapids,48357.0,36300.0
+193399,College of Mount Saint Vincent,NY,10471-1093,Bronx,48313.0,40980.0
+136215,Nova Southeastern University,FL,33314-7796,Fort Lauderdale,48294.0,32110.0
+136330,Palm Beach Atlantic University,FL,33401,West Palm Beach,48254.0,32500.0
+151786,Marian University,IN,46222-1997,Indianapolis,48252.0,35000.0
+199412,Queens University of Charlotte,NC,28274-0001,Charlotte,48240.0,35720.0
+192323,Le Moyne College,NY,13214-1301,Syracuse,48188.0,35230.0
+194116,New York School of Interior Design,NY,10021,New York,48184.0,26322.0
+183910,Caldwell University,NJ,07006-6195,Caldwell,48106.0,35740.0
+195234,The College of Saint Rose,NY,12203-1490,Albany,48093.0,33386.0
+202170,Columbus College of Art and Design,OH,43215,Columbus,48087.0,36750.0
+183974,Centenary University,NJ,07840,Hackettstown,48080.0,33492.0
+195720,Saint John Fisher College,NY,14618-3597,Rochester,48077.0,35150.0
+178059,Maryville University of Saint Louis,MO,63141-7299,Saint Louis,48070.0,28470.0
+190503,Culinary Institute of America,NY,12538-1499,Hyde Park,48003.0,33690.0
+212133,Eastern University,PA,19087-3696,Saint Davids,47972.0,33854.0
+232089,Ferrum College,VA,24088-9000,Ferrum,47923.0,35365.0
+102049,Samford University,AL,35229-2240,Birmingham,47863.0,32850.0
+239309,Milwaukee Institute of Art & Design,WI,53202-6003,Milwaukee,47854.0,38550.0
+232706,Marymount University,VA,22207-4299,Arlington,47854.0,33330.0
+130314,University of Saint Joseph,CT,06117,West Hartford,47812.0,40286.0
+204635,Ohio Northern University,OH,45810-1599,Ada,47711.0,33440.0
+193973,Niagara University,NY,14109,Niagara University,47709.0,34510.0
+166452,Lesley University,MA,02138-2790,Cambridge,47630.0,28875.0
+144962,Elmhurst University,IL,60126-3296,Elmhurst,47597.0,37754.0
+170675,Lawrence Technological University,MI,48075-1058,Southfield,47562.0,35280.0
+129774,Mitchell College,CT,06320,New London,47450.0,34050.0
+184612,Felician University,NJ,07644,Lodi,47414.0,35000.0
+212832,Gwynedd Mercy University,PA,19437-0901,Gwynedd Valley,47396.0,34580.0
+186432,Saint Peter's University,NJ,07306-5997,Jersey City,47383.0,38760.0
+199962,Wingate University,NC,28174-0159,Wingate,47380.0,35290.0
+143358,Bradley University,IL,61625-0001,Peoria,47305.0,34610.0
+147828,Olivet Nazarene University,IL,60914-2271,Bourbonnais,47290.0,37070.0
+439288,Johnson & Wales University-Denver,CO,80220,Denver,47288.0,33404.0
+213826,Marywood University,PA,18509-1598,Scranton,47281.0,35904.0
+414823,Johnson & Wales University-North Miami,FL,33181,North Miami,47273.0,33404.0
+112084,San Diego Christian College,CA,92071,Santee,47220.0,32346.0
+139393,Covenant College,GA,30750-4164,Lookout Mountain,47200.0,35640.0
+152530,Taylor University,IN,46989-1001,Upland,47199.0,35305.0
+174817,Saint Mary's University of Minnesota,MN,55987-1399,Winona,47190.0,36670.0
+188340,Vaughn College of Aeronautics and Technology,NY,11369,Flushing,47121.0,26150.0
+229160,Texas Wesleyan University,TX,76105-1536,Fort Worth,46996.0,31816.0
+215655,Robert Morris University,PA,15108-1189,Moon Township,46974.0,31200.0
+219000,Augustana University,SD,57197-0001,Sioux Falls,46888.0,33960.0
+214069,Misericordia University,PA,18612-1098,Dallas,46887.0,34560.0
+145619,Benedictine University,IL,60532-0900,Lisle,46873.0,34290.0
+170301,Hope College,MI,49422-9000,Holland,46870.0,35330.0
+123651,Vanguard University of Southern California,CA,92626,Costa Mesa,46807.0,35100.0
+201371,Bluffton University,OH,45817-2104,Bluffton,46759.0,33736.0
+219976,Lipscomb University,TN,37204-3951,Nashville,46755.0,33424.0
+181446,Nebraska Wesleyan University,NE,68504-2794,Lincoln,46746.0,35564.0
+117627,La Sierra University,CA,92505-8247,Riverside,46672.0,33570.0
+216357,Thiel College,PA,16125-2181,Greenville,46641.0,32596.0
+153001,Buena Vista University,IA,50588,Storm Lake,46556.0,35194.0
+164632,Bay Path University,MA,01106,Longmeadow,46516.0,35081.0
+233541,Shenandoah University,VA,22601-5195,Winchester,46501.0,33180.0
+118888,Mills College,CA,94613,Oakland,46493.0,30877.0
+179265,University of Health Sciences and Pharmacy in St. Louis,MO,63110-1088,Saint Louis,46470.0,29596.0
+165802,Fisher College,MA,02116,Boston,46444.0,31992.0
+152567,Trine University,IN,46703-1764,Angola,46440.0,32810.0
+231420,Averett University,VA,24541,Danville,46388.0,35600.0
+153126,Clarke University,IA,52001-3198,Dubuque,46369.0,34670.0
+449384,Gnomon,CA,90038,Hollywood,46263.0,31554.0
+110361,California Baptist University,CA,92504-3297,Riverside,46261.0,34882.0
+114390,FIDM-Fashion Institute of Design & Merchandising-San Francisco,CA,94108-5805,San Francisco,46260.0,32732.0
+201195,Baldwin Wallace University,OH,44017-2088,Berea,46213.0,33530.0
+155520,MidAmerica Nazarene University,KS,66062-1899,Olathe,46178.0,31786.0
+202763,The University of Findlay,OH,45840-3653,Findlay,45903.0,35410.0
+202514,Defiance College,OH,43512,Defiance,45868.0,33260.0
+195243,St. Thomas Aquinas College,NY,10976-1050,Sparkill,45850.0,33050.0
+183211,Rivier University,NH,03060,Nashua,45805.0,33540.0
+230807,Westminster College,UT,84105,Salt Lake City,45799.0,34984.0
+154013,Mount Mercy University,IA,52402-4797,Cedar Rapids,45764.0,33862.0
+193353,Mount Saint Mary College,NY,12550,Newburgh,45762.0,32772.0
+443410,DigiPen Institute of Technology,WA,98052,Redmond,45725.0,32600.0
+237969,West Virginia Wesleyan College,WV,26201-2994,Buckhannon,45722.0,31944.0
+194392,Paul Smiths College of Arts and Science,NY,12970-0265,Paul Smiths,45710.0,29313.0
+154235,Saint Ambrose University,IA,52803-2898,Davenport,45709.0,31812.0
+193292,Molloy College,NY,11571-5002,Rockville Centre,45672.0,32600.0
+199607,Salem College,NC,27101,Winston-Salem,45627.0,30016.0
+211352,Cabrini University,PA,19087-3698,Radnor,45618.0,32845.0
+214272,Neumann University,PA,19014-1298,Aston,45614.0,32960.0
+455770,Providence Christian College,CA,91101,Pasadena,45580.0,31846.0
+149514,Trinity International University-Illinois,IL,60015-1283,Deerfield,45579.0,33028.0
+210331,Corban University,OR,97317-9392,Salem,45537.0,33040.0
+192271,LIM College,NY,10022-5268,New York,45526.0,27810.0
+126669,Colorado Christian University,CO,80226,Lakewood,45525.0,33434.0
+197911,Barton College,NC,27893-7000,Wilson,45505.0,31732.0
+153278,University of Dubuque,IA,52001,Dubuque,45455.0,35570.0
+224004,Concordia University Texas,TX,78726,Austin,45435.0,32860.0
+167455,Pine Manor College,MA,02467,Chestnut Hill,45427.0,31600.0
+179548,Stephens College,MO,65215,Columbia,45290.0,22700.0
+153825,Loras College,IA,52004-0178,Dubuque,45268.0,35218.0
+199272,William Peace University,NC,27604-1194,Raleigh,45260.0,31700.0
+155627,Ottawa University-Ottawa,KS,66067-3399,Ottawa,45255.0,30805.0
+150668,Goshen College,IN,46526-4794,Goshen,45214.0,34540.0
+418126,New York College of Health Professions,NY,11791-4413,Syosset,45161.0,14226.0
+150604,Franklin College,IN,46131-2623,Franklin,45152.0,32970.0
+154688,Baker University,KS,66006-0065,Baldwin City,45149.0,29880.0
+154004,Morningside College,IA,51106-1751,Sioux City,45125.0,32720.0
+195128,Russell Sage College,NY,12180,Troy,45078.0,31883.0
+464226,Ottawa University-Surprise,AZ,85374,Surprise,44996.0,29975.0
+148487,Roosevelt University,IL,60605-1394,Chicago,44929.0,30876.0
+212601,Gannon University,PA,16541-0001,Erie,44896.0,33226.0
+188641,Alfred University,NY,14802-1205,Alfred,44856.0,34770.0
+198561,Gardner-Webb University,NC,28017-0997,Boiling Springs,44837.0,32240.0
+446525,SAE Institute of Technology-Nashville,TN,37203,Nashville,44835.0,33199.0
+154721,Bethany College,KS,67456-1897,Lindsborg,44829.0,29565.0
+153250,Dordt University,IA,51250-1606,Sioux Center,44756.0,31770.0
+184773,Georgian Court University,NJ,08701-2697,Lakewood,44722.0,33610.0
+154712,Benedictine College,KS,66002-1499,Atchison,44717.0,30530.0
+137847,The University of Tampa,FL,33606-1490,Tampa,44706.0,29992.0
+204936,Otterbein University,OH,43081,Westerville,44695.0,32474.0
+131520,Howard University,DC,20059,Washington,44651.0,27206.0
+194958,Roberts Wesleyan College,NY,14624,Rochester,44599.0,32494.0
+155900,Southwestern College,KS,67156-2499,Winfield,44558.0,31650.0
+238616,Concordia University-Wisconsin,WI,53097-2402,Mequon,44512.0,30352.0
+443331,West Coast University-Los Angeles,CA,91606,North Hollywood,44481.0,35110.0
+458210,West Coast University-Orange County,CA,92802,Anaheim,44481.0,26645.0
+154101,Northwestern College,IA,51041,Orange City,44461.0,32300.0
+151777,Manchester University,IN,46962,North Manchester,44416.0,33624.0
+198215,Catawba College,NC,28144,Salisbury,44396.0,30520.0
+486901,Milligan University,TN,37682,Milligan,44301.0,34650.0
+198899,Mars Hill University,NC,28754,Mars Hill,44301.0,34118.0
+152992,Briar Cliff University,IA,51104,Sioux City,44276.0,32202.0
+203580,Lake Erie College,OH,44077-3389,Painesville,44235.0,32322.0
+181330,Midland University,NE,68025,Fremont,44218.0,34040.0
+227863,University of St Thomas,TX,77006-4696,Houston,44170.0,31460.0
+237181,Bethany College,WV,26032,Bethany,44153.0,30666.0
+225627,University of the Incarnate Word,TX,78209,San Antonio,44099.0,32576.0
+140234,LaGrange College,GA,30240-2999,Lagrange,44088.0,31540.0
+181127,Hastings College,NE,68901,Hastings,44019.0,31560.0
+215442,Point Park University,PA,15222-1984,Pittsburgh,43994.0,32750.0
+238458,Carroll University,WI,53186,Waukesha,43981.0,32850.0
+191676,Houghton College,NY,14744,Houghton,43970.0,33458.0
+150774,Holy Cross College,IN,46556-0308,Notre Dame,43943.0,32000.0
+206349,Ursuline College,OH,44124,Pepper Pike,43873.0,33440.0
+120537,Hope International University,CA,92831-3199,Fullerton,43853.0,33400.0
+137476,St. Thomas University,FL,33054-6459,Miami Gardens,43839.0,32000.0
+180984,Concordia University-Nebraska,NE,68434-1556,Seward,43830.0,33490.0
+169363,Concordia University-Ann Arbor,MI,48105,Ann Arbor,43828.0,30205.0
+203085,Heidelberg University,OH,44883-2462,Tiffin,43809.0,31700.0
+219833,Christian Brothers University,TN,38104,Memphis,43782.0,33840.0
+114813,Fresno Pacific University,CA,93702-4709,Fresno,43780.0,32950.0
+144281,Columbia College Chicago,IL,60605-1996,Chicago,43764.0,27756.0
+458229,West Coast University-Ontario,CA,91761,Ontario,43762.0,35110.0
+155973,Tabor College,KS,67063-1799,Hillsboro,43760.0,29360.0
+154493,Upper Iowa University,IA,52142-1857,Fayette,43750.0,31685.0
+132471,Barry University,FL,33161-6695,Miami,43741.0,30014.0
+204468,Notre Dame College,OH,44121-4293,Cleveland,43696.0,30160.0
+123457,Simpson University,CA,96003-8606,Redding,43693.0,31910.0
+179894,Webster University,MO,63119-3194,Saint Louis,43609.0,28700.0
+201061,Art Academy of Cincinnati,OH,45202-1706,Cincinnati,43550.0,34335.0
+145691,Illinois College,IL,62650-2299,Jacksonville,43511.0,33740.0
+174491,University of Northwestern-St Paul,MN,55113-1598,Saint Paul,43480.0,32210.0
+238661,Edgewood College,WI,53711-1997,Madison,43449.0,30600.0
+150066,Anderson University,IN,46012-3495,Anderson,43443.0,31230.0
+199209,North Carolina Wesleyan College,NC,27804,Rocky Mount,43407.0,31650.0
+226231,LeTourneau University,TX,75602,Longview,43406.0,31270.0
+120865,Pacific Union College,CA,94508-9707,Angwin,43382.0,30813.0
+142294,The College of Idaho,ID,83605-4432,Caldwell,43349.0,31755.0
+232672,Mary Baldwin University,VA,24401,Staunton,43325.0,31110.0
+215132,University of the Sciences,PA,19104-4495,Philadelphia,43263.0,25000.0
+204185,University of Mount Union,OH,44601-3929,Alliance,43195.0,31700.0
+207458,Oklahoma City University,OK,73106-1402,Oklahoma City,43184.0,32594.0
+239390,Mount Mary University,WI,53222-4597,Milwaukee,43148.0,31160.0
+213011,Immaculata University,PA,19345,Immaculata,43069.0,27350.0
+203775,Malone University,OH,44709-3308,Canton,43056.0,31800.0
+213367,La Salle University,PA,19141-1199,Philadelphia,43052.0,31650.0
+237312,University of Charleston,WV,25304,Charleston,43042.0,31400.0
+105589,Prescott College,AZ,86301,Prescott,43039.0,32553.0
+236133,Northwest University,WA,98083-0579,Kirkland,43017.0,32960.0
+155511,McPherson College,KS,67460-1402,McPherson,43011.0,30077.0
+151263,University of Indianapolis,IN,46227-3697,Indianapolis,43005.0,30976.0
+168786,Aquinas College,MI,49506-1801,Grand Rapids,42982.0,33854.0
+462354,John Paul the Great Catholic University,CA,92025,Escondido,42967.0,27200.0
+147013,McKendree University,IL,62254-1291,Lebanon,42941.0,31640.0
+198066,Brevard College,NC,28712,Brevard,42930.0,30250.0
+217305,New England Institute of Technology,RI,02818-1205,East Greenwich,42927.0,30840.0
+141361,Young Harris College,GA,30582,Young Harris,42914.0,29367.0
+217633,Anderson University,SC,29621-4035,Anderson,42907.0,29230.0
+199698,St. Andrews University,NC,28352,Laurinburg,42903.0,27846.0
+152381,Saint Mary-of-the-Woods College,IN,47876-1099,Saint Mary of the Woods,42872.0,30500.0
+190761,Dominican College of Blauvelt,NY,10962-1210,Orangeburg,42833.0,29844.0
+199306,Pfeiffer University,NC,28109-0960,Misenheimer,42796.0,31060.0
+141644,Hawaii Pacific University,HI,96813,Honolulu,42786.0,27500.0
+225399,Houston Baptist University,TX,77074-3298,Houston,42640.0,33450.0
+207582,Oral Roberts University,OK,74171,Tulsa,42624.0,30070.0
+139199,Brenau University,GA,30501-3668,Gainesville,42587.0,31084.0
+240338,Wisconsin Lutheran College,WI,53226-4699,Milwaukee,42513.0,30850.0
+183822,Bloomfield College,NJ,07003,Bloomfield,42504.0,30310.0
+220516,King University,TN,37620-2699,Bristol,42448.0,30616.0
+153366,Graceland University-Lamoni,IA,50140,Lamoni,42440.0,30420.0
+198808,Lees-McRae College,NC,28604,Banner Elk,42379.0,26625.0
+231837,Radford University-Carilion,VA,24013,Roanoke,42364.0,11350.0
+232265,Hampton University,VA,23668-0099,Hampton,42334.0,28024.0
+164641,Bay State College,MA,02116,Boston,42145.0,23500.0
+433420,California Aeronautical University,CA,93308,Bakersfield,42145.0,31716.0
+208488,Concordia University-Portland,OR,97211-6099,Portland,42134.0,32230.0
+204617,Ohio Dominican University,OH,43219,Columbus,42121.0,31680.0
+149505,Trinity Christian College,IL,60463-0929,Palos Heights,42109.0,31175.0
+154749,Bethel College-North Newton,KS,67117-1716,North Newton,42063.0,29390.0
+211431,Carlow University,PA,15213-3165,Pittsburgh,42060.0,30528.0
+148584,University of St Francis,IL,60435-6188,Joliet,41946.0,34000.0
+108232,Academy of Art University,CA,94105,San Francisco,41945.0,23412.0
+146612,Lewis University,IL,60446-2200,Romeoville,41938.0,33430.0
+148405,Rockford University,IL,61108-2311,Rockford,41928.0,32100.0
+204194,Mount Vernon Nazarene University,OH,43050-9500,Mount Vernon,41890.0,30404.0
+488785,University of Saint Katherine,CA,92069,San Marcos,41890.0,25300.0
+239743,Holy Family College,WI,54220-9319,Manitowoc,41889.0,29600.0
+148496,Dominican University,IL,60305,River Forest,41882.0,34420.0
+228149,St. Mary's University,TX,78228,San Antonio,41856.0,32140.0
+179946,Westminster College,MO,65251-1299,Fulton,41856.0,29490.0
+155414,Kansas Wesleyan University,KS,67401-6146,Salina,41840.0,29820.0
+213358,La Roche University,PA,15237-5898,Pittsburgh,41821.0,29464.0
+237358,Davis & Elkins College,WV,26241-3996,Elkins,41723.0,29630.0
+238078,Wheeling University,WV,26003,Wheeling,41676.0,29290.0
+228981,Texas Lutheran University,TX,78155-5999,Seguin,41662.0,30860.0
+217907,Coker University,SC,29550,Hartsville,41619.0,30196.0
+206437,Walsh University,OH,44720-3396,North Canton,41609.0,31045.0
+446385,Los Angeles College of Music,CA,91105,Pasadena,41592.0,25650.0
+198598,Greensboro College,NC,27401-1875,Greensboro,41510.0,18500.0
+402776,Southwest University of Visual Arts-Albuquerque,NM,87102,Albuquerque,41492.0,22588.0
+190248,Concordia College,NY,10708-1998,Bronxville,41489.0,34600.0
+238980,Lakeland University,WI,53073,Plymouth,41431.0,29880.0
+226471,University of Mary Hardin-Baylor,TX,76513-2599,Belton,41426.0,29700.0
+207403,Oklahoma Baptist University,OK,74804,Shawnee,41404.0,30044.0
+148627,Saint Xavier University,IL,60655,Chicago,41349.0,34380.0
+260813,Platt College-Aurora,CO,80014-3141,Aurora,41285.0,19286.0
+238430,Cardinal Stritch University,WI,53217-3985,Milwaukee,41284.0,31798.0
+166054,Hellenic College-Holy Cross Greek Orthodox School of Theology,MA,02445-7415,Brookline,41282.0,22490.0
+171599,Olivet College,MI,49076,Olivet,41256.0,28692.0
+144351,Concordia University-Chicago,IL,60305-1499,River Forest,41255.0,32880.0
+161572,Unity College,ME,04988,Unity,41246.0,30000.0
+171492,Northwood University,MI,48640-2398,Midland,41229.0,28080.0
+209409,Bushnell University,OR,97401-3745,Eugene,41215.0,31410.0
+205203,University of Rio Grande,OH,45674,Rio Grande,41195.0,27481.0
+209287,Multnomah University,OR,97220,Portland,41182.0,27050.0
+138293,Webber International University,FL,33827-0096,Babson Park,41122.0,27674.0
+204264,Muskingum University,OH,43762,New Concord,41121.0,28878.0
+224226,Dallas Baptist University,TX,75211-9299,Dallas,40917.0,30320.0
+156213,Asbury University,KY,40390-1198,Wilmore,40917.0,30952.0
+218414,Newberry College,SC,29108,Newberry,40887.0,27400.0
+226587,McMurry University,TX,79697,Abilene,40851.0,28099.0
+146339,Judson University,IL,60123-1498,Elgin,40798.0,29870.0
+218238,Limestone University,SC,29340-3799,Gaffney,40695.0,26300.0
+155812,University of Saint Mary,KS,66048-5082,Leavenworth,40685.0,29880.0
+237118,Alderson Broaddus University,WV,26416-2035,Philippi,40669.0,29220.0
+157809,Thomas More University,KY,41017-3495,Crestview Hills,40650.0,32090.0
+157377,Midway University,KY,40347-1120,Midway,40606.0,24850.0
+177418,Fontbonne University,MO,63105-3098,Saint Louis,40585.0,27260.0
+172334,Spring Arbor University,MI,49283-9799,Spring Arbor,40583.0,29630.0
+174862,Crown College,MN,55375-9001,Saint Bonifacius,40567.0,26970.0
+142887,American Academy of Art,IL,60604-4302,Chicago,40537.0,35270.0
+165644,Eastern Nazarene College,MA,02170-2999,Quincy,40524.0,26568.0
+219198,Mount Marty University,SD,57078-3724,Yankton,40495.0,28126.0
+131098,Wesley College,DE,19901-3875,Dover,40474.0,26756.0
+148131,Quincy University,IL,62301-2699,Quincy,40447.0,30450.0
+106342,Lyon College,AR,72501,Batesville,40422.0,29140.0
+117751,The Master's University and Seminary,CA,91321-1200,Santa Clarita,40402.0,25350.0
+201654,Cedarville University,OH,45314-0601,Cedarville,40342.0,31322.0
+142461,Northwest Nazarene University,ID,83686-5897,Nampa,40315.0,31050.0
+230977,New England Culinary Institute,VT,05602,Montpelier,40231.0,22200.0
+155089,Friends University,KS,67213,Wichita,40226.0,29394.0
+165264,Laboure College,MA,02186,Milton,40162.0,37713.0
+225247,Hardin-Simmons University,TX,79698-0001,Abilene,40160.0,30140.0
+179964,William Woods University,MO,65251-2388,Fulton,40142.0,24830.0
+216047,Saint Charles Borromeo Seminary-Overbrook,PA,19096,Wynnewood,40135.0,21913.0
+430485,The Creative Center,NE,68164,Omaha,40107.0,27700.0
+205027,Pontifical College Josephinum,OH,43235-1499,Columbus,40050.0,24182.0
+155177,Hesston College,KS,67062-2093,Hesston,40038.0,27690.0
+240107,Viterbo University,WI,54601-8804,La Crosse,40031.0,28650.0
+225548,Howard Payne University,TX,76801-2794,Brownwood,39973.0,29198.0
+219806,Carson-Newman University,TN,37760,Jefferson City,39968.0,28900.0
+177214,Drury University,MO,65802-3791,Springfield,39965.0,29665.0
+153621,Iowa Wesleyan University,IA,52641,Mount Pleasant,39906.0,25424.0
+140818,Piedmont University,GA,30535-0010,Demorest,39881.0,26692.0
+477039,West Coast University-Dallas,TX,75247-3900,Dallas,39873.0,19865.0
+145372,Greenville University,IL,62246,Greenville,39861.0,27910.0
+460871,Chamberlain University-Virginia,VA,22182,Vienna,39815.0,19375.0
+486938,Chamberlain University-Nevada,NV,89144,Las Vegas,39815.0,19375.0
+454245,Chamberlain University-Arizona,AZ,85021,Phoenix,39815.0,19375.0
+220701,Martin Methodist College,TN,38478-2799,Pulaski,39812.0,24900.0
+107141,John Brown University,AR,72761,Siloam Springs,39802.0,27668.0
+206835,Oklahoma Wesleyan University,OK,74006-6299,Bartlesville,39714.0,27996.0
+215114,Cairn University-Langhorne,PA,19047-2990,Langhorne,39654.0,28918.0
+180595,Rocky Mountain College,MT,59102-1796,Billings,39645.0,29552.0
+199032,Montreat College,NC,28757-1267,Montreat,39635.0,27950.0
+150145,Bethel University,IN,46545-5591,Mishawaka,39577.0,29170.0
+227331,Our Lady of the Lake University,TX,78207-4689,San Antonio,39529.0,29218.0
+213303,Keystone College,PA,18440-0200,La Plume,39522.0,26720.0
+177144,Culver-Stockton College,MO,63435-1299,Canton,39519.0,27205.0
+152336,University of Saint Francis-Fort Wayne,IN,46808-3994,Fort Wayne,39513.0,31480.0
+119270,Musicians Institute,CA,90028,Hollywood,39503.0,24795.0
+232557,Liberty University,VA,24515,Lynchburg,39490.0,22747.0
+475635,Beverly Hills Design Institute,CA,90211,Beverly Hills,39471.0,23220.0
+168740,Andrews University,MI,49104,Berrien Springs,39459.0,30158.0
+102377,Tuskegee University,AL,36088-1920,Tuskegee,39383.0,22614.0
+105899,Arizona Christian University,AZ,85306-3216,Glendale,39360.0,27890.0
+190725,Daemen College,NY,14226-3592,Amherst,39348.0,29430.0
+231624,William & Mary,VA,23187-8795,Williamsburg,39221.0,23628.0
+228042,Schreiner University,TX,78028-5697,Kerrville,39205.0,30470.0
+151290,Indiana Institute of Technology,IN,46803-1228,Fort Wayne,39158.0,27440.0
+161563,Thomas College,ME,04901-5097,Waterville,39143.0,27720.0
+172264,Siena Heights University,MI,49221,Adrian,39036.0,27152.0
+189705,Canisius College,NY,14208-1098,Buffalo,38896.0,29428.0
+155335,Newman University,KS,67213-2097,Wichita,38854.0,31906.0
+148335,Robert Morris University Illinois,IL,60605,Chicago,38814.0,29400.0
+206048,Tiffin University,OH,44883,Tiffin,38783.0,26110.0
+178244,Missouri Baptist University,MO,63141-8698,Saint Louis,38781.0,28220.0
+217688,Charleston Southern University,SC,29406-9121,Charleston,38741.0,26000.0
+156365,Campbellsville University,KY,42718-2799,Campbellsville,38715.0,25400.0
+194161,Nyack College,NY,10004,New York,38689.0,25500.0
+153375,Grand View University,IA,50316,Des Moines,38633.0,30508.0
+107512,Ouachita Baptist University,AR,71998-0001,Arkadelphia,38590.0,27900.0
+140872,Reinhardt University,GA,30183-2981,Waleska,38567.0,24300.0
+204200,Mount Saint Joseph University,OH,45233-1670,Cincinnati,38527.0,31200.0
+205957,Franciscan University of Steubenville,OH,43952-1763,Steubenville,38525.0,28880.0
+157863,Union College,KY,40906-1499,Barbourville,38488.0,27950.0
+180258,University of Providence,MT,59405-4996,Great Falls,38474.0,26242.0
+221953,Tusculum University,TN,37743,Greeneville,38471.0,24860.0
+176947,Central Methodist University-College of Liberal Arts and Sciences,MO,65248-1198,Fayette,38456.0,25070.0
+151801,Indiana Wesleyan University-Marion,IN,46953-4974,Marion,38455.0,27296.0
+442356,Pennsylvania College of Health Sciences,PA,17601,Lancaster,38437.0,29320.0
+224527,East Texas Baptist University,TX,75670-1498,Marshall,38223.0,27210.0
+482440,DeVry University-Colorado,CO,80234,Westminster,38223.0,18136.0
+177083,Conception Seminary College,MO,64433-0502,Conception,38200.0,22873.0
+147679,North Park University,IL,60625-4895,Chicago,38189.0,31030.0
+137032,Saint Leo University,FL,33574-6665,Saint Leo,38182.0,23750.0
+157216,Lindsey Wilson College,KY,42728-1223,Columbia,38168.0,25350.0
+164872,Boston Architectural College,MA,02115-2703,Boston,38155.0,21924.0
+138947,Clark Atlanta University,GA,30314-4391,Atlanta,38154.0,23144.0
+212656,Geneva College,PA,15010-3599,Beaver Falls,38114.0,28190.0
+239080,Marian University,WI,54935-4699,Fond Du Lac,38093.0,27950.0
+131450,Gallaudet University,DC,20002-3695,Washington,38084.0,17038.0
+130989,Goldey-Beacom College,DE,19808,Wilmington,38041.0,24780.0
+140252,Life University,GA,30060,Marietta,38038.0,13101.0
+173142,Bethany Lutheran College,MN,56001,Mankato,38006.0,28080.0
+482653,DeVry University-Virginia,VA,22202,Arlington,37959.0,18023.0
+475732,Chamberlain University-Georgia,GA,30342,Atlanta,37927.0,19375.0
+475741,Chamberlain University-Indiana,IN,46240,Indianapolis,37927.0,19375.0
+482608,DeVry University-Pennsylvania,PA,19034,Ft. Washington,37889.0,18069.0
+392840,Watkins College of Art Design & Film,TN,37228,Nashville,37876.0,24750.0
+110635,University of California-Berkeley,CA,94720,Berkeley,37852.0,14253.0
+157076,Kentucky Wesleyan College,KY,42301,Owensboro,37751.0,27200.0
+169716,University of Detroit Mercy,MI,48221-3038,Detroit,37747.0,28840.0
+482547,DeVry University-Nevada,NV,89074,Henderson,37747.0,17741.0
+233718,Sweet Briar College,VA,24595-9998,Sweet Briar,37744.0,22020.0
+219091,Dakota Wesleyan University,SD,57301-4398,Mitchell,37701.0,28750.0
+154590,William Penn University,IA,52577,Oskaloosa,37654.0,26100.0
+209241,Mount Angel Seminary,OR,97373,Saint Benedict,37628.0,23368.0
+236896,Walla Walla University,WA,99324-1198,College Place,37626.0,28881.0
+206507,Wilmington College,OH,45177,Wilmington,37559.0,26775.0
+150941,Huntington University,IN,46750,Huntington,37488.0,26846.0
+113582,Design Institute of San Diego,CA,92121,San Diego,37413.0,25649.0
+219790,Bryan College-Dayton,TN,37321,Dayton,37406.0,27900.0
+137564,Southeastern University,FL,33801-6034,Lakeland,37388.0,26620.0
+177339,Evangel University,MO,65802-2125,Springfield,37374.0,24327.0
+146825,MacMurray College,IL,62650-2590,Jacksonville,37332.0,28540.0
+190716,D'Youville College,NY,14201-1084,Buffalo,37316.0,27880.0
+231554,Bluefield College,VA,24605,Bluefield,37295.0,27036.0
+219949,Cumberland University,TN,37087,Lebanon,37286.0,24000.0
+147129,Methodist College,IL,61615,Peoria,37283.0,17560.0
+152099,Oakland City University,IN,47660-1099,Oakland City,37276.0,24300.0
+135081,Keiser University-Ft Lauderdale,FL,33309,Fort Lauderdale,37274.0,21008.0
+155937,Sterling College,KS,67579,Sterling,37242.0,27300.0
+221892,Trevecca Nazarene University,TN,37210,Nashville,37211.0,26098.0
+137272,St. John Vianney College Seminary,FL,33165-3244,Miami,37200.0,23100.0
+157757,Spalding University,KY,40203-2188,Louisville,37193.0,25200.0
+101912,Oakwood University,AL,35896,Huntsville,37169.0,19990.0
+445692,Neumont College of Computer Science,UT,84111-1917,Salt Lake City,37168.0,24750.0
+192925,Medaille College,NY,14214-2695,Buffalo,37124.0,30450.0
+162061,Capitol Technology University,MD,20708,Laurel,37079.0,26308.0
+220181,Fisk University,TN,37208-4501,Nashville,37028.0,22132.0
+238193,Alverno College,WI,53234-3922,Milwaukee,36956.0,29456.0
+101435,Huntingdon College,AL,36106-2148,Montgomery,36828.0,27400.0
+141185,Toccoa Falls College,GA,30598,Toccoa Falls,36771.0,23184.0
+206862,Southern Nazarene University,OK,73008,Bethany,36767.0,25416.0
+141486,Chaminade University of Honolulu,HI,96816-1578,Honolulu,36765.0,26134.0
+124292,Thomas Aquinas College,CA,93060,Santa Paula,36738.0,25600.0
+217013,Wilson College,PA,17201-1285,Chambersburg,36666.0,25300.0
+149639,VanderCook College of Music,IL,60616-3731,Chicago,36664.0,29070.0
+112570,Columbia College Hollywood,CA,91356-1411,Tarzana,36596.0,24495.0
+207324,Oklahoma Christian University,OK,73013,Edmond,36479.0,23850.0
+198303,Chowan University,NC,27855,Murfreesboro,36470.0,25480.0
+174437,North Central University,MN,55404-1391,Minneapolis,36349.0,25090.0
+160409,Saint Joseph Seminary College,LA,70457,St. Benedict,36347.0,19490.0
+177065,Columbia College,MO,65216,Columbia,36336.0,23498.0
+110705,University of California-Santa Barbara,CA,93106,Santa Barbara,36319.0,14391.0
+157535,University of Pikeville,KY,41501,Pikeville,36311.0,21550.0
+205391,The Modern College of Design,OH,45440,Kettering,36298.0,29507.0
+214166,Mount Aloysius College,PA,16630-1999,Cresson,36247.0,23680.0
+177038,Cleveland University-Kansas City,KS,66210,Overland Park,36246.0,14400.0
+117575,Southern California Seminary,CA,92019-1108,El Cajon,36213.0,16884.0
+482459,DeVry University-Florida,FL,33027,Miramar,36210.0,18083.0
+110714,University of California-Santa Cruz,CA,95064-1011,Santa Cruz,36115.0,13991.0
+101693,University of Mobile,AL,36613-2842,Mobile,36104.0,23860.0
+217925,Columbia International University,SC,29203-1513,Columbia,36104.0,24000.0
+144971,Eureka College,IL,61530,Eureka,36062.0,27560.0
+217776,Southern Wesleyan University,SC,29630-1020,Central,36048.0,25516.0
+218441,North Greenville University,SC,29688-1892,Tigerville,36044.0,21120.0
+216694,Waynesburg University,PA,15370-1257,Waynesburg,36042.0,25570.0
+482635,DeVry University-Texas,TX,75063,Irving,36036.0,17962.0
+102845,Charter College,WA,98683-7575,Vancouver,35954.0,18161.0
+446048,Ave Maria University,FL,34142-9505,Ave Maria,35910.0,21854.0
+156541,University of the Cumberlands,KY,40769,Williamsburg,35844.0,9875.0
+181738,Union College,NE,68506,Lincoln,35787.0,24620.0
+440794,Pillar College,NJ,07102,Newark,35718.0,22756.0
+212984,Holy Family University,PA,19114-2009,Philadelphia,35659.0,31040.0
+160904,Xavier University of Louisiana,LA,70125-1098,New Orleans,35636.0,25055.0
+215053,Pennsylvania College of Art and Design,PA,17608-0059,Lancaster,35490.0,26600.0
+486956,Chamberlain University-New Jersey,NJ,08902,North Brunswick,35430.0,19375.0
+215637,Walnut Hill College,PA,19104,Philadelphia,35411.0,23550.0
+213400,Lancaster Bible College,PA,17601-5036,Lancaster,35405.0,26170.0
+220631,Lincoln Memorial University,TN,37752-9900,Harrogate,35342.0,22740.0
+150677,Grace College and Theological Seminary,IN,46590-1274,Winona Lake,35338.0,26262.0
+215691,Rosemont College,PA,19010-1699,Rosemont,35337.0,20500.0
+216542,University of Valley Forge,PA,19460-2373,Phoenixville,35302.0,22000.0
+232618,Centra College,VA,24501,Lynchburg,35185.0,12325.0
+104188,Southwest University of Visual Arts-Tucson,AZ,85701,Tucson,35177.0,23069.0
+112394,Cogswell University of Silicon Valley,CA,95134,San Jose,35151.0,20800.0
+206817,Bacone College,OK,74403-1597,Muskogee,35150.0,14700.0
+134237,Full Sail University,FL,32792-7429,Winter Park,35148.0,24513.0
+494171,Arizona College of Nursing-Tempe,AZ,85282-1840,Tempe,35130.0,19962.0
+175421,Belhaven University,MS,39202,Jackson,35031.0,26202.0
+221661,Southern Adventist University,TN,37315-0370,Collegedale,35029.0,22520.0
+226383,Lubbock Christian University,TX,79407-2099,Lubbock,35023.0,23330.0
+490054,HCI College,FL,33409-5189,West Palm Beach,35020.0,19404.0
+143118,Aurora University,IL,60506-4892,Aurora,34961.0,25060.0
+146676,Lincoln College,IL,62656,Lincoln,34934.0,19000.0
+126775,Colorado School of Mines,CO,80401,Golden,34932.0,19062.0
+482422,DeVry University-Arizona,AZ,85021,Phoenix,34833.0,17803.0
+487375,Arizona College of Nursing-Las Vegas,NV,89102-4512,Las Vegas,34823.0,19962.0
+433004,American University of Health Sciences,CA,90755-3612,Signal Hill,34781.0,23329.0
+446640,Harrisburg University of Science and Technology,PA,17101-2208,Harrisburg,34763.0,23900.0
+182917,Magdalen College,NH,03278-4012,Warner,34756.0,24000.0
+110644,University of California-Davis,CA,95616-8678,Davis,34752.0,14495.0
+156356,Brescia University,KY,42301-3023,Owensboro,34750.0,23500.0
+482413,DeVry College of New York,NY,10016,New York,34739.0,18361.0
+179326,Southwest Baptist University,MO,65613-2596,Bolivar,34692.0,24578.0
+447458,SAE Expression College,CA,94608,Emeryville,34654.0,23399.0
+445188,University of California-Merced,CA,95343-5603,Merced,34569.0,13538.0
+170037,Cornerstone University,MI,49525-5897,Grand Rapids,34565.0,25360.0
+220215,Freed-Hardeman University,TN,38340-2399,Henderson,34530.0,22950.0
+203757,Lourdes University,OH,43560-2898,Sylvania,34505.0,24650.0
+133711,Flagler College,FL,32084,Saint Augustine,34495.0,19500.0
+177542,Hannibal-LaGrange University,MO,63401,Hannibal,34441.0,23590.0
+187134,The College of New Jersey,NJ,08628-7718,Ewing,34427.0,16923.0
+110662,University of California-Los Angeles,CA,90095-1405,Los Angeles,34366.0,13240.0
+482477,DeVry University-Illinois,IL,60618,Chicago,34334.0,17798.0
+385619,Everglades University,FL,33431,Boca Raton,34322.0,18320.0
+101189,Faulkner University,AL,36109-3390,Montgomery,34317.0,22310.0
+102669,Alaska Pacific University,AK,99508,Anchorage,34315.0,20760.0
+195544,St. Joseph's College-New York,NY,11205-3688,Brooklyn,34303.0,29190.0
+482468,DeVry University-Georgia,GA,30030,Decatur,34247.0,17819.0
+140988,Shorter University,GA,30165,Rome,34208.0,22370.0
+200156,University of Jamestown,ND,58405,Jamestown,34185.0,22428.0
+172866,Academy College,MN,55431-1411,Bloomington,34056.0,18451.0
+154518,Waldorf University,IA,50436-1713,Forest City,33998.0,22352.0
+178369,Missouri Valley College,MO,65340,Marshall,33941.0,21100.0
+129154,Goodwin University,CT,06118,East Hartford,33887.0,20898.0
+107558,University of the Ozarks,AR,72830,Clarksville,33866.0,25950.0
+141325,Wesleyan College,GA,31210-4462,Macon,33844.0,23970.0
+176053,Mississippi College,MS,39058,Clinton,33840.0,18800.0
+155496,Manhattan Christian College,KS,66502-4801,Manhattan,33820.0,16850.0
+228325,Southwestern Assemblies of God University,TX,75165,Waxahachie,33819.0,19834.0
+219295,Presentation College,SD,57401-1280,Aberdeen,33734.0,21375.0
+195562,St. Joseph's College-Long Island,NY,11772,Patchogue,33716.0,29200.0
+189228,Berkeley College-New York,NY,10017,New York,33707.0,26500.0
+214777,Pennsylvania State University-Main Campus,PA,16802-1503,University Park,33580.0,18450.0
+234076,University of Virginia-Main Campus,VA,22903-2628,Charlottesville,33493.0,17798.0
+231174,University of Vermont,VT,05405-0160,Burlington,33467.0,18802.0
+172440,Finlandia University,MI,49930-1832,Hancock,33408.0,23308.0
+110671,University of California-Riverside,CA,92521,Riverside,33368.0,13853.0
+110653,University of California-Irvine,CA,92697,Irvine,33325.0,13727.0
+201104,Ashland University,OH,44805,Ashland,33296.0,21980.0
+183044,University of New Hampshire-Main Campus,NH,03824-3547,Durham,33248.0,18879.0
+138275,Warner University,FL,33859-8797,Lake Wales,33230.0,22850.0
+204024,Miami University-Oxford,OH,45056,Oxford,33229.0,15911.0
+197045,Utica College,NY,13502-4892,Utica,33223.0,22110.0
+217873,Claflin University,SC,29115-4498,Orangeburg,33191.0,17192.0
+221731,Tennessee Wesleyan University,TN,37303,Athens,33188.0,25150.0
+215293,University of Pittsburgh-Pittsburgh Campus,PA,15260,Pittsburgh,33168.0,19718.0
+220206,Welch College,TN,37066-8460,Gallatin,33164.0,19582.0
+183275,Thomas More College of Liberal Arts,NH,03054,Merrimack,33111.0,21600.0
+404994,ASA College,NY,11201-9805,Brooklyn,33079.0,12728.0
+229780,Wayland Baptist University,TX,79072,Plainview,32915.0,22658.0
+157100,Kentucky Christian University,KY,41143-1199,Grayson,32896.0,20596.0
+138761,Andrew College,GA,39840-5550,Cuthbert,32878.0,18258.0
+183789,Berkeley College-Woodland Park,NJ,07424,Woodland Park,32846.0,26500.0
+184782,Rowan University,NJ,08028,Glassboro,32833.0,14000.0
+101541,Judson College,AL,36756,Marion,32691.0,18540.0
+210492,Bryn Athyn College of the New Church,PA,19009-0711,Bryn Athyn,32620.0,24471.0
+465812,Independence University,UT,84107,Salt Lake City,32618.0,14585.0
+454227,Chamberlain University-Illinois,IL,60101,Addison,32590.0,19900.0
+211024,Clarks Summit University,PA,18411-1250,Clarks Summit,32589.0,26082.0
+181376,Nebraska Christian College of Hope International University,NE,68046,Papillion,32521.0,18000.0
+460899,Stevens-Henager College,ID,83709-6733,Boise,32502.0,14585.0
+155070,Barclay College,KS,67059-0288,Haviland,32500.0,20400.0
+217934,Columbia College,SC,29203,Columbia,32483.0,19890.0
+201964,Ohio Christian University,OH,43113-9487,Circleville,32460.0,21390.0
+110680,University of California-San Diego,CA,92093,La Jolla,32434.0,14415.0
+482431,DeVry University-California,CA,91764,Ontario,32427.0,17990.0
+177117,Cottey College,MO,64772,Nevada,32415.0,21760.0
+399869,Southern California Institute of Technology,CA,92801-3758,Anaheim,32399.0,18390.0
+228468,Southwestern Adventist University,TX,76059,Keene,32356.0,22188.0
+466921,Chamberlain University-Missouri,MO,63146,St. Louis,32293.0,19375.0
+215415,Pittsburgh Technical College,PA,15071,Oakdale,32289.0,16632.0
+162210,Washington Adventist University,MD,20912,Takoma Park,32262.0,24800.0
+448752,CollegeAmerica-Colorado Springs,CO,80909,Colorado Springs,32220.0,14585.0
+446677,Stevens-Henager College,UT,84321,Logan,32220.0,14585.0
+485272,West Coast University-Miami,FL,33178-2431,Doral,32167.0,23241.0
+100937,Birmingham-Southern College,AL,35254,Birmingham,32095.0,18238.0
+478634,California College San Diego,CA,92069-2971,San Marcos,32068.0,14585.0
+224244,Dallas Christian College,TX,75234-7299,Dallas,32042.0,19086.0
+480204,Platt College-Riverside,CA,92507,Riverside,32028.0,14354.0
+129020,University of Connecticut,CT,06269,Storrs,32016.0,17226.0
+448761,CollegeAmerica-Fort Collins,CO,80525,Fort Collins,32009.0,14585.0
+474906,Stevens-Henager College,ID,83402,Idaho Falls,32009.0,14585.0
+438151,Stevens-Henager College,UT,84123-5671,Murray,32009.0,14585.0
+141237,Truett McConnell University,GA,30528,Cleveland,32004.0,21122.0
+216339,Temple University,PA,19122-6096,Philadelphia,31958.0,16970.0
+198756,Johnson C Smith University,NC,28216-5398,Charlotte,31931.0,18784.0
+207254,Spartan College of Aeronautics and Technology,OK,74115,Tulsa,31928.0,20531.0
+210304,Warner Pacific University,OR,97215,Portland,31919.0,18660.0
+217059,York College of Pennsylvania,PA,17403-3651,York,31858.0,20885.0
+184959,Eastwick College-Ramsey,NJ,07446-2551,Ramsey,31750.0,15990.0
+197984,Belmont Abbey College,NC,28012-1802,Belmont,31727.0,18500.0
+173328,Concordia University-Saint Paul,MN,55104-5494,Saint Paul,31684.0,22800.0
+111966,Charles R Drew University of Medicine and Science,CA,90059,Los Angeles,31684.0,13972.0
+199582,Saint Augustine's University,NC,27610-2298,Raleigh,31669.0,17890.0
+158802,Dillard University,LA,70122,New Orleans,31625.0,19281.0
+131876,Trinity Washington University,DC,20017-1094,Washington,31616.0,24630.0
+237640,Ohio Valley University,WV,26105-8000,Vienna,31597.0,21900.0
+100858,Auburn University,AL,36849,Auburn,31590.0,11492.0
+121275,Platt College-San Diego,CA,92115-3919,San Diego,31563.0,17235.0
+221759,The University of Tennessee-Knoxville,TN,37996,Knoxville,31510.0,13264.0
+234085,Virginia Military Institute,VA,24450-0304,Lexington,31494.0,19118.0
+454236,Chamberlain University-Ohio,OH,43209,Columbus,31488.0,19375.0
+217961,Converse College,SC,29302-0006,Spartanburg,31461.0,19890.0
+197993,Bennett College,NC,27401-3239,Greensboro,31453.0,18513.0
+482574,DeVry University-Ohio,OH,43219,Columbus,31426.0,17931.0
+139205,Brewton-Parker College,GA,30445,Mount Vernon,31425.0,18500.0
+170806,Madonna University,MI,48150-1176,Livonia,31408.0,23100.0
+485263,California College San Diego,CA,92111,San Diego,31399.0,14585.0
+234164,Virginia Union University,VA,23220,Richmond,31395.0,17861.0
+185828,New Jersey Institute of Technology,NJ,07102,Newark,31388.0,17674.0
+366252,Pennsylvania College of Technology,PA,17701-5799,Williamsport,31376.0,17160.0
+191205,Five Towns College,NY,11746-5871,Dix Hills,31341.0,23530.0
+181297,Nebraska Methodist College of Nursing & Allied Health,NE,68114-2852,Omaha,31321.0,16284.0
+247065,Beckfield College-Florence,KY,41042,Florence,31301.0,13295.0
+195173,St Francis College,NY,11201-4305,Brooklyn Heights,31266.0,26298.0
+234030,Virginia Commonwealth University,VA,23284-2512,Richmond,31235.0,14596.0
+196592,Touro College,NY,10018,New York,31230.0,20550.0
+104717,Grand Canyon University,AZ,85017,Phoenix,31213.0,17800.0
+457129,Chamberlain University-Florida,FL,32256,Jacksonville,31166.0,19375.0
+217882,Clemson University,SC,29634,Clemson,31158.0,15558.0
+480073,South University-Austin,TX,78681-2300,Round Rock,31065.0,17014.0
+459268,South University-Virginia Beach,VA,23452,Virginia Beach,31065.0,17014.0
+126614,University of Colorado Boulder,CO,80309-0017,Boulder,31044.0,12500.0
+219718,Bethel University,TN,38201,McKenzie,31005.0,17010.0
+186380,Rutgers University-New Brunswick,NJ,08901-1281,New Brunswick,30954.0,15407.0
+143288,Blackburn College,IL,62626,Carlinville,30921.0,23510.0
+238324,Bellin College,WI,54311,Green Bay,30865.0,21760.0
+166629,University of Massachusetts-Amherst,MA,01003,Amherst,30843.0,16389.0
+116226,Interior Designers Institute,CA,92660,Newport Beach,30810.0,18250.0
+231712,Christopher Newport University,VA,23606-3072,Newport News,30802.0,14924.0
+199069,University of Mount Olive,NC,28365-0919,Mount Olive,30770.0,21194.0
+170967,Rochester University,MI,48307,Rochester Hills,30725.0,23996.0
+138813,The Art Institute of Atlanta,GA,30328-1635,Atlanta,30695.0,19354.0
+378576,Pacific College of Health and Science,CA,92108-4407,San Diego,30685.0,9791.0
+230621,Stevens-Henager College,UT,84401,West Haven,30684.0,14585.0
+139630,Emmanuel College,GA,30639,Franklin Springs,30649.0,20712.0
+451820,The Art Institute of Austin,TX,78602,Bastrop,30539.0,19354.0
+230630,Stevens-Henager College,UT,84058,Orem,30528.0,14585.0
+474890,California College San Diego-CollegeAmerica-Phoenix,AZ,85051,Phoenix,30528.0,14585.0
+107044,Harding University,AR,72149-5615,Searcy,30490.0,20735.0
+220613,Lee University,TN,37311,Cleveland,30309.0,18770.0
+251312,South University-Columbia,SC,29203,Columbia,30299.0,17014.0
+405854,Rabbinical College of Ohr Shimon Yisroel,NY,11211,Brooklyn,30243.0,14600.0
+163912,St. Mary's College of Maryland,MD,20686,St. Mary's City,30238.0,15124.0
+159391,Louisiana State University and Agricultural & Mechanical College,LA,70803-2750,Baton Rouge,30234.0,11962.0
+177968,Lindenwood University,MO,63301-1695,Saint Charles,30211.0,18100.0
+170976,University of Michigan-Ann Arbor,MI,48109,Ann Arbor,30202.0,15558.0
+178697,College of the Ozarks,MO,65726-0017,Point Lookout,30193.0,19660.0
+181604,College of Saint Mary,NE,68106,Omaha,30181.0,20750.0
+171881,Kuyper College,MI,49525-9781,Grand Rapids,30178.0,22886.0
+487524,Husson University,ME,04401-2929,Bangor,30150.0,18940.0
+101365,Herzing University-Birmingham,AL,35209,Birmingham,30119.0,14200.0
+454616,Institute of Production and Recording,MN,55401,Minneapolis,30116.0,19656.0
+145637,University of Illinois Urbana-Champaign,IL,61820-5711,Champaign,30102.0,15122.0
+154262,St Luke's College,IA,51104-0263,Sioux City,30091.0,20440.0
+165167,Cambridge College,MA,02129,Boston,30088.0,16164.0
+384412,University of the Potomac-Washington DC Campus,DC,20005,Washington,30077.0,9990.0
+154855,Central Christian College of Kansas,KS,67460-5740,McPherson,30061.0,20450.0
+175227,Dunwoody College of Technology,MN,55403-1192,Minneapolis,30058.0,23119.0
+218733,South Carolina State University,SC,29117-0001,Orangeburg,30052.0,11060.0
+421832,Living Arts College,NC,27614-7076,Raleigh,30050.0,16600.0
+212993,Hussian College-Philadelphia,PA,19130,Philadelphia,30027.0,21990.0
+230889,Goddard College,VT,05667-9432,Plainfield,29957.0,17084.0
+138868,Point University,GA,31833,West Point,29952.0,21185.0
+482556,DeVry University-New Jersey,NJ,08830,Iselin,29925.0,18139.0
+458496,The Art Institute of Virginia Beach,VA,23462,Virginia Beach,29917.0,19354.0
+386472,Herzing University-Orlando,FL,32792,Winter Park,29875.0,14200.0
+100751,The University of Alabama,AL,35487-0100,Tuscaloosa,29872.0,10780.0
+441229,West Coast Ultrasound Institute,CA,90010,Los Angeles,29869.0,18600.0
+217484,University of Rhode Island,RI,02881,Kingston,29865.0,14566.0
+260992,Northwestern College,IL,60455,Bridgeview,29862.0,18475.0
+243823,Parker University,TX,75229-5668,Dallas,29802.0,15564.0
+232016,Centura College-Virginia Beach,VA,23452-7431,Virginia Beach,29787.0,15887.0
+145813,Illinois State University,IL,61790-1000,Normal,29758.0,14832.0
+490878,Platt College-Anaheim,CA,92806-5949,Anaheim,29751.0,14354.0
+240392,Herzing University-Madison,WI,53718,Madison,29711.0,14200.0
+127945,Rocky Mountain College of Art and Design,CO,80214,Lakewood,29696.0,19670.0
+133809,Florida College,FL,33617,Temple Terrace,29673.0,17300.0
+217864,Citadel Military College of South Carolina,SC,29409,Charleston,29663.0,12620.0
+224776,Miami International University of Art & Design-Art Institute Dallas,TX,75231-5993,Dallas,29654.0,19354.0
+432384,Platt College-Ontario,CA,91764,Ontario,29643.0,14354.0
+217819,College of Charleston,SC,29424-0001,Charleston,29576.0,12939.0
+140340,Herzing University-Atlanta,GA,30303,Atlanta,29515.0,14200.0
+458982,The Art Institute of San Antonio,TX,78230,San Antonio,29514.0,19354.0
+176628,Avila University,MO,64145-1698,Kansas City,29505.0,20500.0
+466930,Chamberlain University-Texas,TX,77041,Houston,29476.0,19375.0
+245953,Mid-America Christian University,OK,73170-9797,Oklahoma City,29466.0,18838.0
+219383,University of Sioux Falls,SD,57105-1699,Sioux Falls,29413.0,18910.0
+181853,York College,NE,68467-2699,York,29385.0,19310.0
+199643,Shaw University,NC,27601,Raleigh,29367.0,16480.0
+459851,Herzing University-Brookfield,WI,53005,Brookfield,29364.0,14200.0
+222938,The Art Institute of Houston,TX,77027-9625,Houston,29352.0,19354.0
+228723,Texas A & M University-College Station,TX,77843-1248,College Station,29341.0,12153.0
+174525,Oak Hills Christian College,MN,56601-8834,Bemidji,29327.0,17314.0
+193016,Mercy College,NY,10522,Dobbs Ferry,29324.0,19594.0
+449931,Averett University-Non-Traditional Programs,VA,24541,Danville,29320.0,11820.0
+459727,Touro University Worldwide,CA,90720,Los Alamitos,29313.0,14600.0
+157085,University of Kentucky,KY,40506-0032,Lexington,29289.0,12360.0
+203386,Hondros College of Nursing,OH,43081,Westerville,29257.0,19047.0
+456481,Polytechnic University of Puerto Rico-Miami,FL,33166,Miami,29250.0,12945.0
+200785,Herzing University-Akron,OH,44306-3931,Akron,29248.0,14200.0
+180878,Bryan College of Health Sciences,NE,68506,Lincoln,29236.0,17534.0
+166674,Massachusetts College of Art and Design,MA,02115-5882,Boston,29210.0,13700.0
+232797,American National University,VA,24153,Salem,29164.0,8208.0
+169327,Cleary University,MI,48843,Howell,29135.0,20550.0
+153977,Mercy College of Health Sciences,IA,50309-1239,Des Moines,29130.0,18150.0
+171128,Michigan Technological University,MI,49931-1295,Houghton,29126.0,15960.0
+451370,Yeshivas Be'er Yitzchok,NJ,07208,Elizabeth,29114.0,10900.0
+449764,Visible Music College,TN,38103,Memphis,29093.0,20250.0
+218821,Spartanburg Methodist College,SC,29301-5899,Spartanburg,29086.0,17310.0
+169479,Davenport University,MI,49512-9396,Grand Rapids,29082.0,19338.0
+414595,Pacific College of Oriental Medicine-New York,NY,10038,New York,29055.0,10517.0
+199458,Mid-Atlantic Christian University,NC,27909-4054,Elizabeth City,29053.0,15810.0
+200217,University of Mary,ND,58504,Bismarck,29047.0,19074.0
+207500,University of Oklahoma-Norman Campus,OK,73019-3072,Norman,29007.0,11763.0
+231651,Regent University,VA,23464,Virginia Beach,28997.0,18620.0
+260789,Platt College-Los Angeles,CA,91803,Alhambra,28963.0,14354.0
+133465,South University-West Palm Beach,FL,33411,Royal Palm Beach,28960.0,17014.0
+157021,American National University-Pikeville,KY,41501-1520,Pikeville,28946.0,8280.0
+217606,Northpoint Bible College,MA,01835,Haverhill,28942.0,13080.0
+130183,Post University,CT,06723,Waterbury,28930.0,16610.0
+206394,The North Coast College,OH,44107,Lakewood,28930.0,20700.0
+117104,Life Pacific University,CA,91773-3298,San Dimas,28917.0,16592.0
+161873,University of Baltimore,MD,21201-5720,Baltimore,28916.0,9096.0
+149222,Southern Illinois University-Carbondale,IL,62901-4512,Carbondale,28904.0,14904.0
+186876,Stockton University,NJ,08205-9441,Galloway,28851.0,14048.0
+166513,University of Massachusetts-Lowell,MA,01854-5104,Lowell,28785.0,15648.0
+166638,University of Massachusetts-Boston,MA,02125-3393,Boston,28783.0,14613.0
+433536,Herzing University-New Orleans,LA,70002,Metairie,28777.0,14200.0
+439701,The King's University,TX,76092,Southlake,28771.0,15450.0
+153861,Maharishi International University,IA,52557,Fairfield,28730.0,16530.0
+147703,Northern Illinois University,IL,60115-2828,Dekalb,28722.0,14610.0
+218964,Winthrop University,SC,29733,Rock Hill,28673.0,15806.0
+107877,Williams Baptist University,AR,72476,Walnut Ridge,28664.0,18060.0
+220552,South College,TN,37909-0000,Knoxville,28637.0,17025.0
+134811,AI Miami International University of Art and Design,FL,33132-1418,Miami,28627.0,19354.0
+487603,Northwest University-College of Adult and Professional Studies,WA,98033,Kirkland,28624.0,15600.0
+197285,The College of Westchester,NY,10606-1200,White Plains,28623.0,22410.0
+132602,Bethune-Cookman University,FL,32114-3099,Daytona Beach,28618.0,14814.0
+191621,Hilbert College,NY,14075-1597,Hamburg,28589.0,23450.0
+204857,Ohio University-Main Campus,OH,45701-2979,Athens,28490.0,12612.0
+139861,Georgia College & State University,GA,31061,Milledgeville,28467.0,9526.0
+139755,Georgia Institute of Technology-Main Campus,GA,30332-0530,Atlanta,28454.0,12682.0
+408844,Florida National University-Main Campus,FL,33012,Hialeah,28439.0,13688.0
+197142,Villa Maria College,NY,14225-3999,Buffalo,28410.0,24370.0
+171100,Michigan State University,MI,48824-1046,East Lansing,28402.0,14460.0
+207856,Southwestern Christian University,OK,73008,Bethany,28402.0,16330.0
+406547,City College-Gainesville,FL,32607,Gainesville,28395.0,14539.0
+186201,Ramapo College of New Jersey,NJ,07430-1680,Mahwah,28375.0,14678.0
+144883,East-West University,IL,60605,Chicago,28350.0,22650.0
+198862,Livingstone College,NC,28144,Salisbury,28319.0,18296.0
+110422,California Polytechnic State University-San Luis Obispo,CA,93407,San Luis Obispo,28302.0,9943.0
+442842,Pacific College of Health Science-Chicago,IL,60601,Chicago,28289.0,6880.0
+101116,South University-Montgomery,AL,36116,Montgomery,28258.0,17014.0
+459842,Herzing University-Kenosha,WI,53140,Kenosha,28224.0,14200.0
+153302,Emmaus Bible College,IA,52001-3096,Dubuque,28176.0,18950.0
+446233,Ecclesia College,AR,72762,Springdale,28150.0,15950.0
+458919,Strayer University-Georgia,GA,30341,Atlanta,28149.0,13515.0
+453215,Strayer University-New Jersey,NJ,08002,Cherry Hill,28149.0,13515.0
+453163,Strayer University-North Carolina,NC,27560,Morrisville,28149.0,13515.0
+458973,Strayer University-Texas,TX,78759,Austin,28149.0,13515.0
+430184,Strayer University-Maryland,MD,20746,Suitland,28149.0,13515.0
+450377,Strayer University-Alabama,AL,35203,Birmingham,28149.0,13515.0
+443766,Strayer University-Tennessee,TN,38118,Memphis,28149.0,13515.0
+459994,Strayer University-Global Region,DC,20005,Washington,28149.0,13515.0
+443784,Strayer University-Pennsylvania,PA,19053,Trevose,28149.0,13515.0
+131803,Strayer University-District of Columbia,DC,20005,Washington,28149.0,13515.0
+233684,Strayer University-Virginia,VA,22201,Arlington,28149.0,13515.0
+458964,Strayer University-South Carolina,SC,29607,Greenville,28149.0,13515.0
+196051,SUNY Morrisville,NY,13408,Morrisville,28142.0,8870.0
+233611,Southern Virginia University,VA,24416,Buena Vista,28100.0,17280.0
+214041,Millersville University of Pennsylvania,PA,17551-0302,Millersville,28082.0,12250.0
+218663,University of South Carolina-Columbia,SC,29208,Columbia,28059.0,12688.0
+377546,Northwest College of Art & Design,WA,98402,Tacoma,27974.0,18100.0
+217721,Benedict College,SC,29204-1086,Columbia,27927.0,16600.0
+213020,Indiana University of Pennsylvania-Main Campus,PA,15705-1098,Indiana,27912.0,13354.0
+213349,Kutztown University of Pennsylvania,PA,19530-0730,Kutztown,27890.0,11058.0
+216010,Shippensburg University of Pennsylvania,PA,17257-2299,Shippensburg,27875.0,13544.0
+153320,Faith Baptist Bible College and Theological Seminary,IA,50023-2152,Ankeny,27863.0,17298.0
+166692,Massachusetts Maritime Academy,MA,02532-1803,Buzzards Bay,27858.0,10018.0
+230056,Broadview University-West Jordan,UT,84088,West Jordan,27856.0,16956.0
+196103,SUNY College of Environmental Science and Forestry,NY,13210,Syracuse,27820.0,9130.0
+167987,University of Massachusetts-Dartmouth,MA,02747-2300,North Dartmouth,27808.0,14358.0
+141167,Thomas University,GA,31792,Thomasville,27806.0,16940.0
+202806,Franklin University,OH,43215-5399,Columbus,27754.0,9577.0
+458955,Strayer University-Mississippi,MS,39201,Jackson,27699.0,13515.0
+186371,Rutgers University-Camden,NJ,08102,Camden,27676.0,15264.0
+157289,University of Louisville,KY,40292-0001,Louisville,27604.0,11928.0
+183080,Plymouth State University,NH,03264-1595,Plymouth,27572.0,14440.0
+231165,Vermont Technical College,VT,05061,Randolph,27517.0,15292.0
+488679,Indiana Wesleyan University-National & Global,IN,46953,Marion,27500.0,9743.0
+161299,Maine Maritime Academy,ME,04420-0001,Castine,27487.0,13792.0
+133979,Florida Memorial University,FL,33054-6199,Miami Gardens,27460.0,16236.0
+367884,Hodges University,FL,33966,Fort Myers,27425.0,14300.0
+104179,University of Arizona,AZ,85721-0066,Tucson,27417.0,12711.0
+455257,Yeshiva of Machzikai Hadas,NY,11219-1408,Brooklyn,27414.0,10100.0
+194569,Davis College,NY,13790-2700,Johnson City,27393.0,17150.0
+447263,AmeriTech College-Draper,UT,84020-6545,Draper,27338.0,12763.0
+139579,South University-Savannah,GA,31406,Savannah,27322.0,17014.0
+111188,California State University Maritime Academy,CA,94590-8181,Vallejo,27259.0,7116.0
+183062,Keene State College,NH,03435-1506,Keene,27250.0,14568.0
+215266,University of Pittsburgh-Bradford,PA,16701,Bradford,27249.0,14158.0
+420024,Centura College-Chesapeake,VA,23320,Chesapeake,27230.0,16637.0
+232423,James Madison University,VA,22807,Harrisonburg,27221.0,12206.0
+206279,Union Institute & University,OH,45206-1925,Cincinnati,27180.0,13256.0
+142090,Boise Bible College,ID,83714-1220,Boise,27170.0,12920.0
+157793,Sullivan University,KY,40205-3013,Louisville,27155.0,12870.0
+105330,Northern Arizona University,AZ,86011-4092,Flagstaff,27129.0,11896.0
+232681,University of Mary Washington,VA,22401-5300,Fredericksburg,27127.0,13270.0
+232566,Longwood University,VA,23909,Farmville,27100.0,13520.0
+174154,Herzing University-Minneapolis,MN,55426,St. Louis Park,27064.0,14200.0
+200484,Trinity Bible College and Graduate School,ND,58436-7105,Ellendale,26997.0,17006.0
+176770,Cox College,MO,65802-1917,Springfield,26996.0,12600.0
+196219,SUNY at Purchase College,NY,10577-1400,Purchase,26982.0,8923.0
+130943,University of Delaware,DE,19716,Newark,26960.0,14280.0
+481401,Grace School of Theology,TX,77384-4894,Conroe,26956.0,6480.0
+441636,American Institute of Alternative Medicine,OH,43229,Columbus,26948.0,14338.0
+207157,Randall University,OK,73160,Moore,26935.0,15920.0
+215284,University of Pittsburgh-Johnstown,PA,15904,Johnstown,26932.0,14156.0
+461032,Carolina College of Biblical Studies,NC,28303-5157,Fayetteville,26920.0,5300.0
+475121,South University-Savannah Online,GA,31406,Savannah,26910.0,13594.0
+213783,Mansfield University of Pennsylvania,PA,16933,Mansfield,26898.0,10596.0
+179450,Saint Luke's College of Health Sciences,MO,64111,Kansas City,26883.0,11850.0
+174066,University of Minnesota-Twin Cities,MN,55455-0213,Minneapolis,26846.0,15027.0
+147369,Moody Bible Institute,IL,60610-3284,Chicago,26844.0,13290.0
+233921,Virginia Polytechnic Institute and State University,VA,24061-0131,Blacksburg,26834.0,13691.0
+220002,Hussian College-Daymar College Nashville,TN,37214,Nashville,26824.0,18400.0
+204796,Ohio State University-Main Campus,OH,43210,Columbus,26816.0,11084.0
+363439,Hussian College-Daymar College Bowling Green,KY,42101,Bowling Green,26815.0,19500.0
+159568,Louisiana College,LA,71359,Pineville,26813.0,17500.0
+434539,City College-Miami,FL,33156,Miami,26812.0,14539.0
+235422,Heritage University,WA,98948,Toppenish,26807.0,18029.0
+244233,City College-Fort Lauderdale,FL,33309,Fort Lauderdale,26783.0,14539.0
+232186,George Mason University,VA,22030-4444,Fairfax,26773.0,12564.0
+135610,Trinity International University-Florida,FL,33186,Miami,26757.0,13920.0
+126818,Colorado State University-Fort Collins,CO,80523-0100,Fort Collins,26742.0,11901.0
+480985,Midwives College of Utah,UT,84106,Salt Lake City,26724.0,7605.0
+220473,Johnson University,TN,37998,Knoxville,26719.0,16920.0
+196079,Binghamton University,NY,13850-6000,Vestal,26712.0,10201.0
+185590,Montclair State University,NJ,07043-1624,Montclair,26695.0,13073.0
+128586,Bais Binyomin Academy,NY,10952,Monsey,26664.0,9250.0
+140720,Paine College,GA,30901-3182,Augusta,26657.0,16096.0
+217749,Bob Jones University,SC,29614-0001,Greenville,26651.0,19100.0
+137777,Talmudic College of Florida,FL,33140-3854,Miami Beach,26650.0,13250.0
+209542,Oregon State University,OR,97331,Corvallis,26631.0,11715.0
+448886,Arizona State University-Downtown Phoenix,AZ,85004,Phoenix,26618.0,11338.0
+173452,Martin Luther College,MN,56073-3965,New Ulm,26590.0,15870.0
+165884,Benjamin Franklin Institute of Technology,MA,02116,Boston,26575.0,17550.0
+139959,University of Georgia,GA,30602,Athens,26530.0,12080.0
+163286,University of Maryland-College Park,MD,20742,College Park,26481.0,10779.0
+486284,Bethany Global University,MN,55438-2849,Bloomington,26478.0,14600.0
+368443,Hussian College-Daymar College Clarksville,TN,37040,Clarksville,26450.0,18900.0
+170091,Great Lakes Christian College,MI,48917-1299,Lansing,26415.0,17220.0
+201885,University of Cincinnati-Main Campus,OH,45221-0063,Cincinnati,26408.0,11660.0
+228787,The University of Texas at Dallas,TX,75080-3021,Richardson,26401.0,13442.0
+211477,Central Penn College,PA,17093-0309,Summerdale,26400.0,18714.0
+239071,Maranatha Baptist University,WI,53094,Watertown,26382.0,16660.0
+215275,University of Pittsburgh-Greensburg,PA,15601-5860,Greensburg,26377.0,14148.0
+439969,Acupuncture and Massage College,FL,33176,Miami,26375.0,10873.0
+248934,ECPI University,VA,23462,Virginia Beach,26347.0,16639.0
+132879,Johnson University Florida,FL,34744,Kissimmee,26345.0,16710.0
+178396,University of Missouri-Columbia,MO,65211,Columbia,26337.0,10477.0
+237783,Salem University,WV,26426,Salem,26325.0,16700.0
+146667,Lincoln Christian University,IL,62656-2111,Lincoln,26311.0,13590.0
+129215,Eastern Connecticut State University,CT,06226,Willimantic,26310.0,11846.0
+186399,Rutgers University-Newark,NJ,07102,Newark,26310.0,14826.0
+107600,Philander Smith College,AR,72202-3799,Little Rock,26302.0,13014.0
+104151,Arizona State University Campus Immersion,AZ,85287,Tempe,26296.0,11338.0
+106713,Central Baptist College,AR,72034,Conway,26290.0,16650.0
+160074,Franciscan Missionaries of Our Lady University,LA,70808,Baton Rouge,26287.0,14145.0
+262086,Brandman University,CA,92618,Irvine,26276.0,12440.0
+218919,Voorhees College,SC,29042,Denmark,26262.0,12630.0
+228778,The University of Texas at Austin,TX,78705,Austin,26254.0,10824.0
+236948,University of Washington-Seattle Campus,WA,98195-4550,Seattle,26249.0,11465.0
+165866,Framingham State University,MA,01701-9101,Framingham,26217.0,11100.0
+209551,University of Oregon,OR,97403,Eugene,26205.0,12720.0
+448354,Eastern International College-Belleville,NJ,07109,Belleville,26197.0,21225.0
+444255,Hussian College-Daymar College Murfreesboro,TN,37128,Murfreesboro,26178.0,19000.0
+377111,Remington College-Fort Worth Campus,TX,76112-1225,Fort Worth,26177.0,15112.0
+412599,Remington College-Memphis Campus,TN,38132,Memphis,26112.0,15399.0
+196060,SUNY at Albany,NY,12222,Albany,26090.0,10176.0
+363934,University of Advancing Technology,AZ,85283,Tempe,26073.0,17322.0
+196431,Talmudical Seminary Oholei Torah,NY,11213,Brooklyn,26054.0,9800.0
+196088,University at Buffalo,NY,14260-1660,Buffalo,26035.0,10524.0
+459259,South University-Richmond,VA,23060,Glen Allen,26012.0,17014.0
+145497,Hebrew Theological College,IL,60077,Skokie,26004.0,13300.0
+211644,Clarion University of Pennsylvania,PA,16214,Clarion,25977.0,11199.0
+208725,New Hope Christian College-Eugene,OR,97405,Eugene,25930.0,15700.0
+216764,West Chester University of Pennsylvania,PA,19383,West Chester,25919.0,10421.0
+196291,SUNY Maritime College,NY,10465-4198,Throggs Neck,25905.0,8508.0
+237136,Appalachian Bible College,WV,25880-9557,Mount Hope,25897.0,15162.0
+155317,University of Kansas,KS,66045,Lawrence,25892.0,11166.0
+240444,University of Wisconsin-Madison,WI,53706-1380,Madison,25890.0,10725.0
+188182,University of the Southwest,NM,88240,Hobbs,25850.0,16200.0
+218399,Morris College,SC,29150-3599,Sumter,25845.0,14326.0
+213376,Lackawanna College,PA,18509-3206,Scranton,25837.0,16130.0
+185262,Kean University,NJ,07083,Union,25809.0,12595.0
+236939,Washington State University,WA,99164-5910,Pullman,25762.0,11841.0
+159009,Grambling State University,LA,71245,Grambling,25754.0,7683.0
+459417,Compass College of Cinematic Arts,MI,49503,Grand Rapids,25737.0,15900.0
+149772,Western Illinois University,IL,61455,Macomb,25732.0,13256.0
+203517,Kent State University at Kent,OH,44242-0001,Kent,25686.0,10602.0
+213598,Lincoln University,PA,19352-0999,Lincoln University,25682.0,11266.0
+176664,Baptist Bible College,MO,65803-3498,Springfield,25627.0,14250.0
+196167,SUNY College at Geneseo,NY,14454-1465,Geneseo,25612.0,8927.0
+167729,Salem State University,MA,01970,Salem,25612.0,11128.0
+172699,Western Michigan University,MI,49008-5200,Kalamazoo,25591.0,13017.0
+164614,Boston Baptist College,MA,02136-4030,Boston,25578.0,12600.0
+123572,Sonoma State University,CA,94928-3609,Rohnert Park,25554.0,7880.0
+145600,University of Illinois Chicago,IL,60607,Chicago,25527.0,13874.0
+443599,American College of Healthcare Sciences,OR,97239,Portland,25514.0,11280.0
+132842,Albizu University-Miami,FL,33172-2209,Miami,25500.0,12444.0
+190114,Metropolitan College of New York,NY,10006-1742,New York,25474.0,19828.0
+211361,California University of Pennsylvania,PA,15419-1394,California,25437.0,11108.0
+102270,Stillman College,AL,35401,Tuscaloosa,25413.0,11292.0
+451866,Remington College-Shreveport Campus,LA,71101,Shreveport,25406.0,15642.0
+421878,Eastern International College-Jersey City,NJ,07306,Jersey City,25400.0,21225.0
+369516,Bryan University,MO,65804,Springfield,25340.0,15400.0
+203960,Mercy College of Ohio,OH,43604-1132,Toledo,25340.0,15900.0
+126076,Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary,CA,90046-7660,Los Angeles,25281.0,15700.0
+137962,Trinity College of Florida,FL,34655-4401,Trinity,25276.0,16300.0
+196176,State University of New York at New Paltz,NY,12561-2443,New Paltz,25247.0,8502.0
+225885,Jarvis Christian College,TX,75765-1470,Hawkins,25223.0,11720.0
+176017,University of Mississippi,MS,38677-1848,University,25223.0,8828.0
+234137,Virginia University of Lynchburg,VA,24501,Lynchburg,25198.0,9000.0
+164076,Towson University,MD,21252-0001,Towson,25180.0,10198.0
+196097,Stony Brook University,NY,11794-0701,Stony Brook,25177.0,10175.0
+212115,East Stroudsburg University of Pennsylvania,PA,18301-2999,East Stroudsburg,25172.0,11476.0
+223463,Remington College-Dallas Campus,TX,75041,Garland,25169.0,15633.0
+156189,Alice Lloyd College,KY,41844,Pippa Passes,25108.0,12230.0
+163851,Salisbury University,MD,21801-6862,Salisbury,25106.0,10044.0
+196149,SUNY Cortland,NY,13045-0900,Cortland,25026.0,8806.0
+449898,South University-Tampa,FL,33614-7095,Tampa,24982.0,17014.0
+154022,Ashford University,CA,92123,San Diego,24972.0,12400.0
+232982,Old Dominion University,VA,23529,Norfolk,24935.0,10680.0
+456959,University of Minnesota-Rochester,MN,55904,Rochester,24921.0,12944.0
+206084,University of Toledo,OH,43606-3390,Toledo,24920.0,10650.0
+196033,SUNY College of Agriculture and Technology at Cobleskill,NY,12043,Cobleskill,24891.0,8884.0
+213774,Manor College,PA,19046-3399,Jenkintown,24890.0,18022.0
+366535,Remington College-Mobile Campus,AL,36609,Mobile,24890.0,15373.0
+163268,University of Maryland-Baltimore County,MD,21250,Baltimore,24881.0,12028.0
+185129,New Jersey City University,NJ,07305,Jersey City,24875.0,12414.0
+219505,American Baptist College,TN,37207-9980,Nashville,24863.0,12474.0
+196185,SUNY Oneonta,NY,13820-4015,Oneonta,24862.0,8740.0
+447953,SUM Bible College and Theological Seminary,CA,95762,El Dorado Hills,24861.0,10604.0
+122597,San Francisco State University,CA,94132,San Francisco,24839.0,7266.0
+176080,Mississippi State University,MS,39762,Mississippi State,24837.0,8910.0
+483124,Arizona State University Digital Immersion,AZ,85257,Scottsdale,24805.0,10806.0
+368452,Nossi College of Art,TN,37115,Nashville,24786.0,17800.0
+176910,Central Christian College of the Bible,MO,65270-1997,Moberly,24765.0,13900.0
+482617,DeVry University-Tennessee,TN,37211,Nashville,24757.0,18248.0
+203544,Kettering College,OH,45429-1299,Kettering,24748.0,13392.0
+101709,University of Montevallo,AL,35115-6000,Montevallo,24746.0,13708.0
+460349,Johnson & Wales University-Online,RI,02903,Providence,24724.0,13365.0
+230834,Castleton University,VT,05735,Castleton,24717.0,12470.0
+130493,Southern Connecticut State University,CT,06515-1355,New Haven,24698.0,11446.0
+151351,Indiana University-Bloomington,IN,47405-7000,Bloomington,24698.0,10947.0
+216038,Slippery Rock University of Pennsylvania,PA,16057-1383,Slippery Rock,24698.0,10507.0
+133872,AdventHealth University,FL,32803,Orlando,24683.0,12840.0
+115773,Humphreys University-Stockton and Modesto Campuses,CA,95207-3896,Stockton,24673.0,14580.0
+227526,Prairie View A & M University,TX,77446,Prairie View,24668.0,10786.0
+213613,Lock Haven University,PA,17745-2390,Lock Haven,24662.0,10878.0
+169248,Central Michigan University,MI,48859,Mount Pleasant,24656.0,12960.0
+201821,The Christ College of Nursing and Health Sciences,OH,45219-2989,Cincinnati,24649.0,16021.0
+122755,San Jose State University,CA,95192-0001,San Jose,24649.0,7852.0
+169798,Eastern Michigan University,MI,48197,Ypsilanti,24620.0,13758.0
+148654,University of Illinois Springfield,IL,62703-5407,Springfield,24610.0,11813.0
+417734,Southeast Missouri Hospital College of Nursing and Health Sciences,MO,63703-4507,Cape Girardeau,24582.0,12177.0
+123280,Shasta Bible College and Graduate School,CA,96002,Redding,24575.0,12860.0
+187444,William Paterson University of New Jersey,NJ,07470,Wayne,24539.0,13370.0
+133526,Edward Waters College,FL,32209,Jacksonville,24539.0,14878.0
+490133,Westcliff University,CA,92614,Irvine,24524.0,8700.0
+200800,University of Akron Main Campus,OH,44325-4702,Akron,24520.0,11636.0
+442639,University of the Potomac-VA Campus,VA,22043-2536,FALLS CHURCH,24514.0,9990.0
+115755,Humboldt State University,CA,95521-8299,Arcata,24497.0,7864.0
+100663,University of Alabama at Birmingham,AL,35294-0110,Birmingham,24495.0,8568.0
+445203,Remington College-North Houston Campus,TX,77067,Houston,24452.0,15664.0
+199218,University of North Carolina Wilmington,NC,28403-5963,Wilmington,24452.0,7181.0
+180832,Clarkson College,NE,68131-2739,Omaha,24442.0,14040.0
+482538,DeVry University-Missouri,MO,64131,Kansas City,24439.0,17800.0
+174233,University of Minnesota-Duluth,MN,55812,Duluth,24436.0,13680.0
+196246,SUNY College at Plattsburgh,NY,12901-2681,Plattsburgh,24430.0,8872.0
+232937,Norfolk State University,VA,23504-8000,Norfolk,24430.0,9622.0
+196194,SUNY College at Oswego,NY,13126,Oswego,24393.0,8717.0
+196006,SUNY College of Technology at Alfred,NY,14802,Alfred,24387.0,8852.0
+474863,Los Angeles Pacific University,CA,91773-1741,San Dimas,24383.0,10800.0
+217624,Allen University,SC,29204,Columbia,24359.0,13340.0
+161253,University of Maine,ME,04469,Orono,24335.0,11438.0
+218724,Coastal Carolina University,SC,29526,Conway,24325.0,11640.0
+155399,Kansas State University,KS,66506,Manhattan,24304.0,10440.0
+230913,Northern Vermont University,VT,05656-9464,Johnson,24294.0,12422.0
+153658,University of Iowa,IA,52242-1316,Iowa City,24239.0,9606.0
+172644,Wayne State University,MI,48202,Detroit,24231.0,13517.0
+211158,Bloomsburg University of Pennsylvania,PA,17815,Bloomsburg,24230.0,10958.0
+218742,University of South Carolina-Upstate,SC,29303-4999,Spartanburg,24227.0,11558.0
+199157,North Carolina Central University,NC,27707,Durham,24222.0,6534.0
+167288,Massachusetts College of Liberal Arts,MA,01247-4100,North Adams,24205.0,10930.0
+229063,Texas Southern University,TX,77004,Houston,24201.0,9173.0
+218229,Lander University,SC,29649-2099,Greenwood,24194.0,11700.0
+174251,University of Minnesota-Morris,MN,56267,Morris,24181.0,13578.0
+221847,Tennessee Technological University,TN,38505-0001,Cookeville,24181.0,8934.0
+436614,International Baptist College and Seminary,AZ,85286,Chandler,24171.0,11850.0
+127741,University of Northern Colorado,CO,80639,Greeley,24165.0,9987.0
+201441,Bowling Green State University-Main Campus,OH,43403,Bowling Green,24164.0,11316.0
+175342,Alcorn State University,MS,39096-7500,Alcorn State,24116.0,7290.0
+201177,Aultman College of Nursing and Health Sciences,OH,44710-1797,Canton,24106.0,18950.0
+150136,Ball State University,IN,47306,Muncie,24093.0,10020.0
+170082,Grand Valley State University,MI,49401-9403,Allendale,24075.0,12860.0
+230366,Eagle Gate College-Murray,UT,84123-6965,Murray,24061.0,14880.0
+229115,Texas Tech University,TX,79409-5005,Lubbock,24054.0,9300.0
+218654,University of South Carolina Beaufort,SC,29909,Bluffton,24033.0,10730.0
+149231,Southern Illinois University-Edwardsville,IL,62026-1259,Edwardsville,24012.0,12219.0
+198109,Cabarrus College of Health Sciences,NC,28025-3959,Concord,24009.0,13574.0
+219347,South Dakota School of Mines and Technology,SD,57701-3995,Rapid City,24000.0,10770.0
+163338,University of Maryland Eastern Shore,MD,21853-1299,Princess Anne,23983.0,8558.0
+210076,Pioneer Pacific College,OR,97005,Beaverton,23980.0,14597.0
+225575,Huston-Tillotson University,TX,78702-2795,Austin,23949.0,14346.0
+207388,Oklahoma State University-Main Campus,OK,74078-1015,Stillwater,23947.0,9019.0
+200013,Rasmussen University-North Dakota,ND,58103-7196,Fargo,23935.0,10935.0
+144892,Eastern Illinois University,IL,61920,Charleston,23922.0,11989.0
+100706,University of Alabama in Huntsville,AL,35899,Huntsville,23917.0,11122.0
+128391,Western Colorado University,CO,81231,Gunnison,23911.0,10436.0
+229887,Wiley College,TX,75670,Marshall,23906.0,12522.0
+233277,Radford University,VA,24142,Radford,23893.0,11350.0
+199193,North Carolina State University at Raleigh,NC,27695-7001,Raleigh,23891.0,9101.0
+110538,California State University-Chico,CA,95929-0150,Chico,23888.0,7806.0
+150172,Calumet College of Saint Joseph,IN,46394,Whiting,23888.0,19670.0
+197018,United Talmudical Seminary,NY,11211,Brooklyn,23882.0,14000.0
+163453,Morgan State University,MD,21251-0001,Baltimore,23867.0,8008.0
+147776,Northeastern Illinois University,IL,60625-4699,Chicago,23811.0,11462.0
+162584,Frostburg State University,MD,21532-1099,Frostburg,23810.0,9410.0
+211893,Curtis Institute of Music,PA,19103,Philadelphia,23790.0,2900.0
+199120,University of North Carolina at Chapel Hill,NC,27599,Chapel Hill,23776.0,8980.0
+168263,Westfield State University,MA,01086-1630,Westfield,23767.0,10849.0
+477996,National American University-Bellevue,NE,68123-1065,Bellevue,23766.0,15000.0
+466189,National American University-Colorado Springs South,CO,80915-3612,Colorado Springs,23766.0,15000.0
+440758,National American University-Albuquerque West,NM,87114-0000,Albuquerque,23766.0,15000.0
+454865,Cambridge College of Healthcare & Technology,FL,33484,Delray Beach,23749.0,14908.0
+102298,Talladega College,AL,35160,Talladega,23745.0,13846.0
+486840,Kennesaw State University,GA,30144,Kennesaw,23703.0,6456.0
+181464,University of Nebraska-Lincoln,NE,68588-0419,Lincoln,23703.0,9522.0
+127185,Fort Lewis College,CO,81301-3999,Durango,23701.0,8872.0
+460376,Fairfax University of America,VA,22030-0000,Fairfax,23680.0,10328.0
+488101,Yeshivas Maharit D'Satmar,NY,10950,Monroe,23674.0,11500.0
+139940,Georgia State University,GA,30303-3083,Atlanta,23636.0,9286.0
+141574,University of Hawaii at Manoa,HI,96822-2217,Honolulu,23636.0,12186.0
+153427,Hamilton Technical College,IA,52807,Davenport,23634.0,14250.0
+178208,Midwestern Baptist Theological Seminary,MO,64118-4697,Kansas City,23624.0,8290.0
+206941,University of Central Oklahoma,OK,73034,Edmond,23617.0,7753.0
+175856,Jackson State University,MS,39217,Jackson,23612.0,8445.0
+196024,SUNY College of Technology at Delhi,NY,13753-1100,Delhi,23598.0,8560.0
+193308,Monroe College,NY,10468,Bronx,23586.0,15860.0
+202134,Cleveland State University,OH,44115-2214,Cleveland,23579.0,10825.0
+237011,Western Washington University,WA,98225-9008,Bellingham,23565.0,8343.0
+212452,Faith Theological Seminary,MD,21212-2624,Baltimore,23560.0,8392.0
+211608,Cheyney University of Pennsylvania,PA,19319-0200,Cheyney,23533.0,10904.0
+196200,SUNY College at Potsdam,NY,13676-2294,Potsdam,23520.0,8711.0
+426314,Embry-Riddle Aeronautical University-Worldwide,FL,32114-3900,Daytona Beach,23464.0,9912.0
+227216,University of North Texas,TX,76203-1277,Denton,23462.0,11044.0
+176372,University of Southern Mississippi,MS,39406-0001,Hattiesburg,23434.0,8896.0
+222877,Arlington Baptist University,TX,76012-3425,Arlington,23431.0,14370.0
+196158,SUNY at Fredonia,NY,14063-1136,Fredonia,23420.0,8717.0
+450571,Rasmussen University-Wisconsin,WI,54303-2349,Green Bay,23396.0,10935.0
+106397,University of Arkansas,AR,72701,Fayetteville,23390.0,9384.0
+138309,Rasmussen University-Florida,FL,34474-6226,Ocala,23389.0,10935.0
+196653,Trocaire College,NY,14220-2094,Buffalo,23382.0,18340.0
+446109,Cambridge Institute of Allied Health & Technology,FL,32701,Altamonte Springs,23372.0,15330.0
+151962,Mid-America College of Funeral Service,IN,47130,Jeffersonville,23336.0,11900.0
+160065,University of Holy Cross,LA,70131-7399,New Orleans,23327.0,14720.0
+451556,Southwest University at El Paso,TX,79925,El Paso,23317.0,16000.0
+147536,National Louis University,IL,60603,Chicago,23294.0,11010.0
+210429,Western Oregon University,OR,97361-1394,Monmouth,23290.0,9768.0
+174075,University of Minnesota-Crookston,MN,56716-5001,Crookston,23290.0,12116.0
+196121,SUNY Brockport,NY,14420-2919,Brockport,23256.0,8680.0
+206491,Wilberforce University,OH,45384-1001,Wilberforce,23250.0,13250.0
+194693,Rabbinical College Beth Shraga,NY,10952-3033,Monsey,23250.0,14050.0
+163532,Ner Israel Rabbinical College,MD,21208,Baltimore,23250.0,12400.0
+234155,Virginia State University,VA,23806,Petersburg,23239.0,9154.0
+209506,Oregon Institute of Technology,OR,97601-8801,Klamath Falls,23237.0,10485.0
+235167,The Evergreen State College,WA,98505-0001,Olympia,23235.0,8217.0
+460783,Remington College-Heathrow Campus,FL,32746,Lake Mary,23229.0,12768.0
+201469,Bryant & Stratton College-Parma,OH,44130-3151,Parma,23227.0,18102.0
+204486,University of Northwestern Ohio,OH,45805,Lima,23217.0,11500.0
+228769,The University of Texas at Arlington,TX,76013,Arlington,23217.0,11040.0
+186186,Rabbinical College of America,NJ,07960-3600,Morristown,23210.0,11500.0
+220862,University of Memphis,TN,38152,Memphis,23176.0,9912.0
+165024,Bridgewater State University,MA,02325,Bridgewater,23172.0,10732.0
+231785,Bryant & Stratton College-Virginia Beach,VA,23462,Virginia Beach,23172.0,17814.0
+130776,Western Connecticut State University,CT,06810-6826,Danbury,23153.0,11344.0
+178420,University of Missouri-St Louis,MO,63121-4400,Saint Louis,23142.0,10170.0
+160621,Southern University and A & M College,LA,70813,Baton Rouge,23123.0,9141.0
+451750,Bryant & Stratton College-Wauwatosa,WI,53226,Wauwatosa,23089.0,18398.0
+448673,Rasmussen University-Illinois,IL,61108-2513,Rockford,23088.0,10935.0
+171456,Northern Michigan University,MI,49855-5301,Marquette,23069.0,11255.0
+122409,San Diego State University,CA,92182-0001,San Diego,23054.0,7510.0
+100654,Alabama A & M University,AL,35762,Normal,23053.0,10024.0
+133650,Florida Agricultural and Mechanical University,FL,32307,Tallahassee,23029.0,5785.0
+189583,Bryant & Stratton College-Buffalo,NY,14203,Buffalo,23002.0,17799.0
+441937,California State University-Channel Islands,CA,93012,Camarillo,22993.0,6802.0
+436836,University of Connecticut-Stamford,CT,06901-2315,Stamford,22976.0,14648.0
+141334,University of West Georgia,GA,30118-0001,Carrollton,22875.0,6395.0
+156620,Eastern Kentucky University,KY,40475-3102,Richmond,22867.0,9876.0
+219356,South Dakota State University,SD,57007-1898,Brookings,22858.0,9114.0
+169910,Ferris State University,MI,49307-2251,Big Rapids,22852.0,12068.0
+234827,Central Washington University,WA,98926-7501,Ellensburg,22827.0,8273.0
+170000,Grace Christian University,MI,49509,Wyoming,22810.0,14350.0
+181215,University of Nebraska at Kearney,NE,68849-1212,Kearney,22806.0,7752.0
+197674,Yeshiva of Nitra Rabbinical College,NY,10549,Mount Kisco,22800.0,12750.0
+170639,Lake Superior State University,MI,49783,Sault Ste Marie,22796.0,12255.0
+228459,Texas State University,TX,78666,San Marcos,22791.0,10581.0
+480657,Rasmussen University-Kansas,KS,66606,Topeka,22788.0,10935.0
+126580,University of Colorado Colorado Springs,CO,80918,Colorado Springs,22772.0,8524.0
+219204,National American University-Rapid City,SD,57701-2823,Rapid City,22743.0,15000.0
+220075,East Tennessee State University,TN,37614,Johnson City,22737.0,9259.0
+182290,University of Nevada-Reno,NV,89557,Reno,22731.0,8034.0
+159647,Louisiana Tech University,LA,71272,Ruston,22727.0,10185.0
+483780,IGlobal University,VA,22182-2734,Vienna,22722.0,14000.0
+225511,University of Houston,TX,77204-2018,Houston,22721.0,9221.0
+128106,Colorado State University Pueblo,CO,81001-4901,Pueblo,22718.0,8407.0
+175014,Rasmussen University-Minnesota,MN,56301-3713,St. Cloud,22696.0,10935.0
+440828,Oregon State University-Cascades Campus,OR,97702,Bend,22696.0,10638.0
+218645,University of South Carolina Aiken,SC,29801,Aiken,22683.0,10760.0
+417752,Messenger College,TX,76021-4202,Bedford,22669.0,9180.0
+196015,SUNY College of Technology at Canton,NY,13617-1098,Canton,22610.0,8650.0
+449870,University of the West,CA,91770,Rosemead,22595.0,12956.0
+176406,Tougaloo College,MS,39174,Tougaloo,22594.0,10861.0
+243780,Purdue University-Main Campus,IN,47907-2040,West Lafayette,22590.0,9992.0
+175430,Blue Mountain College,MS,38610,Blue Mountain,22587.0,14100.0
+107983,Southern Arkansas University Main Campus,AR,71753,Magnolia,22579.0,9080.0
+420574,Arizona State University-Polytechnic,AZ,85212,Mesa,22548.0,10268.0
+228705,Texas A & M University-Kingsville,TX,78363,Kingsville,22535.0,9136.0
+493600,Congregation Talmidei Mesivta Tiferes Shmiel Aleksander,NY,11219-5440,Brooklyn,22500.0,18000.0
+221740,The University of Tennessee-Chattanooga,TN,37403-2598,Chattanooga,22483.0,9656.0
+189592,Bryant & Stratton College-Greece,NY,14612,Rochester,22475.0,18121.0
+126562,University of Colorado Denver/Anschutz Medical Campus,CO,80217-3364,Denver,22467.0,9335.0
+131399,University of the District of Columbia,DC,20008,Washington,22452.0,6020.0
+178721,Park University,MO,64152-3795,Parkville,22443.0,11190.0
+366711,California State University-San Marcos,CA,92096-0001,San Marcos,22435.0,7717.0
+224554,Texas A & M University-Commerce,TX,75428-3011,Commerce,22432.0,8958.0
+126182,Adams State University,CO,81101,Alamosa,22426.0,9440.0
+189857,Central Yeshiva Tomchei Tmimim Lubavitz,NY,11230-2798,Brooklyn,22425.0,7700.0
+377555,University of Washington-Bothell Campus,WA,98011-8246,Bothell,22415.0,11390.0
+492962,Indiana Institute of Technology-College of Professional Studies,IN,46803,Fort Wayne,22379.0,10224.0
+176479,William Carey University,MS,39401,Hattiesburg,22367.0,12750.0
+160038,Northwestern State University of Louisiana,LA,71497-0002,Natchitoches,22342.0,8768.0
+162007,Bowie State University,MD,20715-9465,Bowie,22338.0,8444.0
+199139,University of North Carolina at Charlotte,NC,28223-0001,Charlotte,22323.0,6905.0
+130110,Paier College of Art Inc,CT,06514-3902,Hamden,22320.0,17570.0
+151324,Indiana State University,IN,47809,Terre Haute,22318.0,9236.0
+101675,Miles College,AL,35064-2621,Fairfield,22300.0,12464.0
+130934,Delaware State University,DE,19901,Dover,22297.0,8258.0
+233897,The University of Virginia's College at Wise,VA,24293-4400,Wise,22289.0,10252.0
+137953,Trinity Baptist College,FL,32221,Jacksonville,22274.0,13130.0
+171571,Oakland University,MI,48309-4401,Rochester Hills,22252.0,13346.0
+190752,Yeshiva of Far Rockaway Derech Ayson Rabbinical Seminary,NY,11691-5219,Far Rockaway,22250.0,12750.0
+219471,University of South Dakota,SD,57069-2390,Vermillion,22248.0,9332.0
+126827,Colorado Technical University-Colorado Springs,CO,80907-3812,Colorado Springs,22246.0,12529.0
+161226,University of Maine at Farmington,ME,04938-9978,Farmington,22241.0,9344.0
+238032,West Virginia University,WV,26506,Morgantown,22238.0,8976.0
+151810,Martin University,IN,46218-0567,Indianapolis,22222.0,13200.0
+178411,Missouri University of Science and Technology,MO,65409,Rolla,22211.0,9936.0
+380438,Provo College,UT,84601,Provo,22173.0,14880.0
+139931,Georgia Southern University,GA,30460-8126,Statesboro,22171.0,6463.0
+225414,University of Houston-Clear Lake,TX,77058-1002,Houston,22127.0,7310.0
+227881,Sam Houston State University,TX,77340,Huntsville,22120.0,8536.0
+160658,University of Louisiana at Lafayette,LA,70503,Lafayette,22107.0,10382.0
+218061,Francis Marion University,SC,29506,Florence,22102.0,11160.0
+476601,Bais HaMedrash and Mesivta of Baltimore,MD,21209-1613,Baltimore,22100.0,13000.0
+110219,Bryan University,AZ,85281,Tempe,22092.0,10075.0
+194499,Plaza College,NY,11375,Forest Hills,22090.0,13450.0
+237932,West Liberty University,WV,26074,West Liberty,22089.0,7990.0
+407009,Arizona State University-West,AZ,85306,Glendale,22071.0,10268.0
+409698,California State University-Monterey Bay,CA,93955-8001,Seaside,22069.0,7143.0
+178891,Ranken Technical College,MO,63113-2811,Saint Louis,22058.0,14889.0
+187967,New Mexico Institute of Mining and Technology,NM,87801,Socorro,22050.0,8156.0
+106704,University of Central Arkansas,AR,72035-0001,Conway,22041.0,9188.0
+178767,Stevens-The Institute of Business & Arts,MO,63103,Saint Louis,22033.0,12285.0
+404338,Schiller International University,FL,33602,Tampa,22027.0,14360.0
+134097,Florida State University,FL,32306-1037,Tallahassee,22026.0,5656.0
+110060,Bethesda University,CA,92801,Anaheim,22018.0,8095.0
+206604,Wright State University-Main Campus,OH,45435-0001,Dayton,22015.0,9578.0
+128771,Central Connecticut State University,CT,06050,New Britain,22007.0,11068.0
+196112,SUNY Polytechnic Institute,NY,13502,Utica,22001.0,8503.0
+157386,Morehead State University,KY,40351,Morehead,21987.0,9290.0
+174020,Metropolitan State University,MN,55106-5000,Saint Paul,21975.0,8114.0
+110529,California State Polytechnic University-Pomona,CA,91768,Pomona,21967.0,7396.0
+212160,Edinboro University of Pennsylvania,PA,16444-0001,Edinboro,21967.0,10574.0
+106306,Arkansas Baptist College,AR,72202-6068,Little Rock,21955.0,8760.0
+366553,Southern Technical College,FL,33907-1108,Fort Myers,21937.0,13716.0
+178679,Ozark Christian College,MO,64801,Joplin,21933.0,13220.0
+219602,Austin Peay State University,TN,37044,Clarksville,21915.0,8303.0
+447421,Eagle Gate College-Layton,UT,84041,Layton,21910.0,14880.0
+155007,Donnelly College,KS,66102,Kansas City,21887.0,7740.0
+100724,Alabama State University,AL,36104-0271,Montgomery,21866.0,11068.0
+165820,Fitchburg State University,MA,01420-2697,Fitchburg,21864.0,10610.0
+220598,Lane College,TN,38301-4598,Jackson,21864.0,11790.0
+168430,Worcester State University,MA,01602-2597,Worcester,21857.0,10161.0
+180461,Montana State University,MT,59717,Bozeman,21840.0,7325.0
+219082,Dakota State University,SD,57042-1799,Madison,21799.0,9536.0
+228529,Tarleton State University,TX,76401-0000,Stephenville,21795.0,7851.0
+106810,Crowley's Ridge College,AR,72450,Paragould,21793.0,14500.0
+401223,World Mission University,CA,90020,Los Angeles,21785.0,6440.0
+179566,Missouri State University-Springfield,MO,65897,Springfield,21782.0,7588.0
+175272,Winona State University,MN,55987-5838,Winona,21782.0,9666.0
+196130,SUNY Buffalo State,NY,14222,Buffalo,21764.0,8472.0
+106458,Arkansas State University,AR,72401,Jonesboro,21756.0,8900.0
+240453,University of Wisconsin-Milwaukee,WI,53211,Milwaukee,21754.0,9526.0
+475608,Criswell College,TX,75246-1537,Dallas,21751.0,11552.0
+221838,Tennessee State University,TN,37209-1561,Nashville,21684.0,9012.0
+228431,Stephen F Austin State University,TX,75961,Nacogdoches,21677.0,8844.0
+101587,University of West Alabama,AL,35470,Livingston,21657.0,10990.0
+199184,University of North Carolina School of the Arts,NC,27127-2738,Winston Salem,21624.0,9358.0
+197744,Yeshivath Zichron Moshe,NY,12779,South Fallsburg,21600.0,13450.0
+198464,East Carolina University,NC,27858-4353,Greenville,21598.0,7238.0
+106245,University of Arkansas at Little Rock,AR,72204,Little Rock,21590.0,9544.0
+127556,Colorado Mesa University,CO,81501-3122,Grand Junction,21588.0,8686.0
+482936,Florida Polytechnic University,FL,33805-8531,Lakeland,21570.0,4940.0
+180814,Bellevue University,NE,68005-3098,Bellevue,21568.0,7851.0
+208646,Eastern Oregon University,OR,97850,La Grande,21549.0,9084.0
+224147,Texas A & M University-Corpus Christi,TX,78412-5503,Corpus Christi,21541.0,9272.0
+174358,Minnesota State University Moorhead,MN,56563,Moorhead,21525.0,8954.0
+200332,North Dakota State University-Main Campus,ND,58108-6050,Fargo,21497.0,9754.0
+110574,California State University-East Bay,CA,94542,Hayward,21495.0,7000.0
+488031,Abraham Lincoln University,CA,91210,Glendale,21475.0,6258.0
+204176,Mount Carmel College of Nursing,OH,43222-1504,Columbus,21410.0,14372.0
+132903,University of Central Florida,FL,32816,Orlando,21402.0,6368.0
+141565,University of Hawaii at Hilo,HI,96720-4091,Hilo,21400.0,7792.0
+438498,Stratford University,VA,22314,Alexandria,21393.0,15135.0
+189565,Bryant & Stratton College-Syracuse North,NY,13090,Liverpool,21379.0,16662.0
+478014,National American University-Mesquite,TX,75150-5628,Mesquite,21378.0,15000.0
+207661,Rogers State University,OK,74017-3252,Claremore,21359.0,7470.0
+200280,University of North Dakota,ND,58202-8193,Grand Forks,21350.0,9736.0
+490276,Yeshiva Shaar Ephraim,NY,10952-2732,Monsey,21342.0,14175.0
+461795,North American University,TX,77477-0000,Stafford,21318.0,9900.0
+172051,Saginaw Valley State University,MI,48710,University Center,21300.0,10814.0
+122834,Santa Barbara Business College-Bakersfield,CA,93309,Bakersfield,21291.0,11658.0
+137351,University of South Florida,FL,33620-9951,Tampa,21282.0,6410.0
+229027,The University of Texas at San Antonio,TX,78249-1644,San Antonio,21177.0,8262.0
+217891,Clinton College,SC,29730,Rock Hill,21176.0,10020.0
+134130,University of Florida,FL,32611,Gainesville,21151.0,6381.0
+178402,University of Missouri-Kansas City,MO,64110,Kansas City,21129.0,9915.0
+413413,Capella University,MN,55402-3389,Minneapolis,21128.0,14540.0
+142285,University of Idaho,ID,83844-2282,Moscow,21126.0,8304.0
+188517,Bryant & Stratton College-Albany,NY,12205,Albany,21114.0,17822.0
+204680,Ohio State University-Mansfield Campus,OH,44906,Mansfield,21111.0,7912.0
+183071,University of New Hampshire at Manchester,NH,03101-1113,Manchester,21110.0,15685.0
+445133,American InterContinental University-Houston,TX,77042,Houston,21105.0,14640.0
+153603,Iowa State University,IA,50011-2103,Ames,21093.0,9320.0
+139719,Fort Valley State University,GA,31030-4313,Fort Valley,21082.0,5772.0
+434584,Ilisagvik College,AK,99723,Barrow,21080.0,4300.0
+145336,Governors State University,IL,60484,University Park,21074.0,10070.0
+180948,Chadron State College,NE,69337-2690,Chadron,21068.0,7556.0
+377564,University of Washington-Tacoma Campus,WA,98402-3100,Tacoma,21053.0,11639.0
+187745,Institute of American Indian and Alaska Native Culture and Arts Development,NM,87508-1300,Santa Fe,21011.0,5220.0
+144005,Chicago State University,IL,60628-1598,Chicago,20999.0,11366.0
+202912,Good Samaritan College of Nursing and Health Science,OH,45220-2489,Cincinnati,20982.0,15470.0
+141264,Valdosta State University,GA,31698,Valdosta,20972.0,6583.0
+178615,Truman State University,MO,63501-4221,Kirksville,20954.0,8120.0
+230764,University of Utah,UT,84112-9008,Salt Lake City,20948.0,8615.0
+179256,Saint Louis Christian College,MO,63033,Florissant,20910.0,13680.0
+101879,University of North Alabama,AL,35632-0001,Florence,20886.0,10620.0
+480781,California Miramar University,CA,92108,San Diego,20830.0,8994.0
+220978,Middle Tennessee State University,TN,37132,Murfreesboro,20800.0,9070.0
+102094,University of South Alabama,AL,36688-0002,Mobile,20792.0,8396.0
+171146,University of Michigan-Flint,MI,48502-1950,Flint,20790.0,12202.0
+168847,Baker College,MI,48867,Owosso,20781.0,9920.0
+159939,University of New Orleans,LA,70148,New Orleans,20778.0,8772.0
+489937,Carolina University,NC,27101,Winston-Salem,20752.0,11900.0
+142115,Boise State University,ID,83725,Boise,20745.0,8068.0
+157401,Murray State University,KY,42071-3318,Murray,20742.0,9168.0
+189413,Boricua College,NY,10032-1560,New York,20732.0,11025.0
+180416,Montana Technological University,MT,59701-8997,Butte,20728.0,7440.0
+176044,Mississippi Valley State University,MS,38941-1400,Itta Bena,20714.0,6746.0
+186900,Talmudical Academy-New Jersey,NJ,07710,Adelphia,20700.0,13700.0
+101453,Heritage Christian University,AL,35630-9977,Florence,20695.0,11532.0
+133669,Florida Atlantic University,FL,33431-0991,Boca Raton,20693.0,4879.0
+207865,Southwestern Oklahoma State University,OK,73096-3001,Weatherford,20680.0,7695.0
+221768,The University of Tennessee-Martin,TN,38238,Martin,20669.0,9748.0
+159993,University of Louisiana at Monroe,LA,71209-0000,Monroe,20649.0,8974.0
+154095,University of Northern Iowa,IA,50614-0005,Cedar Falls,20632.0,8938.0
+456490,Polytechnic University of Puerto Rico-Orlando,FL,32825,Orlando,20624.0,12630.0
+160612,Southeastern Louisiana University,LA,70402,Hammond,20623.0,8329.0
+175078,Southwest Minnesota State University,MN,56258-5468,Marshall,20621.0,8874.0
+151111,Indiana University-Purdue University-Indianapolis,IN,46202-5143,Indianapolis,20613.0,9701.0
+209807,Portland State University,OR,97201,Portland,20613.0,9579.0
+226879,Wade College,TX,75207,Dallas,20572.0,14515.0
+107071,Henderson State University,AR,71999-0001,Arkadelphia,20560.0,8902.0
+459949,Texas A&M University-San Antonio,TX,78224,San Antonio,20540.0,8864.0
+157951,Western Kentucky University,KY,42101-1000,Bowling Green,20497.0,10802.0
+159966,Nicholls State University,LA,70310,Thibodaux,20462.0,7898.0
+173124,Bemidji State University,MN,56601,Bemidji,20457.0,8940.0
+226091,Lamar University,TX,77705,Beaumont,20448.0,8494.0
+262129,New College of Florida,FL,34243-2109,Sarasota,20441.0,6916.0
+235097,Eastern Washington University,WA,99004-2496,Cheney,20432.0,7526.0
+219639,Baptist Health Sciences University,TN,38104,Memphis,20430.0,12332.0
+199148,University of North Carolina at Greensboro,NC,27402-6170,Greensboro,20401.0,7403.0
+228802,The University of Texas at Tyler,TX,75799-6699,Tyler,20371.0,8742.0
+219259,Northern State University,SD,57401-7198,Aberdeen,20360.0,8750.0
+171137,University of Michigan-Dearborn,MI,48128-1491,Dearborn,20353.0,13304.0
+161022,Maine College of Health Professions,ME,04240,Lewiston,20345.0,13855.0
+204705,Ohio State University-Newark Campus,OH,43055,Newark,20341.0,7912.0
+438586,American InterContinental University-Atlanta,GA,30328,Atlanta,20315.0,12768.0
+205124,Rabbinical College Telshe,OH,44092,Wickliffe,20200.0,13100.0
+482325,National American University-Georgetown,TX,78628-5355,Georgetown,20184.0,15000.0
+110617,California State University-Sacramento,CA,95819-2694,Sacramento,20173.0,7368.0
+237385,Glenville State College,WV,26351-1292,Glenville,20156.0,7308.0
+229814,West Texas A & M University,TX,79016-0001,Canyon,20150.0,8135.0
+486196,Beth Medrash Meor Yitzchok,NY,10952-4023,Monsey,20150.0,10350.0
+490230,Reformed University,GA,30043-5604,Lawrenceville,20144.0,5360.0
+448840,University of South Florida-St Petersburg,FL,33701-9807,St. Petersburg,20138.0,5821.0
+228501,Sul Ross State University,TX,79832,Alpine,20112.0,8806.0
+207209,Langston University,OK,73050,Langston,20050.0,6421.0
+196237,SUNY College at Old Westbury,NY,11568-0210,Old Westbury,20035.0,8368.0
+219046,Black Hills State University,SD,57799-9500,Spearfish,20033.0,9009.0
+142276,Idaho State University,ID,83209,Pocatello,20022.0,7872.0
+484905,University of North Texas at Dallas,TX,75241,Dallas,20020.0,9140.0
+196264,SUNY Empire State College,NY,12866-4391,Saratoga Springs,20017.0,7605.0
+102553,University of Alaska Anchorage,AK,99508,Anchorage,20010.0,8103.0
+173920,Minnesota State University-Mankato,MN,56001,Mankato,19992.0,8438.0
+176789,Calvary University,MO,64147-1341,Kansas City,19967.0,11164.0
+240727,University of Wyoming,WY,82071,Laramie,19960.0,5581.0
+228884,Texas College,TX,75702,Tyler,19940.0,10000.0
+441900,Nevada State College,NV,89002,Henderson,19933.0,5663.0
+222831,Angelo State University,TX,76909,San Angelo,19924.0,7637.0
+159717,McNeese State University,LA,70605,Lake Charles,19917.0,8102.0
+161554,University of Southern Maine,ME,04103,Portland,19913.0,9226.0
+181394,University of Nebraska at Omaha,NE,68182-0225,Omaha,19906.0,7980.0
+199999,Winston-Salem State University,NC,27110-0001,Winston-Salem,19900.0,5941.0
+199111,University of North Carolina at Asheville,NC,28804-8510,Asheville,19884.0,7231.0
+193052,Mesivta Torah Vodaath Rabbinical Seminary,NY,11218,Brooklyn,19860.0,12360.0
+102580,Alaska Bible College,AK,99645,Palmer,19851.0,9700.0
+100830,Auburn University at Montgomery,AL,36117-3596,Montgomery,19849.0,8620.0
+457484,Pacific Rim Christian University,HI,96819-2228,Honolulu,19811.0,11300.0
+230603,Southern Utah University,UT,84720,Cedar City,19800.0,6770.0
+175616,Delta State University,MS,38733,Cleveland,19770.0,7671.0
+461023,National Paralegal College,AZ,85014-1561,Phoenix,19759.0,7995.0
+480091,Bryant & Stratton College-Online,NY,14127,Orchard Park,19758.0,14834.0
+178624,Northwest Missouri State University,MO,64468-6001,Maryville,19751.0,8238.0
+127565,Metropolitan State University of Denver,CO,80217-3362,Denver,19730.0,8151.0
+151306,University of Southern Indiana,IN,47712,Evansville,19721.0,8546.0
+174783,Saint Cloud State University,MN,56301-4498,Saint Cloud,19721.0,8656.0
+181534,Peru State College,NE,68421-0010,Peru,19721.0,7704.0
+431983,Yeshiva of the Telshe Alumni,NY,10471-2897,Riverdale,19700.0,9850.0
+240268,University of Wisconsin-Eau Claire,WI,54701,Eau Claire,19684.0,8840.0
+156082,Washburn University,KS,66621-0001,Topeka,19676.0,8704.0
+134112,Florida Technical College,FL,32826,Orlando,19667.0,14025.0
+240417,University of Wisconsin-Stout,WI,54751,Menomonie,19657.0,9463.0
+491057,Yeshiva Kollel Tifereth Elizer,NY,11219,Brooklyn,19643.0,11360.0
+176035,Mississippi University for Women,MS,39701,Columbus,19631.0,7525.0
+136172,University of North Florida,FL,32224-7699,Jacksonville,19627.0,6389.0
+180489,The University of Montana,MT,59812,Missoula,19616.0,7354.0
+216311,Talmudical Yeshiva of Philadelphia,PA,19131,Philadelphia,19600.0,9450.0
+156125,Wichita State University,KS,67260-0124,Wichita,19593.0,8298.0
+197647,Yeshiva Derech Chaim,NY,11218-0000,Brooklyn,19592.0,12100.0
+162283,Coppin State University,MD,21216-3698,Baltimore,19577.0,8964.0
+102368,Troy University,AL,36082-0001,Troy,19545.0,8908.0
+179557,Southeast Missouri State University,MO,63701,Cape Girardeau,19521.0,7800.0
+446604,Uta Mesivta of Kiryas Joel,NY,10950,Monroe,19520.0,13000.0
+226833,Midwestern State University,TX,76308-2099,Wichita Falls,19481.0,9601.0
+194657,Rabbinical Academy Mesivta Rabbi Chaim Berlin,NY,11230,Brooklyn,19450.0,12450.0
+207722,University of Science and Arts of Oklahoma,OK,73018-5322,Chickasha,19425.0,8040.0
+133951,Florida International University,FL,33199,Miami,19409.0,6565.0
+117672,Southern California University of Health Sciences,CA,90604,Whittier,19390.0,7150.0
+177986,Logan University,MO,63017,Chesterfield,19317.0,6650.0
+110608,California State University-Northridge,CA,91330,Northridge,19301.0,6977.0
+481410,Yeshiva Gedolah Kesser Torah,NY,10952-2127,Monsey,19300.0,11300.0
+187985,University of New Mexico-Main Campus,NM,87106,Albuquerque,19286.0,7875.0
+122852,Santa Barbara Business College-Santa Maria,CA,93454,Santa Maria,19267.0,11658.0
+110583,California State University-Long Beach,CA,90840-0115,Long Beach,19239.0,6834.0
+486026,Yeshiva Sholom Shachna,NY,11230,Brooklyn,19227.0,10750.0
+230728,Utah State University,UT,84322-1400,Logan,19223.0,8402.0
+139366,Columbus State University,GA,31907-5645,Columbus,19213.0,6241.0
+384421,Rabbi Jacob Joseph School,NJ,08817-4494,Edison,19200.0,11950.0
+188942,Associated Beth Rivkah Schools,NY,11225-0000,Brooklyn,19186.0,7800.0
+463056,University of Connecticut-Hartford Campus,CT,06103,Hartford,19176.0,14628.0
+201690,Central State University,OH,45384-1004,Wilberforce,19161.0,6726.0
+197869,Appalachian State University,NC,28608,Boone,19158.0,7409.0
+219374,Sinte Gleska University,SD,57555-0105,Mission,19154.0,3154.0
+156417,Clear Creek Baptist Bible College,KY,40977-9752,Pineville,19139.0,9620.0
+205443,Shawnee State University,OH,45662,Portsmouth,19124.0,8265.0
+237525,Marshall University,WV,25755,Huntington,19118.0,8412.0
+106412,University of Arkansas at Pine Bluff,AR,71601,Pine Bluff,19108.0,8248.0
+194763,Rabbinical Seminary of America,NY,11367,Flushing,19100.0,9800.0
+445267,Central Methodist University-College of Graduate and Extended Studies,MO,65248-1198,Fayette,19080.0,6550.0
+163204,University of Maryland Global Campus,MD,20783-8010,Adelphi,19052.0,7560.0
+181783,Wayne State College,NE,68787,Wayne,19038.0,7202.0
+225502,University of Houston-Victoria,TX,77901,Victoria,19031.0,6781.0
+227429,Paul Quinn College,TX,75241,Dallas,19027.0,9125.0
+176965,University of Central Missouri,MO,64093,Warrensburg,19023.0,7969.0
+481438,Yeshiva Yesodei Hatorah,NJ,08701-4946,Lakewood,19022.0,12500.0
+101480,Jacksonville State University,AL,36265,Jacksonville,19004.0,11120.0
+493716,Yeshiva Gedola Tiferes Yaakov Yitzchok,NJ,08701-5502,Lakewood,19000.0,13000.0
+230047,Brigham Young University-Hawaii,HI,96762-1294,Laie,18862.0,5720.0
+482149,Augusta University,GA,30912,Augusta,18844.0,8832.0
+484756,University of Phoenix-Texas,TX,77079,Houston,18832.0,9552.0
+155025,Emporia State University,KS,66801-5415,Emporia,18820.0,6797.0
+138716,Albany State University,GA,31705,Albany,18820.0,5934.0
+188304,Western New Mexico University,NM,88061,Silver City,18758.0,6306.0
+192785,Maria College of Albany,NY,12208,Albany,18744.0,15600.0
+192004,Jamestown Business College,NY,14701-4756,Jamestown,18738.0,12645.0
+443049,Faith International University,WA,98407-0186,Tacoma,18722.0,8550.0
+229179,Texas Woman's University,TX,76204,Denton,18715.0,7926.0
+188030,New Mexico State University-Main Campus,NM,88003-8001,Las Cruces,18703.0,7087.0
+491622,Yeshiva Chemdas Hatorah,NJ,08701-4618,Lakewood,18702.0,12150.0
+240462,University of Wisconsin-Platteville,WI,53818-3099,Platteville,18677.0,7353.0
+433660,Florida Gulf Coast University,FL,33965-6565,Fort Myers,18666.0,6118.0
+197735,Yeshivath Viznitz,NY,10952,Monsey,18658.0,10100.0
+159416,Louisiana State University-Shreveport,LA,71115-2399,Shreveport,18612.0,7327.0
+180692,The University of Montana-Western,MT,59725-3598,Dillon,18602.0,5725.0
+148876,Saint Augustine College,IL,60640-3501,Chicago,18597.0,11736.0
+488314,Beth Medrash of Asbury Park,NJ,08701-5842,Lakewood,18589.0,12350.0
+102614,University of Alaska Fairbanks,AK,99775,Fairbanks,18558.0,7080.0
+206695,Youngstown State University,OH,44555-0001,Youngstown,18556.0,9279.0
+196583,Torah Temimah Talmudical Seminary,NY,10312,Staten Island,18550.0,11050.0
+240426,University of Wisconsin-Superior,WI,54880-4500,Superior,18545.0,8132.0
+492801,Drury University-College of Continuing Professional Studies,MO,65802,Springfield,18496.0,7238.0
+230038,Brigham Young University,UT,84602,Provo,18484.0,5790.0
+197601,Yeshiva Karlin Stolin,NY,11204-1545,Brooklyn,18483.0,12800.0
+132709,Broward College,FL,33301,Fort Lauderdale,18469.0,2830.0
+139764,Georgia Southwestern State University,GA,31709-4693,Americus,18450.0,5500.0
+151102,Purdue University Fort Wayne,IN,46805-1499,Fort Wayne,18450.0,8589.0
+178387,Missouri Western State University,MO,64507,Saint Joseph,18434.0,8225.0
+484613,University of Phoenix-Arizona,AZ,85040,Phoenix,18427.0,9552.0
+192624,Machzikei Hadath Rabbinical College,NY,11204-1805,Brooklyn,18397.0,11500.0
+197692,Yeshiva Shaar Hatorah,NY,11418,Kew Gardens,18380.0,16160.0
+106467,Arkansas Tech University,AR,72801-2222,Russellville,18358.0,7668.0
+110510,California State University-San Bernardino,CA,92407-2393,San Bernardino,18313.0,6885.0
+451398,Yeshiva Toras Chaim,NJ,08701,Lakewood,18307.0,12250.0
+237950,West Virginia University Institute of Technology,WV,25801,Beckley,18299.0,7560.0
+445027,American InterContinental University,AZ,85286,Chandler,18294.0,11965.0
+224545,Texas A&M University-Texarkana,TX,75503,Texarkana,18292.0,7536.0
+200004,Western Carolina University,NC,28723-9646,Cullowhee,18289.0,4277.0
+200572,Valley City State University,ND,58072,Valley City,18269.0,7707.0
+155681,Pittsburg State University,KS,66762,Pittsburg,18267.0,7338.0
+214883,Peirce College,PA,19102-4699,Philadelphia,18260.0,15060.0
+132408,The Baptist College of Florida,FL,32440,Graceville,18260.0,11700.0
+485768,Atlantis University,FL,33132,Miami,18233.0,10800.0
+193247,Mirrer Yeshiva Cent Institute,NY,11223-2010,Brooklyn,18215.0,9670.0
+200086,Nueta Hidatsa Sahnish College,ND,58763,New Town,18207.0,3870.0
+482228,Veritas Baptist College,IN,47025,Greendale,18201.0,6260.0
+490504,Yeshiva Ohr Naftoli,NY,12553-8006,New Windsor,18200.0,9725.0
+141981,University of Hawaii-West Oahu,HI,96707-4507,Kapolei,18199.0,7584.0
+484631,University of Phoenix-California,CA,91761,Ontario,18188.0,9552.0
+493664,Yeshivat Hechal Shemuel,NY,11230-0000,Brooklyn,18180.0,12380.0
+139250,College of Coastal Georgia,GA,31520-3644,Brunswick,18173.0,3933.0
+204699,Ohio State University-Marion Campus,OH,43302-5695,Marion,18173.0,7912.0
+127884,Pueblo Community College,CO,81004-1499,Pueblo,18146.0,5179.0
+131113,Wilmington University,DE,19720,New Castle,18123.0,11480.0
+240189,University of Wisconsin-Whitewater,WI,53190-1790,Whitewater,18109.0,7695.0
+450979,Trident University International,CA,90630-5041,Cypress,18104.0,9240.0
+182281,University of Nevada-Las Vegas,NV,89154,Las Vegas,18102.0,8291.0
+229018,The University of Texas Permian Basin,TX,79762-0001,Odessa,18098.0,6666.0
+161235,University of Maine at Fort Kent,ME,04743-1292,Fort Kent,18081.0,8295.0
+102632,University of Alaska Southeast,AK,99801-8697,Juneau,18063.0,6696.0
+436818,University of Connecticut-Waterbury Campus,CT,06702,Waterbury,18021.0,14638.0
+444413,Beis Medrash Heichal Dovid,NY,11691-4433,Far Rockaway,18000.0,9500.0
+106485,University of Arkansas at Monticello,AR,71656,Monticello,17957.0,7909.0
+199102,North Carolina A & T State University,NC,27411,Greensboro,17944.0,6657.0
+481058,Grace Mission University,CA,92833-3860,Fullerton,17944.0,3120.0
+237792,Shepherd University,WV,25443,Shepherdstown,17943.0,7784.0
+240365,University of Wisconsin-Oshkosh,WI,54901,Oshkosh,17893.0,7656.0
+157447,Northern Kentucky University,KY,41099,Highland Heights,17888.0,10296.0
+201955,University of Cincinnati-Blue Ash College,OH,45236-1096,Blue Ash,17885.0,6010.0
+152637,Vincennes University,IN,47591,Vincennes,17876.0,6074.0
+193061,Mesivta of Eastern Parkway-Yeshiva Zichron Meilech,NY,11218-5559,Brooklyn,17850.0,9450.0
+237899,West Virginia State University,WV,25112-1000,Institute,17848.0,8237.0
+436827,University of Connecticut-Avery Point,CT,06340-6097,Groton,17816.0,14638.0
+204015,Miami University-Middletown,OH,45042,Middletown,17807.0,6286.0
+240480,University of Wisconsin-Stevens Point,WI,54481-3897,Stevens Point,17759.0,8270.0
+200226,Mayville State University,ND,58257-1299,Mayville,17735.0,7049.0
+183257,Granite State College,NH,03301-3471,Concord,17723.0,7791.0
+204671,Ohio State University-Lima Campus,OH,45804,Lima,17714.0,7912.0
+191126,Fashion Institute of Technology,NY,10001-5992,New York,17704.0,6110.0
+461847,Keser Torah-Mayan Hatalmud,NJ,08701-2758,Lakewood,17700.0,10150.0
+194736,Rabbinical College of Long Island,NY,11561,Long Beach,17700.0,8800.0
+149329,Telshe Yeshiva-Chicago,IL,60625,Chicago,17680.0,14500.0
+139311,Clayton  State University,GA,30260-0285,Morrow,17676.0,5538.0
+220604,Le Moyne-Owen College,TN,38126-6595,Memphis,17667.0,11196.0
+233602,Southeastern Free Will Baptist Bible College,NC,27591-9072,Wendell,17663.0,10130.0
+187897,New Mexico Highlands University,NM,87701,Las Vegas,17652.0,6318.0
+187648,Eastern New Mexico University-Main Campus,NM,88130,Portales,17612.0,6450.0
+177551,Harris-Stowe State University,MO,63103-2136,Saint Louis,17602.0,5484.0
+161244,University of Maine at Machias,ME,04654-1397,Machias,17601.0,8036.0
+447689,Georgia Gwinnett College,GA,30043,Lawrenceville,17587.0,5762.0
+110565,California State University-Fullerton,CA,92831-3599,Fullerton,17568.0,6924.0
+177940,Lincoln University,MO,65101,Jefferson City,17552.0,7910.0
+201432,Bowling Green State University-Firelands,OH,44839-9791,Huron,17526.0,5159.0
+405058,Yeshivas Novominsk,NY,11204-2138,Brooklyn,17500.0,10300.0
+127820,Pikes Peak Community College,CO,80906-5498,Colorado Springs,17415.0,3842.0
+240329,University of Wisconsin-La Crosse,WI,54601-9959,La Crosse,17408.0,9127.0
+240471,University of Wisconsin-River Falls,WI,54022-5001,River Falls,17406.0,8037.0
+161341,University of Maine at Presque Isle,ME,04769-2888,Presque Isle,17394.0,8330.0
+476717,Be'er Yaakov Talmudic Seminary,NY,10977,Spring Valley,17356.0,10260.0
+128780,Charter Oak State College,CT,06053,New Britain,17353.0,8553.0
+228796,The University of Texas at El Paso,TX,79968-0691,El Paso,17334.0,9161.0
+490805,Purdue University Northwest,IN,46323,Hammond,17323.0,7812.0
+481225,Mid-South Christian College,TN,38118-3151,Memphis,17289.0,7902.0
+240277,University of Wisconsin-Green Bay,WI,54311-7001,Green Bay,17257.0,7873.0
+237330,Concord University,WV,24712,Athens,17248.0,8385.0
+363712,Yeshivah Gedolah Rabbinical College,FL,33139,Miami Beach,17200.0,8300.0
+155061,Fort Hays State University,KS,67601-4099,Hays,17169.0,5280.0
+484473,University of Florida-Online,FL,32611,Gainesville,17164.0,3876.0
+217040,Yeshivath Beth Moshe,PA,18505-2196,Scranton,17100.0,9600.0
+486239,San Ignacio University,FL,33178-2350,Doral,17040.0,10400.0
+210146,Southern Oregon University,OR,97520,Ashland,17015.0,10479.0
+243665,University of the Virgin Islands,VI,00802-9990,Charlotte Amalie,16993.0,5235.0
+217420,Rhode Island College,RI,02908,Providence,16982.0,9578.0
+151379,Indiana University-Southeast,IN,47150,New Albany,16942.0,7527.0
+207263,Northeastern State University,OK,74464-2399,Tahlequah,16921.0,6915.0
+225432,University of Houston-Downtown,TX,77002-1014,Houston,16863.0,6788.0
+118976,Modesto Junior College,CA,95350-5800,Modesto,16844.0,1176.0
+230171,Dixie State University,UT,84770-3876,Saint George,16840.0,5496.0
+140960,Savannah State University,GA,31404-5310,Savannah,16833.0,5743.0
+135391,State College of Florida-Manatee-Sarasota,FL,34207,Bradenton,16793.0,3074.0
+228486,Southwestern Christian College,TX,75160-4812,Terrell,16790.0,8131.0
+157058,Kentucky State University,KY,40601-2355,Frankfort,16750.0,8090.0
+476692,Yeshiva Gedolah Zichron Leyma,NJ,07083-3618,Union,16750.0,10750.0
+161217,University of Maine at Augusta,ME,04330-9410,Augusta,16722.0,8168.0
+180179,Montana State University Billings,MT,59101-0298,Billings,16707.0,5933.0
+176318,Rust College,MS,38635,Holly Springs,16664.0,9900.0
+207041,East Central University,OK,74820-6999,Ada,16662.0,7052.0
+110486,California State University-Bakersfield,CA,93311-1099,Bakersfield,16660.0,7419.0
+490513,Bais Medrash Mayan Hatorah,NJ,08701,Lakewood,16650.0,10650.0
+138354,The University of West Florida,FL,32514-5750,Pensacola,16649.0,6360.0
+437097,University of Management and Technology,VA,22209-1609,Arlington,16625.0,9450.0
+127909,Red Rocks Community College,CO,80228-1255,Lakewood,16614.0,4263.0
+482370,National American University-Indianapolis,IN,46268-3167,Indianapolis,16602.0,15000.0
+486017,Yeshiva Ohr Yisrael,NY,11229,Brooklyn,16600.0,7900.0
+482680,University of North Georgia,GA,30597,Dahlonega,16579.0,4744.0
+237367,Fairmont State University,WV,26554-2470,Fairmont,16578.0,7738.0
+110495,California State University-Stanislaus,CA,95382-0299,Turlock,16549.0,7542.0
+458113,Antioch College AG,VA,23666,Hampton,16527.0,8420.0
+207306,Northwestern Oklahoma State University,OK,73717-2799,Alva,16501.0,8018.0
+193070,Mesivtha Tifereth Jerusalem of America,NY,10002-6301,New York,16500.0,11750.0
+110556,California State University-Fresno,CA,93740,Fresno,16494.0,6589.0
+200253,Minot State University,ND,58707,Minot,16428.0,7592.0
+170444,Jackson College,MI,49201-8399,Jackson,16404.0,6600.0
+180522,Montana State University-Northern,MT,59501,Havre,16397.0,5955.0
+108092,University of Arkansas-Fort Smith,AR,72913-3649,Fort Smith,16391.0,5754.0
+142328,Lewis-Clark State College,ID,83501-2698,Lewiston,16389.0,6982.0
+114433,Feather River Community College District,CA,95971-9124,Quincy,16379.0,1461.0
+449339,American Public University System,WV,25414,Charles Town,16279.0,7324.0
+133960,The College of the Florida Keys,FL,33040,Key West,16220.0,3276.0
+207351,Oklahoma Panhandle State University,OK,73939-0430,Goodwell,16208.0,7264.0
+126942,Community College of Denver,CO,80204-2026,Denver,16203.0,4831.0
+151342,Indiana University-South Bend,IN,46615-7111,South Bend,16128.0,7527.0
+196042,Farmingdale State College,NY,11735-1021,Farmingdale,16113.0,8538.0
+151333,Indiana University-Kokomo,IN,46902-9003,Kokomo,16112.0,7527.0
+234979,Columbia Basin College,WA,99301,Pasco,16069.0,5613.0
+199281,University of North Carolina at Pembroke,NC,28372-1510,Pembroke,16047.0,3490.0
+198543,Fayetteville State University,NC,28301-4298,Fayetteville,16044.0,5274.0
+240374,University of Wisconsin-Parkside,WI,53144,Kenosha,16036.0,7421.0
+451404,Talmudical Seminary of Bobov,NY,11219,Brooklyn,16000.0,10200.0
+207847,Southeastern Oklahoma State University,OK,74701-3347,Durant,15973.0,6750.0
+461528,Grace College of Divinity,NC,28314-2343,Fayetteville,15851.0,6100.0
+485999,Bet Medrash Gadol Ateret Torah,NY,11223-1933,Brooklyn,15850.0,10050.0
+127200,Front Range Community College,CO,80031,Westminster,15827.0,3986.0
+237215,Bluefield State College,WV,24701-2198,Bluefield,15791.0,7488.0
+134510,Hobe Sound Bible College,FL,33455-1065,Hobe Sound,15748.0,6940.0
+141839,University of Hawaii Maui College,HI,96732-1617,Kahului,15693.0,3278.0
+127617,Morgan Community College,CO,80701,Fort  Morgan,15678.0,3738.0
+200059,Dickinson State University,ND,58601-4896,Dickinson,15673.0,7784.0
+482158,Middle Georgia State University,GA,31206,Macon,15653.0,4042.0
+178341,Missouri Southern State University,MO,64801-1595,Joplin,15600.0,6803.0
+202903,Gods Bible School and College,OH,45202-6838,Cincinnati,15586.0,7150.0
+482699,South Georgia State College,GA,31533,Douglas,15550.0,3310.0
+230782,Weber State University,UT,84408-1031,Ogden,15537.0,5986.0
+206613,Wright State University-Lake Campus,OH,45822-2952,Celina,15475.0,6410.0
+206914,Cameron University,OK,73505-6377,Lawton,15452.0,6450.0
+182564,Western Nevada College,NV,89703-7399,Carson City,15387.0,3428.0
+171483,Northwestern Michigan College,MI,49686,Traverse City,15381.0,4504.0
+491613,Yeshiva Gedolah Tiferes Boruch,NJ,07060-0000,North Plainfield,15300.0,9850.0
+420325,Yeshiva D'monsey Rabbinical College,NY,10952,Monsey,15221.0,7500.0
+236504,South Seattle College,WA,98106-1499,Seattle,15187.0,4717.0
+439190,Cascadia College,WA,98011-8205,Bothell,15181.0,4055.0
+151388,Indiana University-East,IN,47374-1289,Richmond,15180.0,7527.0
+490319,Yeshiva Bais Aharon,NJ,08701-2053,Lakewood,15175.0,9075.0
+189273,Beth Hamedrash Shaarei Yosher Institute,NY,11204,Brooklyn,15150.0,9850.0
+237109,Yakima Valley College,WA,98907-2520,Yakima,15146.0,4285.0
+139153,Beulah Heights University,GA,30316,Atlanta,15092.0,10150.0
+139968,Gordon State College,GA,30204,Barnesville,15062.0,4084.0
+204006,Miami University-Hamilton,OH,45011,Hamilton,15057.0,6286.0
+157030,Kentucky Mountain Bible College,KY,41339,Jackson,15051.0,9610.0
+194666,Rabbinical College Bobover Yeshiva Bnei Zion,NY,11219,Brooklyn,15027.0,7850.0
+491640,Yeshiva Gedolah Keren Hatorah,NJ,08701-1239,Lakewood,15014.0,8650.0
+110547,California State University-Dominguez Hills,CA,90747-0005,Carson,14951.0,6946.0
+491525,Union Bible College,IN,46074-0900,Westfield,14920.0,6140.0
+488350,Yeshiva Gedolah Shaarei Shmuel,NJ,08701-3623,Lakewood,14900.0,8800.0
+110918,California Christian College,CA,93727,Fresno,14861.0,9810.0
+491710,Yeshiva Gedolah of Cliffwood,NJ,07735-5105,Keyport,14850.0,7850.0
+484871,Rabbinical College Ohr Yisroel,NY,11236,Brooklyn,14850.0,9000.0
+235237,Pierce College District,WA,98498-1999,Lakewood,14803.0,4041.0
+491914,Yeshiva Gedola Tiferes Yerachmiel,NJ,08701-0000,Lakewood,14800.0,9050.0
+100690,Amridge University,AL,36117-3553,Montgomery,14800.0,6950.0
+247773,Yeshiva Gedolah of Greater Detroit,MI,48237,Oak Park,14782.0,7400.0
+126289,Arapahoe Community College,CO,80160-9002,Littleton,14772.0,3921.0
+110592,California State University-Los Angeles,CA,90032-8506,Los Angeles,14728.0,6768.0
+200527,Turtle Mountain Community College,ND,58316,Belcourt,14693.0,2250.0
+229355,Tyler Junior College,TX,75701,Tyler,14691.0,2962.0
+225070,Grayson College,TX,75020-8299,Denison,14632.0,2642.0
+159382,Louisiana State University-Alexandria,LA,71302-9121,Alexandria,14608.0,6668.0
+237039,Whatcom Community College,WA,98226,Bellingham,14605.0,4650.0
+155308,Kansas Christian College,KS,66204-1975,Overland Park,14568.0,8780.0
+450933,Columbia Southern University,AL,36561-9000,Orange Beach,14560.0,5655.0
+234669,Bellevue College,WA,98007-6484,Bellevue,14519.0,3866.0
+190512,CUNY Bernard M Baruch College,NY,10010,New York,14517.0,7462.0
+237701,Potomac State College of West Virginia University,WV,26726,Keyser,14507.0,4536.0
+125471,West Los Angeles College,CA,90230-3519,Culver City,14437.0,1220.0
+380377,Northwest Indian College,WA,98226-9217,Bellingham,14423.0,4840.0
+236638,Skagit Valley College,WA,98273,Mount Vernon,14413.0,4000.0
+170620,Lake Michigan College,MI,49022-1899,Benton Harbor,14412.0,4703.0
+235103,Edmonds College,WA,98036-5912,Lynnwood,14406.0,4017.0
+413617,College of Menominee Nation,WI,54135-1179,Keshena,14405.0,6200.0
+235343,Green River College,WA,98092-3622,Auburn,14405.0,4141.0
+234845,Centralia College,WA,98531-4099,Centralia,14343.0,4542.0
+139621,East Georgia State College,GA,30401,Swainsboro,14319.0,3136.0
+234933,Clark College,WA,98663-3598,Vancouver,14284.0,3879.0
+493707,Yeshiva Gedolah of Woodlake Village,NJ,08701-0000,Lakewood,14272.0,8650.0
+192165,Kehilath Yakov Rabbinical Seminary,NY,10562,Ossining,14225.0,10000.0
+493594,Yeshiva of Ocean,NY,12435-5308,Greenfield Park,14200.0,7850.0
+375230,Yeshiva Gedolah Imrei Yosef D'spinka,NY,11219,Brooklyn,14200.0,9500.0
+234951,Clover Park Technical College,WA,98499-4004,Lakewood,14190.0,5740.0
+190646,CUNY Medgar Evers College,NY,11225,Brooklyn,14149.0,7352.0
+200873,Allegheny Wesleyan College,OH,44460-9598,Salem,14116.0,7000.0
+137096,Santa Fe College,FL,32606-6210,Gainesville,14091.0,2563.0
+444398,Baptist University of the Americas,TX,78224-1364,San Antonio,14070.0,6480.0
+201946,University of Cincinnati-Clermont College,OH,45103,Batavia,14038.0,5634.0
+235431,Highline College,WA,98198-9800,Des Moines,14021.0,4127.0
+136516,Polk State College,FL,33881-4299,Winter Haven,14000.0,3366.0
+227368,The University of Texas Rio Grande Valley,TX,78539-2999,Edinburg,13989.0,8132.0
+133508,Florida SouthWestern State College,FL,33919,Fort Myers,13958.0,3401.0
+105297,Dine College,AZ,86556,Tsaile,13887.0,1410.0
+238263,Madison Area Technical College,WI,53704-2599,Madison,13859.0,4482.0
+235699,Lake Washington Institute of Technology,WA,98034-8506,Kirkland,13846.0,4418.0
+151360,Indiana University-Northwest,IN,46408-1197,Gary,13845.0,7527.0
+218113,Greenville Technical College,SC,29606,Greenville,13822.0,4778.0
+190558,College of Staten Island CUNY,NY,10314,Staten Island,13817.0,7490.0
+199971,Carolina Christian College,NC,27105,Winston Salem,13785.0,8890.0
+442569,Grantham University,KS,66219,Lenexa,13714.0,8280.0
+230737,Utah Valley University,UT,84058-5999,Orem,13697.0,5820.0
+236382,Renton Technical College,WA,98056-4123,Renton,13691.0,5567.0
+236975,Wenatchee Valley College,WA,98801-1799,Wenatchee,13683.0,4188.0
+236188,Olympic College,WA,98337-1699,Bremerton,13646.0,3880.0
+182500,Truckee Meadows Community College,NV,89512-3999,Reno,13612.0,2766.0
+188058,Northern New Mexico College,NM,87532,Espanola,13585.0,4952.0
+124487,Epic Bible College,CA,95841,Sacramento,13535.0,9689.0
+380359,Bay Mills Community College,MI,49715,Brimley,13504.0,3320.0
+190600,CUNY John Jay College of Criminal Justice,NY,10019,New York,13396.0,7470.0
+190664,CUNY Queens College,NY,11367,Queens,13382.0,7538.0
+190567,CUNY City College,NY,10031,New York,13355.0,7340.0
+492069,Champion Christian College,AR,71913,Hot Springs,13340.0,7640.0
+485111,Georgia Military College,GA,31061,Milledgeville,13317.0,6525.0
+130907,Delaware Technical Community College-Terry,DE,19901,Dover,13295.0,4945.0
+190549,CUNY Brooklyn College,NY,11210,Brooklyn,13277.0,7440.0
+190637,CUNY Lehman College,NY,10468,Bronx,13245.0,7410.0
+226152,Texas A & M International University,TX,78041-1900,Laredo,13238.0,7348.0
+160630,Southern University at New Orleans,LA,70126,New Orleans,13201.0,7169.0
+190691,CUNY York College,NY,11451,Jamaica,13171.0,7358.0
+190655,CUNY New York City College of Technology,NY,11201,Brooklyn,13158.0,7320.0
+236258,Peninsula College,WA,98362,Port Angeles,13102.0,4126.0
+235334,Grays Harbor College,WA,98520-7599,Aberdeen,13016.0,4204.0
+190594,CUNY Hunter College,NY,10065,New York,13000.0,7382.0
+433387,Western Governors University,UT,84107,Salt Lake City,12970.0,6670.0
+137209,Seminole State College of Florida,FL,32773-6199,Sanford,12943.0,3131.0
+236072,North Seattle College,WA,98103-3599,Seattle,12903.0,4625.0
+200022,Bismarck State College,ND,58506-5587,Bismarck,12876.0,4160.0
+133386,Daytona State College,FL,32114,Daytona Beach,12836.0,3106.0
+129534,Holy Apostles College and Seminary,CT,06416-2005,Cromwell,12820.0,8720.0
+138558,Abraham Baldwin Agricultural College,GA,31793-2601,Tifton,12745.0,3565.0
+236753,Tacoma Community College,WA,98466-6100,Tacoma,12699.0,4419.0
+122375,San Diego Mesa College,CA,92111-4998,San Diego,12685.0,1144.0
+366340,Stone Child College,MT,59521-9796,Box Elder,12651.0,2645.0
+109350,Antelope Valley College,CA,93536-5426,Lancaster,12595.0,1124.0
+230597,Snow College,UT,84627,Ephraim,12586.0,3836.0
+236887,Walla Walla Community College,WA,99362-9267,Walla Walla,12579.0,4700.0
+457402,University of Fort Lauderdale,FL,33313,Lauderhill,12565.0,9315.0
+139463,Dalton State College,GA,30720-3797,Dalton,12512.0,3683.0
+102058,Selma University,AL,36701,Selma,12510.0,7280.0
+203447,Kent State University at Ashtabula,OH,44004,Ashtabula,12484.0,5999.0
+207564,Oklahoma State University Institute of Technology,OK,74447-3901,Okmulgee,12456.0,5550.0
+180647,Salish Kootenai College,MT,59855,Pablo,12426.0,4311.0
+109819,Bakersfield College,CA,93305-1299,Bakersfield,12415.0,1325.0
+236708,Spokane Falls Community College,WA,99224-5288,Spokane,12412.0,3634.0
+200554,United Tribes Technical College,ND,58504,Bismarck,12403.0,4252.0
+136233,Northwest Florida State College,FL,32578-1295,Niceville,12381.0,3133.0
+182005,College of Southern Nevada,NV,89146-1164,Las Vegas,12371.0,3652.0
+203474,Kent State University at Trumbull,OH,44483,Warren,12322.0,5999.0
+114716,Foothill College,CA,94022,Los Altos Hills,12303.0,1563.0
+451671,University of South Florida-Sarasota-Manatee,FL,34243-2049,Sarasota,12290.0,5587.0
+200466,Sitting Bull College,ND,58538-9721,Fort Yates,12278.0,4010.0
+203483,Kent State University at Tuscarawas,OH,44663-9403,New Philadelphia,12190.0,5999.0
+123563,Solano Community College,CA,94534-3197,Fairfield,12178.0,1163.0
+204820,Ohio University-Chillicothe Campus,OH,45601-0629,Chillicothe,12138.0,5674.0
+126711,Colorado Mountain College,CO,81601-0233,Glenwood Springs,12038.0,2220.0
+235750,Lower Columbia College,WA,98632,Longview,12028.0,3942.0
+181543,Summit Christian College,NE,69341,Gering,12018.0,7301.0
+137078,St Petersburg College,FL,33760-2822,Clearwater,12006.0,2682.0
+121886,Rio Hondo College,CA,90601-1616,Whittier,11985.0,1360.0
+222992,Austin Community College District,TX,78752,Austin,11981.0,2550.0
+204802,Ohio University-Eastern Campus,OH,43950,Saint Clairsville,11969.0,5674.0
+142522,Brigham Young University-Idaho,ID,83460-1690,Rexburg,11968.0,4208.0
+203492,Kent State University at Salem,OH,44460,Salem,11953.0,5999.0
+236692,Spokane Community College,WA,99217-5399,Spokane,11936.0,3634.0
+198507,Elizabeth City State University,NC,27909,Elizabeth City,11837.0,3260.0
+142559,College of Southern Idaho,ID,83301,Twin Falls,11830.0,3360.0
+203526,Kent State University at Geauga,OH,44021,Burton,11826.0,5999.0
+207397,Oklahoma State University-Oklahoma City,OK,73107-6195,Oklahoma City,11820.0,5034.0
+203456,Kent State University at East Liverpool,OH,43920,East Liverpool,11788.0,5999.0
+204848,Ohio University-Lancaster Campus,OH,43130-1037,Lancaster,11727.0,5674.0
+132851,College of Central Florida,FL,34474,Ocala,11657.0,2710.0
+461759,Simmons College of Kentucky,KY,40203-3322,Louisville,11641.0,6390.0
+204839,Ohio University-Southern Campus,OH,45638,Ironton,11604.0,5674.0
+457697,City Vision University,MO,64106-3028,Kansas City,11600.0,6000.0
+182306,Great Basin College,NV,89801,Elko,11537.0,3248.0
+236513,Seattle Central College,WA,98122,Seattle,11513.0,3779.0
+204866,Ohio University-Zanesville Campus,OH,43701,Zanesville,11499.0,5674.0
+137281,Saint Johns River State College,FL,32177,Palatka,11486.0,2830.0
+203465,Kent State University at Stark,OH,44720-7599,Canton,11462.0,5999.0
+226806,Midland College,TX,79705,Midland,11458.0,2670.0
+139700,Georgia Highlands College,GA,30161-3897,Rome,11409.0,3344.0
+135717,Miami Dade College,FL,33132-2204,Miami,11320.0,2838.0
+449658,Bais Medrash Toras Chesed,NJ,08701,Lakewood,11300.0,6900.0
+234696,Bellingham Technical College,WA,98225-1599,Bellingham,11280.0,3834.0
+113236,Cypress College,CA,90630-5897,Cypress,11261.0,1142.0
+122977,Santa Monica College,CA,90405-1628,Santa Monica,11212.0,1144.0
+121619,Santa Ana College,CA,92706-3398,Santa Ana,11161.0,1160.0
+490081,America Evangelical University,CA,90006-5860,Los Angeles,10915.0,5500.0
+123299,Shasta College,CA,96003,Redding,10903.0,1186.0
+138187,Valencia College,FL,32835,Orlando,10823.0,2474.0
+138901,Atlanta Metropolitan State College,GA,30310-4448,Atlanta,10716.0,3505.0
+201973,Clark State Community College,OH,45501-0570,Springfield,10708.0,3918.0
+136400,Pasco-Hernando State College,FL,34654-5199,New Port Richey,10676.0,3155.0
+187596,Navajo Technical University,NM,87313-0849,Crownpoint,10673.0,4070.0
+172200,Schoolcraft College,MI,48152-2696,Livonia,10621.0,4006.0
+176336,Southeastern Baptist College,MS,39440-9989,Laurel,10525.0,6025.0
+247834,Collin County Community College District,TX,75069,McKinney,10453.0,1624.0
+223506,Brazosport College,TX,77566,Lake Jackson,10428.0,2397.0
+388520,College of Biblical Studies-Houston,TX,77036-3211,Houston,10178.0,6946.0
+226134,Laredo College,TX,78040-4395,Laredo,10176.0,3300.0
+237686,West Virginia University at Parkersburg,WV,26104,Parkersburg,10029.0,3890.0
+137315,South Florida State College,FL,33825-9356,Avon Park,9879.0,3165.0
+170240,Henry Ford College,MI,48128-1495,Dearborn,9755.0,3208.0
+135188,Lake-Sumter State College,FL,34788-8751,Leesburg,9678.0,3232.0
+224961,Galveston College,TX,77550-7496,Galveston,9592.0,2050.0
+205470,Sinclair Community College,OH,45402-1460,Dayton,9580.0,2955.0
+132693,Eastern Florida State College,FL,32922,Cocoa,9520.0,2496.0
+168607,Alpena Community College,MI,49707,Alpena,9435.0,4650.0
+136145,North Florida College,FL,32340,Madison,9424.0,3054.0
+136358,Palm Beach State College,FL,33461-4796,Lake Worth,9372.0,2444.0
+135160,Florida Gateway College,FL,32025-2007,Lake City,9248.0,3100.0
+123509,Skyline College,CA,94066-1698,San Bruno,9201.0,1464.0
+155140,Haskell Indian Nations University,KS,66046-4800,Lawrence,9170.0,480.0
+133702,Florida State College at Jacksonville,FL,32202,Jacksonville,9133.0,2878.0
+118912,MiraCosta College,CA,92056-3899,Oceanside,9082.0,1152.0
+136473,Pensacola State College,FL,32504-8998,Pensacola,9082.0,2364.0
+197027,United States Merchant Marine Academy,NY,11024-1634,Kings Point,9075.0,1050.0
+133021,Chipola College,FL,32446-2053,Marianna,8978.0,3120.0
+134343,Gulf Coast State College,FL,32401,Panama City,8950.0,2370.0
+204422,North Central State College,OH,44901-0698,Mansfield,8775.0,5186.0
+449348,Huntsville Bible College,AL,35811-1632,Huntsville,8635.0,4560.0
+219277,Oglala Lakota College,SD,57752-0490,Kyle,8588.0,2684.0
+137759,Tallahassee Community College,FL,32304-2895,Tallahassee,8543.0,2026.0
+203748,Lorain County Community College,OH,44035-1691,Elyria,7900.0,3485.0
+409315,South Texas College,TX,78502-9701,McAllen,6912.0,4140.0
+134608,Indian River State College,FL,34981-5596,Fort Pierce,6525.0,2764.0
