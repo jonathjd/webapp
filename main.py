@@ -50,6 +50,9 @@ with image_column:
     st.image("https://cdn11.bigcommerce.com/s-jyvxk5hzsq/images/stencil/500x659/products/8329/46012/8759square__99323.1604697767.jpg?c=2")
 with text_column:
     st.header("College Cost Analysis")
+
+# --- Drop down to hide this specific project ---
+
     st.subheader("Description:")
     st.write(
         '''
