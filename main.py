@@ -73,9 +73,7 @@ df = pd.read_csv('https://raw.githubusercontent.com/jonathjd/webapp/main/cleaned
 df_display = pd.read_csv('https://raw.githubusercontent.com/jonathjd/webapp/main/web_app_data.csv')
 
 # Clean data
-df.drop(df[df.PREDDEG < 3].index, inplace=True)
 df = df.groupby(by='STABBR').median()
-df.drop(["GU", "PR"], inplace=True)
 
 
 # Create dictionary with data
