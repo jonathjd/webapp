@@ -1,6 +1,5 @@
 
 # Import libraries
-from turtle import left
 import streamlit as st
 import pandas as pd
 import plotly as py
@@ -54,7 +53,7 @@ with text_column:
     st.subheader("Description:")
     st.write(
         '''
-        The U.S. Department of Education provides the the most reliable data on college costs, graduation, and 
+        The U.S. Department of Education provides the most reliable data on college costs, graduation, and 
         post-graduation earnings. The purpose of the College Scorecard project is to increase transparancy and awareness
         on the true cost of higher education so that students and families can make informed decisions about college.
         Personally, I believe these data are very valuable and should be widely accessible, however the highly dimensional
@@ -70,15 +69,11 @@ with text_column:
 st.subheader("Median Cost of Attendance Map")
 
 #---Insert Plotly graph ---
-#df = pd.read_csv('https://raw.githubusercontent.com/jonathjd/webapp/main/web_app_data.csv')
-df = pd.read_csv('/Users/jonathjd/Documents/data_for_projects/education_project/cleaned_cost_data')
+df = pd.read_csv('https://raw.githubusercontent.com/jonathjd/webapp/main/cleaned_cost_data')
 df_display = pd.read_csv('https://raw.githubusercontent.com/jonathjd/webapp/main/web_app_data.csv')
 
-# Clean data
-df.drop(df[df.PREDDEG < 3].index, inplace=True)
+# Group data
 df = df.groupby(by='STABBR').median()
-df.drop(["GU", "PR"], inplace=True)
-
 
 # Create dictionary with data
 # This map will display median state income
