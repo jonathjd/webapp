@@ -72,11 +72,8 @@ with text_column:
 st.subheader("Median Cost of Attendance Map")
 
 #---Insert Plotly graph ---
-df = pd.read_csv('https://raw.githubusercontent.com/jonathjd/webapp/main/cleaned_cost_data')
-df_display = pd.read_csv('https://raw.githubusercontent.com/jonathjd/webapp/main/web_app_data.csv')
-
-# Group data
-df = df.groupby(by='STABBR').median()
+df = pd.read_csv('https://raw.githubusercontent.com/jonathjd/webapp/main/state_df.csv', index_col='STABBR')
+df_display = pd.read_csv('https://raw.githubusercontent.com/jonathjd/Education-Project/main/data/processed/web_app_data.csv')
 
 # Create dictionary with data
 # This map will display median state income
