@@ -50,10 +50,13 @@ with image_column:
     st.image("https://cdn11.bigcommerce.com/s-jyvxk5hzsq/images/stencil/500x659/products/8329/46012/8759square__99323.1604697767.jpg?c=2")
 with text_column:
     st.header("College Cost Analysis")
+
+# --- Drop down to hide this specific project ---
+
     st.subheader("Description:")
     st.write(
         '''
-        The U.S. Department of Education provides the the most reliable data on college costs, graduation, and 
+        The U.S. Department of Education provides the most reliable data on college costs, graduation, and 
         post-graduation earnings. The purpose of the College Scorecard project is to increase transparancy and awareness
         on the true cost of higher education so that students and families can make informed decisions about college.
         Personally, I believe these data are very valuable and should be widely accessible, however the highly dimensional
@@ -69,12 +72,8 @@ with text_column:
 st.subheader("Median Cost of Attendance Map")
 
 #---Insert Plotly graph ---
-df = pd.read_csv('https://raw.githubusercontent.com/jonathjd/webapp/main/cleaned_cost_data')
-df_display = pd.read_csv('https://raw.githubusercontent.com/jonathjd/webapp/main/web_app_data.csv')
-
-# Clean data
-df = df.groupby(by='STABBR').median()
-
+df = pd.read_csv('https://raw.githubusercontent.com/jonathjd/webapp/main/state_df.csv', index_col='STABBR')
+df_display = pd.read_csv('https://raw.githubusercontent.com/jonathjd/Education-Project/main/data/processed/web_app_data.csv')
 
 # Create dictionary with data
 # This map will display median state income
