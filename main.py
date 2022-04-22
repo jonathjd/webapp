@@ -81,8 +81,8 @@ with st.container():
         - The median cost of attendance for one year at a **junior college**  in the US is **$14000** USD.
         - The median cost of attendance for one year at a **primarily undergraduate instiution** in the is **$25000** USD.
         - The median cost of attendance for one year at an institution that **primarily awards graduate degrees** is **$29000** USD.
-        - On average, a first year Title IV student will spend $24000 more per year in total costs (Books, tuition, etc) to go to a private institution that primarily award graduate degrees (Such as Universtiy of Southern California) that a public institution that primarily awards bachelors degrees (such as Cental Washington University)
-        - **3 out of 4** schools in the U.S. that have an annual cost of attendance between **10000** and **20000** USD are public schools.
+        - On average, a first year Title IV student will spend **24000 USD** more per year in total costs (Books, tuition, etc) to go to a private institution that primarily award graduate degrees (Such as Universtiy of Southern California) that a public institution that primarily awards bachelors degrees (such as Cental Washington University)
+        - Just under **half** of the schools in the U.S. that have an annual cost of attendance between **20000** and **25000** USD are public schools.
         '''
         )
         st.subheader("Key Takeaways")
@@ -201,18 +201,78 @@ with st.container():
 
             # Description
             st.write('''
-            The following barplot shows the cost of attendance between 3 different tyoes of institutions:
+            The following barplot shows the cost of attendance between 3 different types of institutions:
             1. Public schools that mainly award **bachelors** degrees.
                 - An example of this would be Central Washington University. The majority of the degrees conferred each quarter are undergraduate degrees, as there are few graduate programs.
             2. Private non-profit schools that mainly award **graduate** degrees.
                 - An example would be the University of Southern California.
             3. Private for-profit schools that primarily award graduate degrees.
-            
-            We can see that private non-profit schools are clearly more expensive, on average, but if we want to take a deeper look we can use a **swarm plot**.
+            ''')
+            st.write('##')
+            st.write("We can see that private non-profit schools are clearly more expensive, on average, but if we want to take a deeper look we can use a **swarm plot**.")
+
+
+################################################ Divisor ########################################################
+        with st.container():
+            st.write("---")
+
+
+################################################ Swarm Plot #######################################################
+        # Make columns
+        ed_left_column4, ed_right_column4 = st.columns((2,2))
+
+        with ed_right_column4:
+
+            # swarmplot image
+            st.image('https://github.com/jonathjd/Education-Project/blob/main/reports/figures/swarm_plot.png?raw=true')
+
+        with ed_left_column4:
+
+            # header
+            st.subheader("Public vs. Private non-profit vs. Private for-profit")
+
+            # description
+            st.write('''
+            A swarm plot allows us to get a better idea of the distribution of points that are contributing to the average.
+
+            - The most expensive **public** university seems to be about as expensive as a private university in the 50th percentile (~45,000/yr).
+            - Theres more variance in the cost of attending a **private** university.
+            - There is an absolute **higher** number of private non-profit universities than both public and private for-profit universities.
+            ''')
+            st.write('##')
+            st.write("We can overlay the swarm plot onto a box and whisker plot to see minimum, lower quartile, median, upper quartile, and maximum.")
+        
+################################################ Divisor ########################################################
+        with st.container():
+            st.write("---")
+
+########################################### Swarm plot over Box plot ###################################################        
+        ed_left_column5, ed_right_column5 = st.columns((2,2))
+
+        with ed_left_column5:
+
+            # swarm and box plot
+            st.image('https://github.com/jonathjd/Education-Project/blob/main/reports/figures/swarm_plot_boxplot.png?raw=true')
+
+        with ed_right_column5:
+
+            # subheader
+            st.subheader("Swarm/Box Plot")
+
+            st.write('''
+            In an effort to be more precise:
+            - The two most expensive public universities in the U.S. are less expensive that just about half of the private universities in the U.S.
+            - These two universities are **The University of New Hampshire** and **The University Texas Houston Health Science**.
             ''')
 
 
-        #--- Display dataframe---
+############################################### University Dataframe #################################################
         with st.container():
+
+            #subheader
+            st.subheader("University DataFrame")
+            st.write("If you would like to see a specific attribute of any individual institution (such as in-state tuition, location, etc) please refer to the dataframe below!")
+
+            #--- Display dataframe---
             st.subheader("Institutional Data")
             st.write(df_display)
