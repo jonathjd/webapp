@@ -6,9 +6,10 @@ import plotly as py
 import plotly.graph_objects as go
 import plotly.express as px
 
-st.set_page_config(page_title="My Webpage", page_icon=":tada:", layout="wide")
+st.set_page_config(page_title="Jon's Portfolio", page_icon=":tada:", layout="wide")
 
-# --- Header Section ---
+
+##################################### Header Section *******************************************************************
 with st.container():
     st.subheader("Hi, my name is Jonathan Dickinson :wave:")
     st.title("An aspiring data professional from California")
@@ -41,7 +42,7 @@ with st.container():
         st.markdown("![Alt Text](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)")
 
 
-# --- Projects ---
+########################################### Projects ########################################################################
 with st.container():
     st.write("---")
     st.header("My Projects")
@@ -56,7 +57,7 @@ with st.container():
         with text_column:
             st.header("College Cost Analysis")
 
-# --------------------------------- Description of project -------------------------------
+############################################## College Cost Project q#############################################################
 
             st.subheader("Description:")
             st.write(
@@ -65,13 +66,9 @@ with st.container():
             post-graduation earnings. The purpose of the College Scorecard project is to increase transparancy and awareness
             on the true cost of higher education so that students and families can make informed decisions about college.
             Personally, I believe these data are very valuable and should be widely accessible, however the highly dimensional
-            nature of the dataset is not very userfriendly. My goal is to help make this dataset more accessible to those looking
+            nature of the dataset is not very user friendly. My goal is to help make this dataset more accessible to those looking
             to continue their education in postsecondary education.
 
-            If you would like to look further into the data documentation, or how this analysis was conducted, click the
-            link to my GitHub at the top of the web page.
-
-            These visualizations will be continually updated as the analysis progresses.
             '''
             )
 
@@ -81,17 +78,18 @@ with st.container():
         st.header("Quick insights")
         st.write(
         '''
-        - The cost of a attendance for one year at a **junior college**  in the US is **$14000** USD.
-        - The cost of a attendance for one year at a **primarily undergraduate institution** in the is **$25000** USD.
-        - The cost of a attendance for one year at an institution that **primarily awards graduate degrees** is **$29000** USD.
-        - Institutions that are private, primarily award graduate degrees (masters, doctorates), and are located in the northeast U.S. are the most expensive on average.
-        - More than a quarter of all the schools in the U.S. that have an annual cost between **10000** and **20000** USD are located in the **southeast region** (AL, AR, FL, GA, KY, LA, MS, SC, TN, VA, WV).
+        - The median cost of attendance for one year at a **junior college**  in the US is **$14000** USD.
+        - The median cost of attendance for one year at a **primarily undergraduate instiution** in the is **$25000** USD.
+        - The median cost of attendance for one year at an institution that **primarily awards graduate degrees** is **$29000** USD.
+        - On average, a first year Title IV student will spend $24000 more per year in total costs (Books, tuition, etc) to go to a private institution that primarily award graduate degrees (Such as Universtiy of Southern California) that a public institution that primarily awards bachelors degrees (such as Cental Washington University)
         - **3 out of 4** schools in the U.S. that have an annual cost of attendance between **10000** and **20000** USD are public schools.
         '''
         )
         st.subheader("Key Takeaways")
         st.write('''
-        To minimze the cost of attending a 4-year institution in the U.S., attend a public university that is located in the southeast U.S.
+        To minimze the cost of attending a 4-year institution in the U.S., attend a public university that primarily awards Bachelors
+        degrees.
+
         This analysis did not factor in future earnings, for those data checkout Georgetown Universities interactive web tool. 
         ''')
         st.write("[Georgetown Interactive Web Tool>](https://cew.georgetown.edu/cew-reports/college-rankings/)")
@@ -102,11 +100,24 @@ with st.container():
         df = pd.read_csv('https://raw.githubusercontent.com/jonathjd/webapp/main/state_df.csv', index_col='STABBR')
         df_display = pd.read_csv('https://raw.githubusercontent.com/jonathjd/Education-Project/main/data/processed/web_app_data.csv')
         
-        # U.S. Histogram
+        # Aggregate visualization subheader
         with st.container():
-            st.subheader("Cost of Attendance Histogram")
+            st.subheader("Aggregate Visualizations")
+            st.write('''
+            First, we will look at some aggregate visualizations of the cost of attending post-secondary school in the U.S.
 
-            #Plotly figure object
+            A quick note about this metric- The cost of attendance incorporates the annual average cost of tuition, fees, books, supplies, and living expenses for a full time, first-time, degree-seeking undergraduate who
+            recieves title IV aid.
+            ''')
+
+            st.write("---")
+
+        # create columns for plotly histogram
+        ed_left_column1, ed_right_column1 = st.columns((2,2))
+
+################################### Plotly  Histogram ############################################################
+        with ed_left_column1:
+            # insert plotly histogram
             fig = px.histogram(df_display, x="Cost of Attendance",
                 labels ={
                 "count": "Number of Universities"
@@ -116,45 +127,92 @@ with st.container():
             
             st.plotly_chart(fig, use_container_width=True)
 
-        # ------------------------------------- Plotly Map -------------------------------------------------------------
+################################### Histogram Description ############################################################
+        with ed_right_column1:
+            # Header
+            st.subheader("Histogram of the U.S. annual cost of attendance")
 
+            st.write('''
+            As we can see from the histogram to the left, this dataset is positively skewed to the right. What this means is that
+            there are more universities that have an annual cost of attendance that is **higher** than the national average. As we will
+            see in a bit, many of the universities on the right side of the graph (the more expensive universities) are either private,
+            or primarily award **graduate** degrees.
+            ''')
 
-        st.subheader("Median Cost of Attendance Map")
+            st.markdown("Next, let's see where these expensive universities are primarily located using a US map.")
 
-        #---Insert Plotly graph ---
-        # Create dictionary with data
-        # This map will display median state income
-        data = dict(type='choropleth',
-                locations = df.index,
-                locationmode='USA-states',
-                z=df['COSTT4_A'],
-                colorscale="Reds",
-                colorbar_title="USD"
-                )
-
-        # configure layout
-        layout = dict(geo=dict(
-            scope='usa',
-            showlakes=True,
-            lakecolor="rgb(85,173,240)")
-                )
-
-    #---Display Plotly Graph--
+################################################ Divisor ########################################################
         with st.container():
+            st.write("---")
+        
+######################################## Plotly Chloropleth map ################################################
+        # Define columns
+        ed_left_column2, ed_right_column2 = st.columns((2,2))
+
+        with ed_right_column2:
+            # Chloropleth map data
+            # Create dictionary with data
+            # This map will display median state income
+            data = dict(type='choropleth',
+                    locations = df.index,
+                    locationmode='USA-states',
+                    z=df['COSTT4_A'],
+                    colorscale="Reds",
+                    colorbar_title="USD"
+                    )
+
+            # configure layout
+            layout = dict(geo=dict(
+                scope='usa',
+                showlakes=True,
+                lakecolor="rgb(85,173,240)")
+                    )
+
+            #---Display Plotly Graph--
             fig = go.Figure(data=[data], layout=layout)
             st.plotly_chart(fig, use_container_width=True)
+
+######################################## Chloropleth map description ###############################################
+        with ed_left_column2:
+            # Chloropleth map header
+            st.subheader("Median Cost of Attendance Map")
             st.write('''
-                The figure above is an interative map that allows you to hover over the state of interest and observe the median
-                value of the average cost of attendance for each state. The The average annual total cost of attendance, including 
-                tuition and fees, books and supplies, and living expenses, minus the average grant/scholarship aid, by detailed income category. 
-                It is calculated for all full-time, first-time, degree/certificate-seeking undergraduates who receive Title IV aid.
-                
-                The median value of the average cost of attendance for every institution that primarily awards either graduate
-                or bachelors degree is shown.
+                The figure to the right is an interative map that allows you to hover over the state of interest and observe the median
+                value of the average cost of attendance for each state. We are using the **median** and not the **average** because the data
+                is positively skewed (to the right). The median will give us a more robust estimate of the central value.
                 ''')
+
+################################################ Divisor ########################################################
+        with st.container():
+            st.write("---")
+        
+############################################ Control box plot ###################################################        
+        ed_left_column3, ed_right_column3 = st.columns((2,2))
+        
+        with ed_left_column3:
+
+            # Display control bar plot
+            st.image('https://github.com/jonathjd/Education-Project/blob/main/reports/figures/control_barplot.png?raw=true')
+    
+        with ed_right_column3:
+
+            # Subheader
+            st.subheader("Private vs. Public Barplot")
+
+            # Description
+            st.write('''
+            The following barplot shows the cost of attendance between 3 different tyoes of institutions:
+            1. Public schools that mainly award **bachelors** degrees.
+                - An example of this would be Central Washington University. The majority of the degrees conferred each quarter are undergraduate degrees, as there are few graduate programs.
+            2. Private non-profit schools that mainly award **graduate** degrees.
+                - An example would be the University of Southern California.
+            3. Private for-profit schools that primarily award graduate degrees.
+            
+            We can see that private non-profit schools are clearly more expensive, on average, but if we want to take a deeper look we can use a **swarm plot**.
+            ''')
+
 
         #--- Display dataframe---
         with st.container():
             st.subheader("Institutional Data")
             st.write(df_display)
-        
