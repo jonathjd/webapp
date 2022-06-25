@@ -32,7 +32,7 @@ with st.container():
             simply some clever thinking.
 
             A couple more interesting tid bits about myself:
-            - I enjoy reading (Currently reading Ageless: The new science of getting older without getting old)
+            - I enjoy reading (Currently reading Jobs (Steve Jobs' documentary))
             - I competed in track and field for 4 years at UC Irvine (Go Eaters!)
             - I take my coffee black with 1 sugar.
             """
